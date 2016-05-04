@@ -1,0 +1,56 @@
+[
+  {
+    "month": "May",
+    "date": "4",
+    "number": 1,
+    "weekend": false,
+    "title": "Metafont",
+    "sum": "When I watched the first season of HBO's Silicon Valley in 2014, I thought it was OK, but not amazing. Yet I kept thinking about the show and talking to friends about it. That's when I realized—Silicon Valley isn't a perfect satire, but that doesn't matter. It's the satire we need in our tech-obsessed world. Hunger is the best seasoning, and when it came to tech satire, I was a starving man.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "paper",
+            "em": true,
+            "title": "Responsive Typography is a Physical Discipline, But Your Computer Doesn’t Know It (Yet)",
+            "href": "https://www.readability.com/articles/ikhpgbc3",
+            "description": "For ideal typography, web designers need to know as much as possible about each user’s reading environment. That may seem obvious, but the act of specifying web typography is currently like…"
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "research",
+            "category": "book",
+            "em": false,
+            "title": "Responsive Typography is a Physical Discipline, But Your Computer Doesn’t Know It (Yet)",
+            "href": "https://www.readability.com/articles/ikhpgbc3",
+            "description": "For ideal typography, web designers need to know as much as possible about each user’s reading environment. That may seem obvious, but the act of specifying web typography is currently like…"
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "2.1.1",
+            "type": "quote",
+            "category": "book",
+            "quote": "The web is by and large a more colorful medium than the printed page. Color is cheaper on the web. Color can be ornamental, can help to establish a visual identity, and can have practical value (red might draw attention to important information). But color poses difficulties to accessibility as well.",
+            "author": {
+              "name": "John Allsopp",
+              "href": ""
+            },
+            "cite": {
+              "title": "A Dao of Web Design",
+              "href": ""
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

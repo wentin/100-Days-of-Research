@@ -1,31 +1,22 @@
 [
   {
-    "month": "April",
-    "date": "29",
+    "month": "May",
+    "date": "4",
     "number": 1,
     "weekend": false,
     "title": "Metafont",
-    "sum": "When I watched the first season of HBO's Silicon Valley in 2014, I thought it was OK, but not amazing. Yet I kept thinking about the show and talking to friends about it. That's when I realized—Silicon Valley isn't a perfect satire, but that doesn't matter. It's the satire we need in our tech-obsessed world. Hunger is the best seasoning, and when it came to tech satire, I was a starving man.",
+    "sum": "?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?\n\nMetafont was created almost 30 years ago. It is by no means a new finding. I was researching on parametric type design, and metafont is just exactly what I was looking for. Maybe it is another living proof of the saying “There is nothing new under the sun”. But the new is always born from the old. Soon after I started digging metafont, I found out about Metapolator, and Prototype. These tools are being actively worked on. When I look into it, the latest update could be as late as just 2 days ago. This excites me.",
     "levels": [
       {
         "links": [
           {
             "number": "1",
-            "type": "research",
-            "category": "paper",
-            "em": true,
-            "title": "Responsive Typography is a Physical Discipline, But Your Computer Doesn’t Know It (Yet)",
-            "href": "https://www.readability.com/articles/ikhpgbc3",
-            "description": "For ideal typography, web designers need to know as much as possible about each user’s reading environment. That may seem obvious, but the act of specifying web typography is currently like…"
-          },
-          {
-            "number": "2",
             "type": "tech",
             "category": "article",
-            "em": false,
-            "title": "Responsive Typography is a Physical Discipline, But Your Computer Doesn’t Know It (Yet)",
-            "href": "https://www.readability.com/articles/ikhpgbc3",
-            "description": "For ideal typography, web designers need to know as much as possible about each user’s reading environment. That may seem obvious, but the act of specifying web typography is currently like…"
+            "em": true,
+            "title": "A Note on The Type",
+            "href": "http://www.servinglibrary.org/journal/1/a-note-on-the-type",
+            "description": "PEN = 0, 1, 1, 0, WEIGHT = 100, SLANT = 0, SUPERNESS = 0.75, CURLYNESS = 0:\nThis is Meta-the-difference-between-the-two-Font, a typeface designed by Dexter Sinister in 2010, and derived using MetaFont, the now-thirty-year-old computer typography system programmed by Donald Knuth in 1979."
           }
         ]
       },
@@ -33,183 +24,145 @@
         "links": [
           {
             "number": "1.1",
-            "type": "research",
-            "category": "book",
+            "type": "tech",
+            "category": "video",
             "em": false,
-            "title": "Responsive Typography is a Physical Discipline, But Your Computer Doesn’t Know It (Yet)",
-            "href": "https://www.readability.com/articles/ikhpgbc3",
-            "description": "For ideal typography, web designers need to know as much as possible about each user’s reading environment. That may seem obvious, but the act of specifying web typography is currently like…"
+            "title": "David Reinfurt: \"Mathematical Typography\"",
+            "href": "https://www.youtube.com/watch?v=koc5MDoGW8U",
+            "description": "Simplicity: Ideals of Practice in Mathematics & the Arts\nGraduate Center, City University of New York, April 3-5, 2013"
           },
           {
-            "number": "2.1",
-            "type": "tech",
+            "number": "1.2",
+            "type": "research",
             "category": "article",
+            "em": false,
+            "title": "Letter & Spirit",
+            "href": "http://www.servinglibrary.org/journal/3/letter-and-spirit",
+            "description": "In the early 1980s, on the pages of academic design journal Visible Language, a classic thesis-antithesis-synthesis played out around the technological and philosophical fine points of computer-assisted type design. Stanford professor Donald Knuth begins with his article, “The Concept of a Meta-font” (Winter 1981). Two years prior, Knuth had conceived and programmed MetaFont — a software that enabled users to generate unlimited numbers of fonts by controlling a limited set of parameters. The article is a performative account of his intervening attempts, using MetaFont to harness the essential “intelligence” of letterforms."
+          },
+          {
+            "number": "1.3",
+            "type": "research",
+            "category": "video",
             "em": true,
-            "title": "Responsive Typography is a Physical Discipline, But Your Computer Doesn’t Know It (Yet)",
-            "href": "https://www.readability.com/articles/ikhpgbc3",
-            "description": "For ideal typography, web designers need to know as much as possible about each user’s reading environment. That may seem obvious, but the act of specifying web typography is currently like…"
+            "title": "Working on My Letters and Problems With the S",
+            "href": "http://www.webofstories.com/play/donald.knuth/55;jsessionid=1653AC9976D7AB2D3093F25FEC16545B",
+            "description": ""
           }
         ]
       },
       {
         "links": [
           {
-            "number": "2.1.1",
-            "type": "quote",
-            "category": "book",
-            "quote": "The web is by and large a more colorful medium than the printed page. Color is cheaper on the web. Color can be ornamental, can help to establish a visual identity, and can have practical value (red might draw attention to important information). But color poses difficulties to accessibility as well.",
-            "author": {
-              "name": "John Allsopp",
-              "href": ""
-            },
-            "cite": {
-              "title": "A Dao of Web Design",
-              "href": ""
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "month": "April",
-    "date": "30",
-    "number": 2,
-    "weekend": true,
-    "title": "Metafont",
-    "sum": "When I watched the first season of HBO's Silicon Valley in 2014, I thought it was OK, but not amazing. Yet I kept thinking about the show and talking to friends about it. That's when I realized—Silicon Valley isn't a perfect satire, but that doesn't matter. It's the satire we need in our tech-obsessed world. Hunger is the best seasoning, and when it came to tech satire, I was a starving man.",
-    "levels": [
-      {
-        "links": [
-          {
-            "number": "1",
+            "number": "1.2.1",
             "type": "research",
-            "category": "article",
-            "em": true,
-            "title": "Responsive Typography is a Physical Discipline, But Your Computer Doesn’t Know It (Yet)",
-            "href": "https://www.readability.com/articles/ikhpgbc3",
-            "description": "For ideal typography, web designers need to know as much as possible about each user’s reading environment. That may seem obvious, but the act of specifying web typography is currently like…"
+            "category": "video",
+            "em": false,
+            "title": "Meta the Difference Between the Two Font 4D",
+            "href": "http://www.kadist.org/en/work/meta-difference-between-two-font-4-d",
+            "description": "2012, 16:06 minutes"
           },
           {
-            "number": "2",
-            "type": "tech",
+            "number": "1.3.1",
+            "type": "research",
             "category": "paper",
             "em": false,
-            "title": "Responsive Typography is a Physical Discipline, But Your Computer Doesn’t Know It (Yet)",
-            "href": "https://www.readability.com/articles/ikhpgbc3",
-            "description": "For ideal typography, web designers need to know as much as possible about each user’s reading environment. That may seem obvious, but the act of specifying web typography is currently like…"
+            "title": "The letter S",
+            "href": "http://rd.springer.com/article/10.1007%2FBF03023051#page-1",
+            "description": "Several years ago when I began to look at the problem of designing suitable alphabets for use with modern printing equipment, I found that 25 of the letters were comparatively easy to deal with. The other letter was 'S'. For three days and nights I had a terrible time trying to understand how a proper 'S' could really be defined. The solution I finally came up with turned out to involve some interesting mathematics, and I believe that students of calculus and analytic geometry may enjoy looking into the question as I did. The purpose of this paper is to explain what I now consider to be the 'right' mathematics underlying printed S's, and also to give an example of the METAFONT language I have recently been developing. (A\ncomplete description of M~'TAFONT, which is a computer system and language intended to aid in the design of letter shapes, appears in [3, part 3]."
+          },
+          {
+            "number": "1.3.2",
+            "type": "research",
+            "category": "wiki",
+            "em": false,
+            "title": "Computer Modern",
+            "href": "http://rd.springer.com/article/10.1007%2FBF03023051#page-1",
+            "description": "Computer Modern is the original family of typefaces used by the typesetting program TeX. It was created by Donald Knuth with his Metafont program, and was most recently updated in 1992.[1] Computer Modern, or variants of it, remains very widely used in scientific publishing, especially in disciplines that make frequent use of mathematical notation."
           }
         ]
       },
       {
         "links": [
           {
-            "number": "1.1",
-            "type": "research",
+            "number": "1.3.2.1",
+            "type": "tech",
+            "category": "book",
+            "em": true,
+            "title": "The Metafont Book",
+            "href": "http://www.kadist.org/en/work/meta-difference-between-two-font-4-d",
+            "description": "METAFONT is a system for the design of symbols and alphabetic characters suited to raster-based devices that print or display text. The construction of a typeface is an art form and this manual is written for people who wish to advance the quality of mathematical typesetting. The METAFONTbook enables readers, with only minimal computer science or word processing experience, to master the basic as well as the more advanced features of METAFONT programming. With this manual, readers will learn how to write a program using METAFONT that can customize a type design that already exists, create an entire alphabet from scratch, and create logos or special symbols."
+          },
+          {
+            "number": "1.3.2.2",
+            "type": "tech",
             "category": "book",
             "em": false,
-            "title": "Responsive Typography is a Physical Discipline, But Your Computer Doesn’t Know It (Yet)",
-            "href": "https://www.readability.com/articles/ikhpgbc3",
-            "description": "For ideal typography, web designers need to know as much as possible about each user’s reading environment. That may seem obvious, but the act of specifying web typography is currently like…"
-          },
-          {
-            "number": "2.1",
-            "type": "tech",
-            "category": "article",
-            "em": true,
-            "title": "Responsive Typography is a Physical Discipline, But Your Computer Doesn’t Know It (Yet)",
-            "href": "https://www.readability.com/articles/ikhpgbc3",
-            "description": "For ideal typography, web designers need to know as much as possible about each user’s reading environment. That may seem obvious, but the act of specifying web typography is currently like…"
+            "title": "Digital Typography",
+            "href": "http://www.amazon.com/Digital-Typography-Lecture-Notes-Donald/dp/1575860104",
+            "description": "In this collection, the second in the series, Knuth explores the relationship between computers and typography. The present volume, in the words of the author, is a legacy to all the work he has done on typography. When he thought he would take a few years' leave from his main work on the art of computer programming, as is well known, the short typographic detour lasted more than a decade. When type designers, punch cutters, typographers, book historians, and scholars visited the University during this period, it gave to Stanford what some consider to be its golden age of digital typography. By the author's own admission, the present work is one of the most difficult books that he has prepared. This is truly a work that only Knuth himself could have produced."
           }
         ]
       },
       {
         "links": [
           {
-            "number": "2.1.1",
-            "type": "quote",
-            "category": "article",
-            "quote": "The web is by and large a more colorful medium than the printed page. Color is cheaper on the web. Color can be ornamental, can help to establish a visual identity, and can have practical value (red might draw attention to important information). But color poses difficulties to accessibility as well.",
-            "author": {
-              "name": "John Allsopp",
-              "href": ""
-            },
-            "cite": {
-              "title": "A Dao of Web Design",
-              "href": ""
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "month": "April",
-    "date": "30",
-    "number": 3,
-    "weekend": true,
-    "title": "Metafont",
-    "sum": "When I watched the first season of HBO's Silicon Valley in 2014, I thought it was OK, but not amazing. Yet I kept thinking about the show and talking to friends about it. That's when I realized—Silicon Valley isn't a perfect satire, but that doesn't matter. It's the satire we need in our tech-obsessed world. Hunger is the best seasoning, and when it came to tech satire, I was a starving man.",
-    "levels": [
-      {
-        "links": [
-          {
-            "number": "1",
-            "type": "research",
-            "category": "article",
-            "em": true,
-            "title": "Responsive Typography is a Physical Discipline, But Your Computer Doesn’t Know It (Yet)",
-            "href": "https://www.readability.com/articles/ikhpgbc3",
-            "description": "For ideal typography, web designers need to know as much as possible about each user’s reading environment. That may seem obvious, but the act of specifying web typography is currently like…"
-          },
-          {
-            "number": "2",
+            "number": "1.3.2.1.1",
             "type": "tech",
-            "category": "paper",
+            "category": "software",
             "em": false,
-            "title": "Responsive Typography is a Physical Discipline, But Your Computer Doesn’t Know It (Yet)",
-            "href": "https://www.readability.com/articles/ikhpgbc3",
-            "description": "For ideal typography, web designers need to know as much as possible about each user’s reading environment. That may seem obvious, but the act of specifying web typography is currently like…"
-          }
-        ]
-      },
-      {
-        "links": [
-          {
-            "number": "1.1",
-            "type": "research",
-            "category": "book",
-            "em": false,
-            "title": "Responsive Typography is a Physical Discipline, But Your Computer Doesn’t Know It (Yet)",
-            "href": "https://www.readability.com/articles/ikhpgbc3",
-            "description": "For ideal typography, web designers need to know as much as possible about each user’s reading environment. That may seem obvious, but the act of specifying web typography is currently like…"
+            "title": "Metapolator",
+            "href": "http://metapolator.com/home/",
+            "description": "Metapolator is an open web tool for making many fonts. It supports working in a font design space, instead of one glyph, one face, at a time. With Metapolator, ‘pro’ font designers are able to create and edit fonts and font families much faster, with inherent consistency. They gain unique exploration possibilities and the tools to quickly adapt typefaces to different media and domains of use."
           },
           {
-            "number": "2.1",
+            "number": "1.3.2.1.2",
             "type": "tech",
-            "category": "article",
+            "category": "software",
             "em": true,
-            "title": "Responsive Typography is a Physical Discipline, But Your Computer Doesn’t Know It (Yet)",
-            "href": "https://www.readability.com/articles/ikhpgbc3",
-            "description": "For ideal typography, web designers need to know as much as possible about each user’s reading environment. That may seem obvious, but the act of specifying web typography is currently like…"
+            "title": "Prototypo",
+            "href": "https://www.prototypo.io/",
+            "description": "Prototypo is a user-friendly parameter-based font generator being built by a team of fiery font and code lovers. You can learn more about the project on its home page or contact us at contact@prototypo.io."
+          },
+          {
+            "number": "1.3.2.1.3",
+            "type": "tech",
+            "category": "software",
+            "em": false,
+            "title": "Font Ark",
+            "href": "http://fontark.net/farkwp/",
+            "description": "FontArk is an innovative browser-based font editor, font creator (BETA), featuring the most versatile real-time multiple glyph editing system."
           }
         ]
       },
       {
         "links": [
           {
-            "number": "2.1.1",
-            "type": "quote",
-            "category": "article",
-            "quote": "The web is by and large a more colorful medium than the printed page. Color is cheaper on the web. Color can be ornamental, can help to establish a visual identity, and can have practical value (red might draw attention to important information). But color poses difficulties to accessibility as well.",
-            "author": {
-              "name": "John Allsopp",
-              "href": ""
-            },
-            "cite": {
-              "title": "A Dao of Web Design",
-              "href": ""
-            }
+            "number": "1.3.2.1.1.1",
+            "type": "tech",
+            "category": "",
+            "em": false,
+            "title": "Metapolator Community",
+            "href": "https://plus.google.com/communities/110027004108709154749",
+            "description": "Metapolator project discussions on Google+"
+          },
+          {
+            "number": "1.3.2.1.1.2",
+            "type": "tech",
+            "category": "",
+            "em": false,
+            "title": "Metapolator Tumblr Blog",
+            "href": "http://metapolator.tumblr.com/",
+            "description": ""
+          },
+          {
+            "number": "1.3.2.1.2.1",
+            "type": "tech",
+            "category": "video",
+            "em": false,
+            "title": "Prototypo Release Video",
+            "href": "https://www.youtube.com/watch?v=ueELKlfskuo",
+            "description": ""
           }
         ]
       }
