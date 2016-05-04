@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>100 Day of Research</title>
+    <title>100 Days of Research</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="https://use.typekit.net/sei2lyk.js"></script>
     <script>
@@ -30,24 +30,10 @@
             <div class="swatch" id="swatch4"></div>
         </div>
         <label class="zoom">ZOOM
-            <input type="range" value="1" min="0.4" max="1" step="0.02" ng-model="zoom" ng-change="updateZoom()"> <span>{{zoom}}</span>
+            <input type="range" value="1" min="0.5" max="1" step="0.02" ng-model="zoom" ng-change="updateZoom()"> <span>{{zoom}}</span>
         </label>
     </header>
-    <nav>
-        <a href="#/" class="logo">100 DAY OF RESEARCH</a>
-        <ul>
-            <li><a href="#/">DAYS</a>
-                <ul>
-                    <li ng-repeat="dayData in data"><a ng-href="#/day/{{dayData.number}}">DAY {{dayData.number}}, {{dayData.month}} {{dayData.date}}</a></li>
-                </ul>
-            </li>
-            <li><a href="#/about">ABOUT</a></li>
-            <li><a href="#">SHARE</a></li>
-            <li><a href="#">SUBSCRIBE</a></li>
-            <li><a href="#">CREATE YOUR OWN</a></li>
-        </ul>
-    </nav>
-    <div ng-view></div>
+    <div ng-view style="zoom:{{zoom}}"></div>
     <script src='//cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.2/angular.min.js'></script>
     <script src='//ajax.googleapis.com/ajax/libs/angularjs/1.5.2/angular-cookies.js'></script>
     <script src='//ajax.googleapis.com/ajax/libs/angularjs/1.5.2/angular-route.js'></script>

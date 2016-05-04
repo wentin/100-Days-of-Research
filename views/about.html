@@ -1,3 +1,16 @@
-
-    <a href="https://typekit.com/colophons/sei2lyk" target="_blank">Colophon</a>
-      about page.
+<nav>
+    <a href="#/" class="logo">100 DAYS OF RESEARCH</a>
+    <ul>
+        <li><a href="#/" class="active">DAYS</a>
+            <ul>
+                <li ng-repeat="dayData in data"><a ng-href="#/day/{{dayData.number}}">DAY {{dayData.number}}, {{dayData.month}} {{dayData.date}}</a></li>
+            </ul>
+        </li>
+        <li><a href="#/about">ABOUT</a></li>
+        <li><a href="#">CREATE YOUR OWN</a></li>
+        <li><a href="#">SUBSCRIBE</a></li>
+        <li><a href="#">SHARE</a></li>
+    </ul>
+</nav>
+<a href="https://typekit.com/colophons/sei2lyk" target="_blank">Colophon</a>
+<p>about page.</p>

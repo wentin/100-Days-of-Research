@@ -13,6 +13,7 @@ app.controller("MainCtrl", ['$scope', '$cookies', '$http', '$route', '$routePara
 
   $scope.zoom = 1;
   
+
   var now = new window.Date(),
       exp = new window.Date(now.getFullYear(), now.getMonth()+6, now.getDate());
   $scope.updateZoom = function() {
@@ -58,7 +59,7 @@ app.controller("MainCtrl", ['$scope', '$cookies', '$http', '$route', '$routePara
   }
 }]);
 
-app.controller('DayController', function($scope, $routeParams, $location) {
+app.controller('DayController', function($scope, $routeParams) {
   $scope.params = $routeParams;
   var dayId = $routeParams.dayId;
   if (dayId == 1) {
@@ -68,7 +69,8 @@ app.controller('DayController', function($scope, $routeParams, $location) {
   }
   $scope.nextDay = parseInt(dayId) + 1; 
   
-  jq("body").keydown(function(e) {
+  jq("body").unbind('keydown').keydown(function(e) {
+    e.preventDefault();
 		if(e.keyCode == 37) {
 			if (jq('.prev')[0]) {
 				jq('.prev')[0].click();
@@ -80,6 +82,7 @@ app.controller('DayController', function($scope, $routeParams, $location) {
 			}
 		}
 	});
+
 })
 
 app.controller('UserController', function($scope, $routeParams, $http) {
@@ -94,6 +97,7 @@ app.controller('UserController', function($scope, $routeParams, $http) {
 
 app.controller('HomeController', function($scope, $routeParams) {
    $scope.params = $routeParams;
+   jq("body").unbind('keydown');
 })
 
 app.config(function($routeProvider, $locationProvider){

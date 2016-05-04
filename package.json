@@ -1,0 +1,10 @@
+{
+  "name": "jshawl.com",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-autoprefixer": "~0.2.20130806",
+    "grunt-contrib-sass": "~0.3.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}

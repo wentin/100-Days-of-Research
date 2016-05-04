@@ -7,9 +7,12 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-kerning: normal;
+     -moz-font-kerning: normal;
           font-kerning: normal;
   -webkit-font-variant-ligatures: common-ligatures contextual;
+     -moz-font-variant-ligatures: common-ligatures contextual;
           font-variant-ligatures: common-ligatures contextual;
+  -moz-font-feature-settings: "kern", "liga", "clig", "dlig", "calt";
   -ms-font-feature-settings: "kern", "liga", "clig", "dlig", "alt";
   -webkit-font-feature-settings: "kern", "liga", "clig", "dlig", "calt";
   font-feature-settings: "kern", "liga", "clig", "dlig", "calt";
@@ -112,7 +115,7 @@ header .color .swatch {
   border-style: solid;
   border-width: 14px;
   -webkit-transition: border-width 0.2s ease;
-  transition: border-width 0.2s ease;
+          transition: border-width 0.2s ease;
 }
 header .color .swatch:hover, header .color .swatch.selected {
   cursor: pointer;
@@ -153,7 +156,7 @@ header .zoom span {
 
 nav {
   margin-top: 100px;
-  margin-left: 300px;
+  margin-left: 280px;
 }
 nav a.logo {
   font-family: "acumin-pro-wide", sans-serif;
@@ -161,7 +164,7 @@ nav a.logo {
   font-size: 24px;
   color: #717475;
   letter-spacing: -1px;
-  width: 150px;
+  width: 170px;
   text-align: right;
   display: inline-block;
 }
@@ -169,7 +172,7 @@ nav ul {
   display: inline-block;
   position: relative;
   margin-left: 132px;
-  top: 6px;
+  top: 4px;
 }
 nav ul li {
   float: left;
@@ -430,3 +433,5 @@ nav ul li ul li {
   -webkit-transform-origin: left top;
           transform-origin: left top;
 }
+
+/*# sourceMappingURL=style.css.map */

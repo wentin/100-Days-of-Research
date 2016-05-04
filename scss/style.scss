@@ -11,6 +11,7 @@ $acumin: "acumin-pro-wide",sans-serif;
 $bodoni: "bodoni-urw",serif;
 
 body {
+  // transform: rotate(45deg);
   font-family: $caslon;
   color: $dark;
   display: inline-block;
@@ -163,14 +164,14 @@ header {
 }
 nav {
   margin-top: 100px;
-  margin-left: 300px;
+  margin-left: 280px;
   a.logo {
     font-family: $acumin;
     font-weight: 800;
     font-size: 24px;
     color: $dark;
     letter-spacing: -1px;
-    width: 150px;
+    width: 170px;
     text-align: right;
     display: inline-block;
   }
@@ -178,7 +179,7 @@ nav {
     display: inline-block;
     position: relative;
     margin-left: 132px;
-    top: 6px;
+    top: 4px;
     li {
       float: left;
       margin-right: 40px;

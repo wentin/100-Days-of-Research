@@ -1,4 +1,4 @@
-<div class="day" ng-repeat="dayData in data | filter: searchText" style="zoom:{{zoom}}">
+<div class="day" ng-repeat="dayData in data | filter: searchText">
   <div class="intro">
     <div class="month">
       {{dayData.month}}
@@ -25,7 +25,7 @@
       </div>
       <div ng-if="link.type!='quote'">
         <h1>
-          <a href="link.href" target="_blank">{{link.title}}</a>
+          <a ng-href="{{link.href}}" target="_blank">{{link.title}}</a>
         </h1>
         <p>
           {{link.description}}

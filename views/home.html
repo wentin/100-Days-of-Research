@@ -1,4 +1,18 @@
-<div class="day" ng-repeat="dayData in data | filter: searchText" style="zoom:{{zoom}}">
+<nav>
+    <a href="#/" class="logo">100 DAYS OF RESEARCH</a>
+    <ul>
+        <li><a href="#/">DAYS</a>
+            <ul>
+                <li ng-repeat="dayData in data"><a ng-href="#/day/{{dayData.number}}">DAY {{dayData.number}}, {{dayData.month}} {{dayData.date}}</a></li>
+            </ul>
+        </li>
+        <li><a href="#/about">ABOUT</a></li>
+        <li><a href="#">SHARE</a></li>
+        <li><a href="#">SUBSCRIBE</a></li>
+        <li><a href="#">CREATE YOUR OWN</a></li>
+    </ul>
+</nav>
+<div class="day" ng-repeat="dayData in data | filter: searchText">
   <div class="intro">
     <div class="month">
       {{dayData.month}}
@@ -25,7 +39,7 @@
       </div>
       <div ng-if="link.type!='quote'">
         <h1>
-          <a href="link.href" target="_blank">{{link.title}}</a>
+          <a ng-href="{{link.href}}" target="_blank">{{link.title}}</a>
         </h1>
         <p>
           {{link.description}}
