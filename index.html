@@ -35,8 +35,8 @@
           {{dayData.sum}}
         </p>
         <div class="pagination">
-          <a class="prev" ng-href="/#/day/{{prevDay}}" ng-if="prevDay">PREVIOUS DAY <span>or press ←</span></a>
-          <a class="next" ng-href="/#/day/{{nextDay}}" ng-if="nextDay<=data.length">NEXT DAY <span>or press →</span></a>
+          <a class="prev" ng-href="#/day/{{prevDay}}" ng-if="prevDay">PREVIOUS DAY <span>or press ←</span></a>
+          <a class="next" ng-href="#/day/{{nextDay}}" ng-if="nextDay<=data.length">NEXT DAY <span>or press →</span></a>
         </div>
       </div>
       <div class="level" ng-repeat="level in dayData.levels">
@@ -164,17 +164,17 @@
     </label>
   </header>
   <nav>
-    <a ng-href="/#/" class="logo">
+    <a ng-href="#/" class="logo">
     100 DAY OF 
     RESEARCH
     </a>
     <ul>
       <li><span>DAYS</span>
         <ul>
-          <li ng-repeat="dayData in data"><a ng-href="/#/day/{{dayData.number}}">DAY {{dayData.number}}, {{dayData.month}} {{dayData.date}}</a></li>
+          <li ng-repeat="dayData in data"><a ng-href="#/day/{{dayData.number}}">DAY {{dayData.number}}, {{dayData.month}} {{dayData.date}}</a></li>
         </ul>
       </li>
-      <li><a href="/#/about">ABOUT</a></li>
+      <li><a href="#/about">ABOUT</a></li>
       <li><a href="#">SHARE</a></li>
       <li><a href="#">SUBSCRIBE</a></li>
       <li><a href="#">CREATE YOUR OWN</a></li>
