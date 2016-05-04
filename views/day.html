@@ -1,15 +1,20 @@
 <nav>
     <a href="#/" class="logo">100 DAYS OF RESEARCH</a>
     <ul>
-        <li><a href="#/" class="active">DAYS</a>
+        <li><a href="#/">DAYS</a>
             <ul>
                 <li ng-repeat="dayData in data"><a ng-href="#/day/{{dayData.number}}">DAY {{dayData.number}}, {{dayData.month}} {{dayData.date}}</a></li>
             </ul>
         </li>
-        <li><a href="#/about">ABOUT</a></li>
-        <li><a href="#">CREATE YOUR OWN</a></li>
-        <li><a href="#">SUBSCRIBE</a></li>
-        <li><a href="#">SHARE</a></li>
+        <li><a href="https://medium.com/@wenting_zhang/about-100-days-of-research-a80f4f09b57c#.hgan8cyke" target="_blank">ABOUT</a></li>
+        <li><a href="https://medium.com/@wenting_zhang/how-to-create-your-own-8b639bb32813#.908y5xu2y" target="_blank">CREATE YOUR OWN</a></li>
+        <li><a href="http://eepurl.com/b0zUkH" target="_blank">SUBSCRIBE</a></li>
+        <li><a href="https://twitter.com/home?status=http%3A//linkie.link/%23/%20%40DesignJokes" target="_blank">SHARE</a>
+            <ul>
+                <li><a href="https://twitter.com/home?status=http%3A//linkie.link/%23/%20%40DesignJokes" target="_blank">Tweet it</a></li>
+                <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//linkie.link/%23/" target="_blank">Share on Facebook</a></li>
+            </ul>
+        </li>
     </ul>
 </nav>
 <div class="day" ng-repeat="dayData in data | filter: { number: params.dayId }">
