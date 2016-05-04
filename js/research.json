@@ -5,7 +5,7 @@
     "number": 1,
     "weekend": false,
     "title": "Metafont",
-    "sum": "?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?\n\nMetafont was created almost 30 years ago. It is by no means a new finding. I was researching on parametric type design, and metafont is just exactly what I was looking for. Maybe it is another living proof of the saying “There is nothing new under the sun”. But the new is always born from the old. Soon after I started digging metafont, I found out about Metapolator, and Prototype. These tools are being actively worked on. When I look into it, the latest update could be as late as just 2 days ago. This excites me.",
+    "sum": "Metafont was created almost 30 years ago. It is by no means a new finding. I was researching on parametric type design, and metafont is just exactly what I was looking for. Maybe it is another living proof of the saying “There is nothing new under the sun”. But the new is always born from the old. Soon after I started digging metafont, I found out about Metapolator, and Prototype. These tools are being actively worked on. When I look into it, the latest update could be as late as just 2 days ago. This excites me.",
     "levels": [
       {
         "links": [
