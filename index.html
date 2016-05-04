@@ -1,196 +1,58 @@
 <!DOCTYPE html>
-<html >
-  <head>
+<html>
+
+<head>
     <meta charset="UTF-8">
-    <title>100 days of research</title>
+    <title>100 Day of Research</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-<script src="https://use.typekit.net/sei2lyk.js"></script>
-<script>try{Typekit.load({ async: true });}catch(e){}</script>
-    
+    <script src="https://use.typekit.net/sei2lyk.js"></script>
+    <script>
+    try {
+        Typekit.load({
+            async: true
+        });
+    } catch (e) {}
+    </script>
     <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
 
-    
-        <link rel="stylesheet" href="css/style.css">
-
-    
-    
-    
-  </head>
-
-  <body>
-
-    <div ng-app="researchApp" ng-controller="MainCtrl" ng-dblclick="switchZoom()">
-  
-  <script type="text/ng-template" id="day.html">
-    <div class="day" ng-repeat="dayData in data | filter: { number: params.dayId }" style="zoom:{{zoom}}">
-      <div class="intro">
-        <div class="month">
-          {{dayData.month}}
+<body ng-app="researchApp" ng-controller="MainCtrl" ng-dblclick="switchZoom()">
+    <header>
+        <label class="search">SEARCH:
+            <input type="text" ng-model="searchText" placeholder="Start typing…">
+        </label>
+        <div class="color">
+            <label>COLOR</label>
+            <div class="swatch" id="swatch1"></div>
+            <div class="swatch" id="swatch2"></div>
+            <div class="swatch" id="swatch3"></div>
+            <div class="swatch" id="swatch4"></div>
         </div>
-        <div class="date" ng-class="{weekend: dayData.weekend}">
-          {{dayData.date}}
-        </div>
-        <h4>{{dayData.title}}</h4>
-        <p>
-          {{dayData.sum}}
-        </p>
-        <div class="pagination">
-          <a class="prev" ng-href="#/day/{{prevDay}}" ng-if="prevDay">PREVIOUS DAY <span>or press ←</span></a>
-          <a class="next" ng-href="#/day/{{nextDay}}" ng-if="nextDay<=data.length">NEXT DAY <span>or press →</span></a>
-        </div>
-      </div>
-      <div class="level" ng-repeat="level in dayData.levels">
-        <div class="link" ng-class="{research: link.type=='research', tech: link.type=='tech', quote: link.type=='quote', em: link.em}" ng-repeat="link in level.links" ng-mouseover="showConnected($event, link)">
-          <span class="number">{{link.number}}</span>
-          <span class="category">{{link.category}}</span>
-          <div ng-if="link.type=='quote'">
-            <div class="doubleQuoteLeft icon"><i></i></div>
-            <figure>
-              {{link.quote}}
-              <figcaption><cite>
-              <a href="link.cite.href" target="_blank">[{{link.cite.title}}]</a>;</cite> {{link.author.name}}</figcaption>
-            </figure>
-          </div>
-          <div ng-if="link.type!='quote'">
-            <h1>
-              <a href="link.href" target="_blank">{{link.title}}</a>
-            </h1>
-            <p>
-              {{link.description}}
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </script>
-  
-  <script type="text/ng-template" id="about.html">
-    <a href="https://typekit.com/colophons/sei2lyk" target="_blank">Colophon</a>
-      about page.
-  </script>
-  
-  <script type="text/ng-template" id="home.html">
-    <div class="day" ng-repeat="dayData in data | filter: searchText" style="zoom:{{zoom}}">
-      <div class="intro">
-        <div class="month">
-          {{dayData.month}}
-        </div>
-        <div class="date" ng-class="{weekend: dayData.weekend}">
-          {{dayData.date}}
-        </div>
-        <h4>{{dayData.title}}</h4>
-        <p>
-          {{dayData.sum}}
-        </p>
-      </div>
-      <div class="level" ng-repeat="level in dayData.levels | filter: searchText">
-        <div class="link" ng-class="{research: link.type=='research', tech: link.type=='tech', quote: link.type=='quote', em: link.em}" ng-repeat="link in level.links | filter: searchText" ng-mouseover="showConnected($event, link)">
-          <span class="number">{{link.number}}</span>
-          <span class="category">{{link.category}}</span>
-          <div ng-if="link.type=='quote'">
-            <div class="doubleQuoteLeft icon"><i></i></div>
-            <figure>
-              {{link.quote}}
-              <figcaption><cite>
-              <a href="link.cite.href" target="_blank">[{{link.cite.title}}]</a>;</cite> {{link.author.name}}</figcaption>
-            </figure>
-          </div>
-          <div ng-if="link.type!='quote'">
-            <h1>
-              <a href="link.href" target="_blank">{{link.title}}</a>
-            </h1>
-            <p>
-              {{link.description}}
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </script>
-  
-  
-  <script type="text/ng-template" id="user.html">
-    <div class="day" ng-repeat="dayData in data | filter: searchText" style="zoom:{{zoom}}">
-      <div class="intro">
-        <div class="month">
-          {{dayData.month}}
-        </div>
-        <div class="date" ng-class="{weekend: dayData.weekend}">
-          {{dayData.date}}
-        </div>
-        <h4>{{dayData.title}}</h4>
-        <p>
-          {{dayData.sum}}
-        </p>
-      </div>
-      <div class="level" ng-repeat="level in dayData.levels">
-        <div class="link" ng-class="{research: link.type=='research', tech: link.type=='tech', quote: link.type=='quote', em: link.em}" ng-repeat="link in level.links" ng-mouseover="showConnected($event, link)">
-          <span class="number">{{link.number}}</span>
-          <span class="category">{{link.category}}</span>
-          <div ng-if="link.type=='quote'">
-            <div class="doubleQuoteLeft icon"><i></i></div>
-            <figure>
-              {{link.quote}}
-              <figcaption><cite>
-              <a href="link.cite.href" target="_blank">[{{link.cite.title}}]</a>;</cite> {{link.author.name}}</figcaption>
-            </figure>
-          </div>
-          <div ng-if="link.type!='quote'">
-            <h1>
-              <a href="link.href" target="_blank">{{link.title}}</a>
-            </h1>
-            <p>
-              {{link.description}}
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <a href="https://typekit.com/colophons/sei2lyk" target="_blank">Colophon</a>
-  </script>
-
-  <header>
-    <label class="search">SEARCH:
-      <input type="text" ng-model="searchText" placeholder="Start typing…">
-    </label>
-    <div class="color">
-      <label>COLOR</label>
-      <div class="swatch" id="swatch1"></div>
-      <div class="swatch" id="swatch2"></div>
-      <div class="swatch" id="swatch3"></div>
-      <div class="swatch" id="swatch4"></div>
-    </div> 
-    <label class="zoom">ZOOM<input type="range" value="1" min="0.4" max="1" step="0.02" ng-model="zoom" ng-change="updateZoom()"> <span>{{zoom}}</span>
-    </label>
-  </header>
-  <nav>
-    <a ng-href="#/" class="logo">
-    100 DAY OF 
-    RESEARCH
-    </a>
-    <ul>
-      <li><span>DAYS</span>
+        <label class="zoom">ZOOM
+            <input type="range" value="1" min="0.4" max="1" step="0.02" ng-model="zoom" ng-change="updateZoom()"> <span>{{zoom}}</span>
+        </label>
+    </header>
+    <nav>
+        <a href="#/" class="logo">100 DAY OF RESEARCH</a>
         <ul>
-          <li ng-repeat="dayData in data"><a ng-href="#/day/{{dayData.number}}">DAY {{dayData.number}}, {{dayData.month}} {{dayData.date}}</a></li>
+            <li><a href="#/">DAYS</a>
+                <ul>
+                    <li ng-repeat="dayData in data"><a ng-href="#/day/{{dayData.number}}">DAY {{dayData.number}}, {{dayData.month}} {{dayData.date}}</a></li>
+                </ul>
+            </li>
+            <li><a href="#/about">ABOUT</a></li>
+            <li><a href="#">SHARE</a></li>
+            <li><a href="#">SUBSCRIBE</a></li>
+            <li><a href="#">CREATE YOUR OWN</a></li>
         </ul>
-      </li>
-      <li><a href="#/about">ABOUT</a></li>
-      <li><a href="#">SHARE</a></li>
-      <li><a href="#">SUBSCRIBE</a></li>
-      <li><a href="#">CREATE YOUR OWN</a></li>
-    </ul>
-  </nav>
-  <div ng-view></div>
-</div>
-    <script src='http://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.2/angular.min.js'></script>
-<script src='http://ajax.googleapis.com/ajax/libs/angularjs/1.5.2/angular-cookies.js'></script>
-<script src='http://ajax.googleapis.com/ajax/libs/angularjs/1.5.2/angular-route.js'></script>
-<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js'></script>
+    </nav>
+    <div ng-view></div>
+    <script src='//cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.2/angular.min.js'></script>
+    <script src='//ajax.googleapis.com/ajax/libs/angularjs/1.5.2/angular-cookies.js'></script>
+    <script src='//ajax.googleapis.com/ajax/libs/angularjs/1.5.2/angular-route.js'></script>
+    <script src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js'></script>
+    <script src="js/app.js"></script>
+</body>
 
-        <script src="js/index.js"></script>
-
-    
-    
-    
-  </body>
 </html>

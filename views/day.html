@@ -1,0 +1,40 @@
+<div class="day" ng-repeat="dayData in data | filter: { number: params.dayId }" style="zoom:{{zoom}}">
+  <div class="intro">
+    <div class="month">
+      {{dayData.month}}
+    </div>
+    <div class="date" ng-class="{weekend: dayData.weekend}">
+      {{dayData.date}}
+    </div>
+    <h4>{{dayData.title}}</h4>
+    <p>
+      {{dayData.sum}}
+    </p>
+    <div class="pagination">
+      <a class="prev" ng-href="#/day/{{prevDay}}" ng-if="prevDay">PREVIOUS DAY <span>or press ←</span></a>
+      <a class="next" ng-href="#/day/{{nextDay}}" ng-if="nextDay<=data.length">NEXT DAY <span>or press →</span></a>
+    </div>
+  </div>
+  <div class="level" ng-repeat="level in dayData.levels">
+    <div class="link" ng-class="{research: link.type=='research', tech: link.type=='tech', quote: link.type=='quote', em: link.em}" ng-repeat="link in level.links" ng-mouseover="showConnected($event, link)">
+      <span class="number">{{link.number}}</span>
+      <span class="category">{{link.category}}</span>
+      <div ng-if="link.type=='quote'">
+        <div class="doubleQuoteLeft icon"><i></i></div>
+        <figure>
+          {{link.quote}}
+          <figcaption><cite>
+          <a href="link.cite.href" target="_blank">[{{link.cite.title}}]</a>;</cite> {{link.author.name}}</figcaption>
+        </figure>
+      </div>
+      <div ng-if="link.type!='quote'">
+        <h1>
+          <a href="link.href" target="_blank">{{link.title}}</a>
+        </h1>
+        <p>
+          {{link.description}}
+        </p>
+      </div>
+    </div>
+  </div>
+</div>

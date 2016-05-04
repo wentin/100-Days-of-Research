@@ -82,7 +82,6 @@ app.controller('DayController', function($scope, $routeParams, $location) {
 	});
 })
 
-
 app.controller('UserController', function($scope, $routeParams, $http) {
   $scope.params = $routeParams;
   var userId = $routeParams.userId;
@@ -100,23 +99,22 @@ app.controller('HomeController', function($scope, $routeParams) {
 app.config(function($routeProvider, $locationProvider){
   $routeProvider
     .when('/',{
-      templateUrl: 'home.html',
+      templateUrl: 'views/home.html',
       controller: 'HomeController'
     })
     .when('/about',{
-      templateUrl: 'about.html' 
+      templateUrl: 'views/about.html' 
     })
     .when('/day/:dayId', {
-      templateUrl: 'day.html',
+      templateUrl: 'views/day.html',
       controller: 'DayController'
     })
     .when('/user/:userId', {
-      templateUrl: 'user.html',
+      templateUrl: 'views/user.html',
       controller: 'UserController'
     })
     .otherwise({
         redirectTo: '/'
     });
-
   // $locationProvider.html5Mode(true);
 });
