@@ -54,7 +54,7 @@
       {
         "links": [
           {
-            "number": "1.2.1",
+            "number": "1.1.1",
             "type": "research",
             "category": "video",
             "em": false,
@@ -77,7 +77,7 @@
             "category": "wiki",
             "em": false,
             "title": "Computer Modern",
-            "href": "http://rd.springer.com/article/10.1007%2FBF03023051#page-1",
+            "href": "?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?\n\nhttps://www.wikiwand.com/en/Computer_Modern",
             "description": "Computer Modern is the original family of typefaces used by the typesetting program TeX. It was created by Donald Knuth with his Metafont program, and was most recently updated in 1992.[1] Computer Modern, or variants of it, remains very widely used in scientific publishing, especially in disciplines that make frequent use of mathematical notation."
           }
         ]
@@ -90,7 +90,7 @@
             "category": "book",
             "em": true,
             "title": "The Metafont Book",
-            "href": "http://www.kadist.org/en/work/meta-difference-between-two-font-4-d",
+            "href": "http://www.amazon.com/Metafont-Book-Donald-E-Knuth/dp/0201134446/",
             "description": "METAFONT is a system for the design of symbols and alphabetic characters suited to raster-based devices that print or display text. The construction of a typeface is an art form and this manual is written for people who wish to advance the quality of mathematical typesetting. The METAFONTbook enables readers, with only minimal computer science or word processing experience, to master the basic as well as the more advanced features of METAFONT programming. With this manual, readers will learn how to write a program using METAFONT that can customize a type design that already exists, create an entire alphabet from scratch, and create logos or special symbols."
           },
           {
