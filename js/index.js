@@ -2,7 +2,8 @@ var jq = $.noConflict();
 var app = angular.module("researchApp", ['ngCookies', 'ngRoute']);
 app.controller("MainCtrl", ['$scope', '$cookies', '$http', '$route', '$routeParams', '$location', function($scope, $cookies, $http, $route, $routeParams, $location) {
   $scope.data = [];
-  $http.get('https://api.jsoneditoronline.org/v1/docs/755438b3cca8dea3cf8e16d9ffd355bb/data').success(function(data) {
+  // $http.get('https://api.jsoneditoronline.org/v1/docs/755438b3cca8dea3cf8e16d9ffd355bb/data').success(function(data) {
+  $http.get('js/research.json').success(function(data) {
     $scope.data = data;
   });
 
