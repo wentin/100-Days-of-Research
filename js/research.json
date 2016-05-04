@@ -8,7 +8,6 @@
     "sum": "When I watched the first season of HBO's Silicon Valley in 2014, I thought it was OK, but not amazing. Yet I kept thinking about the show and talking to friends about it. That's when I realized—Silicon Valley isn't a perfect satire, but that doesn't matter. It's the satire we need in our tech-obsessed world. Hunger is the best seasoning, and when it came to tech satire, I was a starving man.",
     "levels": [
       {
-        "level": 1,
         "links": [
           {
             "number": "1",
@@ -31,10 +30,8 @@
         ]
       },
       {
-        "level": 2,
         "links": [
           {
-            "level": 2,
             "number": "1.1",
             "type": "research",
             "category": "book",
@@ -44,7 +41,6 @@
             "description": "For ideal typography, web designers need to know as much as possible about each user’s reading environment. That may seem obvious, but the act of specifying web typography is currently like…"
           },
           {
-            "level": 2,
             "number": "2.1",
             "type": "tech",
             "category": "article",
@@ -56,7 +52,6 @@
         ]
       },
       {
-        "level": 3,
         "links": [
           {
             "number": "2.1.1",
@@ -85,7 +80,6 @@
     "sum": "When I watched the first season of HBO's Silicon Valley in 2014, I thought it was OK, but not amazing. Yet I kept thinking about the show and talking to friends about it. That's when I realized—Silicon Valley isn't a perfect satire, but that doesn't matter. It's the satire we need in our tech-obsessed world. Hunger is the best seasoning, and when it came to tech satire, I was a starving man.",
     "levels": [
       {
-        "level": 1,
         "links": [
           {
             "number": "1",
@@ -108,10 +102,8 @@
         ]
       },
       {
-        "level": 2,
         "links": [
           {
-            "level": 2,
             "number": "1.1",
             "type": "research",
             "category": "book",
@@ -121,7 +113,6 @@
             "description": "For ideal typography, web designers need to know as much as possible about each user’s reading environment. That may seem obvious, but the act of specifying web typography is currently like…"
           },
           {
-            "level": 2,
             "number": "2.1",
             "type": "tech",
             "category": "article",
@@ -133,7 +124,6 @@
         ]
       },
       {
-        "level": 3,
         "links": [
           {
             "number": "2.1.1",
@@ -162,7 +152,6 @@
     "sum": "When I watched the first season of HBO's Silicon Valley in 2014, I thought it was OK, but not amazing. Yet I kept thinking about the show and talking to friends about it. That's when I realized—Silicon Valley isn't a perfect satire, but that doesn't matter. It's the satire we need in our tech-obsessed world. Hunger is the best seasoning, and when it came to tech satire, I was a starving man.",
     "levels": [
       {
-        "level": 1,
         "links": [
           {
             "number": "1",
@@ -185,10 +174,8 @@
         ]
       },
       {
-        "level": 2,
         "links": [
           {
-            "level": 2,
             "number": "1.1",
             "type": "research",
             "category": "book",
@@ -198,7 +185,6 @@
             "description": "For ideal typography, web designers need to know as much as possible about each user’s reading environment. That may seem obvious, but the act of specifying web typography is currently like…"
           },
           {
-            "level": 2,
             "number": "2.1",
             "type": "tech",
             "category": "article",
@@ -210,7 +196,6 @@
         ]
       },
       {
-        "level": 3,
         "links": [
           {
             "number": "2.1.1",
