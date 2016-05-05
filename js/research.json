@@ -69,16 +69,16 @@
             "em": false,
             "title": "The letter S",
             "href": "http://rd.springer.com/article/10.1007%2FBF03023051#page-1",
-            "description": "Several years ago when I began to look at the problem of designing suitable alphabets for use with modern printing equipment, I found that 25 of the letters were comparatively easy to deal with. The other letter was 'S'. For three days and nights I had a terrible time trying to understand how a proper 'S' could really be defined. The solution I finally came up with turned out to involve some interesting mathematics, and I believe that students of calculus and analytic geometry may enjoy looking into the question as I did. The purpose of this paper is to explain what I now consider to be the 'right' mathematics underlying printed S's, and also to give an example of the METAFONT language I have recently been developing. (A\ncomplete description of M~'TAFONT, which is a computer system and language intended to aid in the design of letter shapes, appears in [3, part 3]."
+            "description": "Several years ago when I began to look at the problem of designing suitable alphabets for use with modern printing equipment, I found that 25 of the letters were comparatively easy to deal with. The other letter was 'S'. For three days and nights I had a terrible time trying to understand how a proper 'S' could really be defined. The solution I finally came up with turned out to involve some interesting mathematics, and I believe that students of calculus and analytic geometry may enjoy looking into the question as I did. The purpose of this paper is to explain what I now consider to be the 'right' mathematics underlying printed S's, and also to give an example of the METAFONT language I have recently been developing."
           },
           {
             "number": "1.3.2",
             "type": "research",
-            "category": "wiki",
+            "category": "wikipedia",
             "em": false,
             "title": "Computer Modern",
-            "href": "?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?\n\nhttps://www.wikiwand.com/en/Computer_Modern",
-            "description": "Computer Modern is the original family of typefaces used by the typesetting program TeX. It was created by Donald Knuth with his Metafont program, and was most recently updated in 1992.[1] Computer Modern, or variants of it, remains very widely used in scientific publishing, especially in disciplines that make frequent use of mathematical notation."
+            "href": "https://www.wikiwand.com/en/Computer_Modern",
+            "description": "Computer Modern is the original family of typefaces used by the typesetting program TeX. It was created by Donald Knuth with his Metafont program, and was most recently updated in 1992. Computer Modern, or variants of it, remains very widely used in scientific publishing, especially in disciplines that make frequent use of mathematical notation."
           }
         ]
       },
@@ -98,7 +98,7 @@
             "type": "tech",
             "category": "book",
             "em": false,
-            "title": "Digital Typography",
+            "title": "Digital Typography (Lecture Notes)",
             "href": "http://www.amazon.com/Digital-Typography-Lecture-Notes-Donald/dp/1575860104",
             "description": "In this collection, the second in the series, Knuth explores the relationship between computers and typography. The present volume, in the words of the author, is a legacy to all the work he has done on typography. When he thought he would take a few years' leave from his main work on the art of computer programming, as is well known, the short typographic detour lasted more than a decade. When type designers, punch cutters, typographers, book historians, and scholars visited the University during this period, it gave to Stanford what some consider to be its golden age of digital typography. By the author's own admission, the present work is one of the most difficult books that he has prepared. This is truly a work that only Knuth himself could have produced."
           }
@@ -158,7 +158,7 @@
           {
             "number": "1.3.2.1.2.1",
             "type": "tech",
-            "category": "video",
+            "category": "",
             "em": false,
             "title": "Prototypo Release Video",
             "href": "https://www.youtube.com/watch?v=ueELKlfskuo",
