@@ -83,7 +83,8 @@ header label {
 }
 header .search {
   float: left;
-  margin-left: 20px;
+  padding-left: 20px;
+  box-sizing: border-box;
 }
 header .search input {
   margin-left: 10px;
@@ -93,14 +94,16 @@ header .search input {
   font-weight: 500;
   font-size: 16px;
   color: #717475;
+  padding: 0;
   font-family: "acumin-pro-wide", sans-serif;
   letter-spacing: -0.4px;
-  width: 300px;
+  width: 350px;
   outline: none;
 }
 header .color {
   float: right;
   margin-left: 40px;
+  box-sizing: border-box;
 }
 header .color label {
   float: left;
@@ -139,6 +142,8 @@ header .color .swatch#swatch4 {
 }
 header .zoom {
   float: right;
+  padding-left: 20px;
+  box-sizing: border-box;
 }
 header .zoom input {
   margin-left: 20px;
@@ -256,11 +261,13 @@ nav ul li ul li {
   font-family: "acumin-pro-wide", sans-serif;
   font-weight: 800;
   font-size: 20px;
-  color: #717475;
   letter-spacing: -1px;
   line-height: 24px;
   text-align: right;
   margin-bottom: 8px;
+}
+.intro h4 a {
+  color: #717475;
 }
 .intro p {
   clear: both;
@@ -432,6 +439,34 @@ nav ul li ul li {
           transform: rotate(90deg);
   -webkit-transform-origin: left top;
           transform-origin: left top;
+}
+
+@media screen and (max-width: 568px) {
+  header .search {
+    width: 100%;
+  }
+  header .search input {
+    width: calc(100% - 120px);
+  }
+  header .color {
+    display: none;
+    background-color: #FCF7E8;
+    position: fixed;
+    width: 100%;
+    padding-left: 20px;
+    bottom: 0;
+    right: 0;
+    margin-left: 0;
+  }
+  header .zoom {
+    display: none;
+    background-color: #FCF7E8;
+    position: fixed;
+    width: 100%;
+    padding-left: 20px;
+    bottom: 40px;
+    right: 0;
+  }
 }
 
 /*# sourceMappingURL=style1.css.map */
