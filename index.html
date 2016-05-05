@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html ng-app="researchApp" ng-controller="MainCtrl" >
 
 <head>
     <meta charset="UTF-8">
@@ -14,21 +14,21 @@
     } catch (e) {}
     </script>
     <link rel="stylesheet" href="css/reset.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" ng-href="css/style{{swatch}}.css">
 </head>
 
-<body ng-app="researchApp" ng-controller="MainCtrl" ng-dblclick="switchZoom()">
+<body ng-dblclick="switchZoom()">
     <header>
         <label class="search">SEARCH:
             <input type="text" ng-model="searchText" placeholder="Start typing…">
-        </label><!-- 
-        <div class="color">
+        </label>
+        <div class="color" ng-init="">
             <label>COLOR</label>
-            <div class="swatch" id="swatch1"></div>
-            <div class="swatch" id="swatch2"></div>
-            <div class="swatch" id="swatch3"></div>
-            <div class="swatch" id="swatch4"></div>
-        </div> -->
+            <div class="swatch" id="swatch1" ng-click="updateSwatch(1)" ng-class="{'selected': swatch==1}"></div>
+            <div class="swatch" id="swatch2" ng-click="updateSwatch(2)" ng-class="{'selected': swatch==2}"></div>
+            <div class="swatch" id="swatch3" ng-click="updateSwatch(3)" ng-class="{'selected': swatch==3}"></div>
+            <div class="swatch" id="swatch4" ng-click="updateSwatch(4)" ng-class="{'selected': swatch==4}"></div>
+        </div>
         <label class="zoom">ZOOM
             <input type="range" value="1" min="0.5" max="1" step="0.02" ng-model="zoom" ng-change="updateZoom()"> <span>{{zoom}}</span>
         </label>

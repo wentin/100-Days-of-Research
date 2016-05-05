@@ -1,0 +1,437 @@
+body {
+  font-family: "adobe-caslon-pro", serif;
+  color: #717475;
+  display: inline-block;
+  background-color: #FCF7E8;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-kerning: normal;
+     -moz-font-kerning: normal;
+          font-kerning: normal;
+  -webkit-font-variant-ligatures: common-ligatures contextual;
+     -moz-font-variant-ligatures: common-ligatures contextual;
+          font-variant-ligatures: common-ligatures contextual;
+  -moz-font-feature-settings: "kern", "liga", "clig", "dlig", "calt";
+  -ms-font-feature-settings: "kern", "liga", "clig", "dlig", "alt";
+  -webkit-font-feature-settings: "kern", "liga", "clig", "dlig", "calt";
+  font-feature-settings: "kern", "liga", "clig", "dlig", "calt";
+  text-rendering: optimizeLegibility;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+.doubleQuoteLeft.icon {
+  position: relative;
+  width: 34px;
+  height: 22px;
+}
+.doubleQuoteLeft.icon:before, .doubleQuoteLeft.icon:after {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 12px;
+  height: 12px;
+  border: solid 2px #717475;
+  border-radius: 50%;
+  top: 6px;
+}
+.doubleQuoteLeft.icon:after {
+  left: 18px;
+}
+.doubleQuoteLeft.icon i:before, .doubleQuoteLeft.icon i:after {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 24px;
+  height: 24px;
+  border-left: solid 2px #717475;
+  border-top: solid 2px transparent;
+  border-right: solid 2px transparent;
+  border-bottom: solid 2px transparent;
+  border-radius: 50%;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  top: 0;
+}
+.doubleQuoteLeft.icon i:after {
+  left: 18px;
+}
+
+header {
+  top: 0;
+  left: 0;
+  position: fixed;
+  z-index: 99;
+  width: 100%;
+  height: 40px;
+  background-color: rgba(113, 116, 117, 0.1);
+}
+header label {
+  display: block;
+  line-height: 40px;
+  font-family: "acumin-pro-wide", sans-serif;
+  font-weight: 800;
+  font-size: 16px;
+  color: #717475;
+  letter-spacing: -0.8px;
+}
+header .search {
+  float: left;
+  margin-left: 20px;
+}
+header .search input {
+  margin-left: 10px;
+  border: none;
+  background-color: transparent;
+  line-height: 40px;
+  font-weight: 500;
+  font-size: 16px;
+  color: #717475;
+  font-family: "acumin-pro-wide", sans-serif;
+  letter-spacing: -0.4px;
+  width: 300px;
+  outline: none;
+}
+header .color {
+  float: right;
+  margin-left: 40px;
+}
+header .color label {
+  float: left;
+  margin-right: 20px;
+}
+header .color .swatch {
+  float: left;
+  width: 40px;
+  height: 40px;
+  box-sizing: border-box;
+  z-index: 999;
+  border-style: solid;
+  border-width: 14px;
+  -webkit-transition: border-width 0.2s ease;
+          transition: border-width 0.2s ease;
+}
+header .color .swatch:hover, header .color .swatch.selected {
+  cursor: pointer;
+  border-width: 10px;
+}
+header .color .swatch#swatch1 {
+  border-color: #FCF7E8;
+  background-color: #717475;
+}
+header .color .swatch#swatch2 {
+  border-color: #4E5C60;
+  background-color: #B6B8BA;
+}
+header .color .swatch#swatch3 {
+  border-color: #F7F0DD;
+  background-color: #402E33;
+}
+header .color .swatch#swatch4 {
+  border-color: #323235;
+  background-color: #88A0AA;
+}
+header .zoom {
+  float: right;
+}
+header .zoom input {
+  margin-left: 20px;
+}
+header .zoom input {
+  position: relative;
+  top: 2px;
+}
+header .zoom span {
+  display: inline-block;
+  width: 40px;
+  font-weight: 500;
+  letter-spacing: -0.4px;
+}
+
+nav {
+  margin-top: 100px;
+  margin-left: 280px;
+}
+nav a.logo {
+  font-family: "acumin-pro-wide", sans-serif;
+  font-weight: 800;
+  font-size: 24px;
+  color: #717475;
+  letter-spacing: -1px;
+  width: 170px;
+  text-align: right;
+  display: inline-block;
+}
+nav ul {
+  display: inline-block;
+  position: relative;
+  margin-left: 132px;
+  top: 4px;
+}
+nav ul li {
+  float: left;
+  margin-right: 40px;
+  position: relative;
+  text-transform: uppercase;
+  font-family: "acumin-pro-wide", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  color: #717475;
+  letter-spacing: -0.4px;
+}
+nav ul li a, nav ul li span {
+  color: #717475;
+  display: block;
+}
+nav ul li span {
+  cursor: default;
+}
+nav ul li:hover ul {
+  display: block;
+}
+nav ul li ul {
+  display: none;
+  position: absolute;
+  left: 0;
+  top: 20px;
+  margin-left: 0;
+  padding-top: 8px;
+  background-color: #FCF7E8;
+}
+nav ul li ul li {
+  float: none;
+  height: 24px;
+  word-wrap: none;
+  white-space: nowrap;
+}
+
+.day {
+  margin-top: 80px;
+  padding-right: 100px;
+  padding-left: 100px;
+  white-space: nowrap;
+}
+
+.intro {
+  width: 350px;
+  padding-top: 7px;
+  display: inline-block;
+  vertical-align: top;
+  white-space: normal;
+}
+.intro .month {
+  text-transform: uppercase;
+  float: right;
+  font-family: "acumin-pro-wide", sans-serif;
+  font-weight: 800;
+  font-size: 20px;
+  color: #717475;
+  letter-spacing: -1px;
+}
+.intro .date {
+  clear: both;
+  float: right;
+  font-family: "bodoni-urw", serif;
+  font-weight: 800;
+  font-size: 86px;
+  color: #717475;
+  letter-spacing: -3px;
+  line-height: 86px;
+  margin-right: -2px;
+  margin-bottom: 20px;
+}
+.intro .date.weekend {
+  color: #FCF7E8;
+  text-shadow: -1px -1px 0 #717475, 1px -1px 0 #717475, -1px 1px 0 #717475, 1px 1px 0 #717475;
+}
+.intro h4 {
+  clear: both;
+  font-family: "acumin-pro-wide", sans-serif;
+  font-weight: 800;
+  font-size: 20px;
+  color: #717475;
+  letter-spacing: -1px;
+  line-height: 24px;
+  text-align: right;
+  margin-bottom: 8px;
+}
+.intro p {
+  clear: both;
+  font-family: "acumin-pro-wide", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  color: #717475;
+  letter-spacing: -1px;
+  line-height: 24px;
+  text-align: right;
+  margin-bottom: 40px;
+}
+.intro .pagination a {
+  display: block;
+  text-align: right;
+  font-family: "acumin-pro-wide", sans-serif;
+  font-weight: 800;
+  font-size: 20px;
+  color: #717475;
+  letter-spacing: -1px;
+  line-height: 22px;
+  margin-bottom: 15px;
+}
+.intro .pagination a span {
+  margin-top: 5px;
+  font-family: "adobe-caslon-pro", serif;
+  font-weight: 400;
+  letter-spacing: 0px;
+  display: block;
+}
+
+.level {
+  display: inline-block;
+  vertical-align: top;
+  white-space: normal;
+  margin-left: 120px;
+}
+.level .link {
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-bottom: 12px;
+  width: 500px;
+  border-radius: 4px;
+}
+.level .link.hover {
+  background-color: rgba(113, 116, 117, 0.09);
+}
+.level .research {
+  font-family: "adobe-caslon-pro", serif;
+  color: #717475;
+  margin-bottom: 40px;
+  padding-top: 10px;
+}
+.level .research h1 {
+  margin-bottom: 6px;
+}
+.level .research h1 a {
+  font-weight: 700;
+  line-height: 48px;
+  color: #717475;
+  font-size: 28px;
+  line-height: 34px;
+}
+.level .research.em {
+  padding-top: 13px;
+}
+.level .research.em h1 {
+  margin-bottom: 12px;
+}
+.level .research.em h1 a {
+  font-size: 44px;
+  line-height: 48px;
+}
+.level .research p {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+}
+.level .tech {
+  font-family: "acumin-pro-wide", sans-serif;
+  color: #717475;
+  margin-bottom: 40px;
+  padding-top: 2px;
+}
+.level .tech h1 {
+  margin-bottom: 6px;
+}
+.level .tech h1 a {
+  vertical-align: top;
+  font-weight: 500;
+  line-height: 48px;
+  color: #717475;
+  font-size: 27px;
+  line-height: 34px;
+  letter-spacing: -1.1px;
+}
+.level .tech.em {
+  padding-top: 0;
+}
+.level .tech.em h1 {
+  margin-bottom: 12px;
+}
+.level .tech.em h1 a {
+  font-size: 42px;
+  line-height: 48px;
+  letter-spacing: -1.8px;
+}
+.level .tech p {
+  font-weight: 300;
+  font-size: 21px;
+  line-height: 28px;
+  letter-spacing: -0.6px;
+}
+.level .quote {
+  padding-top: 10px;
+  margin-bottom: 40px;
+}
+.level .quote figure {
+  margin-top: 20px;
+  font-weight: 700;
+  font-style: italic;
+  font-size: 28px;
+  color: #717475;
+  letter-spacing: 0px;
+  line-height: 34px;
+}
+.level .quote figure br {
+  line-height: 42px;
+}
+.level .quote figure figcaption {
+  text-align: right;
+  margin-top: 18px;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 28px;
+}
+.level .quote figure figcaption a {
+  color: #717475;
+}
+.level .quote figure figcaption cite {
+  font-style: normal;
+}
+.level .research, .level .tech, .level .quote {
+  position: relative;
+}
+.level .research .number, .level .tech .number, .level .quote .number {
+  text-align: right;
+  width: 100px;
+  position: absolute;
+  left: -115px;
+  top: 7px;
+  font-family: "acumin-pro-wide", sans-serif;
+  font-weight: 800;
+  font-size: 20px;
+  color: #717475;
+  letter-spacing: -1px;
+}
+.level .research .category, .level .tech .category, .level .quote .category {
+  position: absolute;
+  left: -13px;
+  top: 39px;
+  font-family: "acumin-pro-wide", sans-serif;
+  font-weight: 800;
+  font-size: 16px;
+  color: #717475;
+  letter-spacing: -0.4px;
+  text-transform: uppercase;
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+  -webkit-transform-origin: left top;
+          transform-origin: left top;
+}
+
+/*# sourceMappingURL=style1.css.map */

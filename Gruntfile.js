@@ -8,7 +8,10 @@ module.exports = function(grunt) {
                     style: 'expanded'
                 },
                 files: {
-                    'css/style.css': 'scss/style.scss'
+                    'css/style1.css': 'scss/style1.scss',
+                    'css/style2.css': 'scss/style2.scss',
+                    'css/style3.css': 'scss/style3.scss',
+                    'css/style4.css': 'scss/style4.scss'
                 }
             }
         },
@@ -18,7 +21,10 @@ module.exports = function(grunt) {
             },
             dist: {
                 files: {
-                    'css/style.css': 'css/style.css'
+                    'css/style1.css': 'css/style1.css',
+                    'css/style2.css': 'css/style2.css',
+                    'css/style3.css': 'css/style3.css',
+                    'css/style4.css': 'css/style4.css'
                 }
             }
         },

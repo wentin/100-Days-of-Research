@@ -7,15 +7,24 @@ app.controller("MainCtrl", ['$scope', '$cookies', '$http', '$route', '$routePara
     $scope.data = data;
   });
 
-  $scope.$route = $route;
-  $scope.$location = $location;
-  $scope.$routeParams = $routeParams;
+  // $scope.$route = $route;
+  // $scope.$location = $location;
+  // $scope.$routeParams = $routeParams;
 
-  $scope.zoom = 1;
+  $scope.swatch = $cookies.getObject("swatch")?$cookies.getObject("swatch"):1;
+  $scope.zoom = $cookies.getObject("zoom")?$cookies.getObject("zoom"):1;
   
-
   var now = new window.Date(),
       exp = new window.Date(now.getFullYear(), now.getMonth()+6, now.getDate());
+  
+  $scope.updateSwatch = function(swatch) {
+    $scope.swatch = swatch;
+    $cookies.remove('swatch');
+    $cookies.putObject("swatch", $scope.swatch, {
+      expires: exp
+    });
+  }
+
   $scope.updateZoom = function() {
     if ($scope.zoom != 1) {
       $cookies.remove('zoom');
