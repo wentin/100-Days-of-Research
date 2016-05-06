@@ -45,7 +45,7 @@
             "type": "tech",
             "category": "tutorial",
             "em": false,
-            "title": "Aligning type to baseline the right way using SASS",
+            "title": "Aligning Type to Baseline the Right Way Using SASS",
             "href": "https://medium.com/written-in-code/aligning-type-to-baseline-the-right-way-using-sass-e258fce47a9b#.a18ynsmfl",
             "description": "Vertical rhythm is about spacing body text or, more generally, vertical stacked elements, in a consistent manner to give structure and hierarchy to your content. The baseline on the other hand implies that content spread in multiple columns is horizontally aligned. These two key principles will always ensure your content with structure, hierarchy, and consistency, and make your body text more readable."
           },
@@ -89,7 +89,7 @@
             "type": "research",
             "category": "essay",
             "em": true,
-            "title": "WEB DESIGN IS 95% TYPOGRAPHY",
+            "title": "Web Design is 95% Typography",
             "href": "https://ia.net/know-how/the-web-is-all-about-typography-period",
             "description": "95% of the information on the web is written language. It is only logical to say that a web designer should get good training in the main discipline of shaping written information, in other words: Typography."
           },
