@@ -1,6 +1,140 @@
 [
   {
     "month": "May",
+    "date": "05",
+    "number": 2,
+    "weekend": false,
+    "title": "Vertical Rhythm",
+    "sum": "While designing this website, I was torn on whether I should make it stick to a vertical grid. I read many articles about this particular topic. The one I agree the most is “The New Web Typography”. For the past few years, Web Typography is playing catch up, trying to achieve what has been done on the print. Web is a new medium, very different than print, and it is facing a lot of new challenges. Instead of doing everything “by the book”, new rules should be defined, and old rules that doesn’t apply any more should be tossed. Treat Web Typography as its own unique art form and medium.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "tech",
+            "category": "article",
+            "em": false,
+            "title": "Web typography is broken. Here’s how we can fix it",
+            "href": "http://www.studiothick.com/essays/web-typography-is-broken/",
+            "description": "Questing for the holy grail of web typography: a baseline, cap height, and more in CSS. An exploration in setting type on the web, using MegaType, and other tools."
+          },
+          {
+            "number": "2",
+            "type": "tech",
+            "category": "article",
+            "em": true,
+            "title": "Is Web Typography Completely Broken?",
+            "href": "http://zellwk.com/blog/web-typography-broken/",
+            "description": "I recently came across an article titled “Web typography is broken. Here’s how we can fix it”. A mix of emotions rushed through me while I read through it. I realized that the biggest argument Tom was making in the article was that web typography is broken because type doesn’t sit perfectly on a baseline grid… I knew the importance of Vertical Rhythm and the baseline grid. I also knew that details matter when it comes to design. But is this one detail enough to break web typography?"
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "tech",
+            "category": "tutorial",
+            "em": true,
+            "title": "Technical Web Typography: Guidelines and Techniques",
+            "href": "https://www.smashingmagazine.com/2011/03/technical-web-typography-guidelines-and-techniques/",
+            "description": "We’ll focus on technical type in this article. We’ll discuss the intricacies and nuances of a small set of rules while learning the code to create them. We’ll learn about: How to choose a font face; How to choose a font size; Using a grid; Working out the measure; Vertical rhythm and baseline grids; Choosing a typographic scale; How to use proper quotes; How to use proper dashes; How to use proper ellipses; How to hang punctuation; Dealing with images in grids."
+          },
+          {
+            "number": "1.2",
+            "type": "tech",
+            "category": "tutorial",
+            "em": false,
+            "title": "Aligning type to baseline the right way using SASS",
+            "href": "https://medium.com/written-in-code/aligning-type-to-baseline-the-right-way-using-sass-e258fce47a9b#.a18ynsmfl",
+            "description": "Vertical rhythm is about spacing body text or, more generally, vertical stacked elements, in a consistent manner to give structure and hierarchy to your content. The baseline on the other hand implies that content spread in multiple columns is horizontally aligned. These two key principles will always ensure your content with structure, hierarchy, and consistency, and make your body text more readable."
+          },
+          {
+            "number": "1.3",
+            "type": "research",
+            "category": "essay",
+            "em": false,
+            "title": "Designing Faster with a Baseline Grid",
+            "href": "http://www.teehanlax.com/blog/designing-faster-with-a-baseline-grid/",
+            "description": "However, grids are nothing new and can be traced back to Middle Ages: in the 1220s/1240s, French architect Villard de Honnecourt designed construction canons based on geometry. These principles were later studied by typographers and designers in the beginning of the 20th century to reverse-engineer medieval canons of page construction. Among them, Van de Graaf, Rosarivo, and ultimately Tschichold who popularized his predecessors’ discoveries in his book The Form of the Book: Essays on the Morality of Good Design."
+          },
+          {
+            "number": "2.1",
+            "type": "tech",
+            "category": "essay",
+            "em": true,
+            "title": "Why is Vertical Rhythm an Important Typography Practice?",
+            "href": "http://zellwk.com/blog/why-vertical-rhythms/",
+            "description": "So, in summary, Vertical Rhythm is important because it follows one of the principles of design – repetition. Repetition has the ability to make things feel that they belong together. It gives the feeling that someone has thought it all out, like it’s part of the plan. After discovering the link between Vertical Rhythm and Repetition, we went on and figured out several ways we could replicate 24px to bring some variations to the design. Finally, after getting tired of repeating 24px vertically, we tried repeating 24px horizontally as well."
+          },
+          {
+            "number": "2.2",
+            "type": "quote",
+            "category": "essay",
+            "quote": "We can trace a nervous path through the links and hearts that occupy our timelines. In search of answers, we’ve peeked under the covers of Material Design and examined hundreds of pattern libraries, since one of them might be secretly withholding the principles of good design within. But why are we obsessed with typographic rules? And if we were to make guidelines for setting text on the web, what form should those rules take?",
+            "author": {
+              "name": "Robin Rendle"
+            },
+            "cite": {
+              "title": "The New Web Typography",
+              "href": "https://robinrendle.com/essays/new-web-typography/"
+            }
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1.1",
+            "type": "research",
+            "category": "essay",
+            "em": true,
+            "title": "WEB DESIGN IS 95% TYPOGRAPHY",
+            "href": "https://ia.net/know-how/the-web-is-all-about-typography-period",
+            "description": "95% of the information on the web is written language. It is only logical to say that a web designer should get good training in the main discipline of shaping written information, in other words: Typography."
+          },
+          {
+            "number": "1.2.1",
+            "type": "tech",
+            "category": "code",
+            "em": true,
+            "title": "Megatype",
+            "href": "http://www.servinglibrary.org/journal/3/letter-and-spirit",
+            "description": "A responsive typographic baseline for the web."
+          },
+          {
+            "number": "1.2.2",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "Sassline",
+            "href": "https://sassline.com/",
+            "description": "Sassline aims to spread better typography across the web. It can be used for prototyping, blogs or full website builds. It has recommended base typography styles and Sass mixins to work proportionally from the baseline grid using rems."
+          },
+          {
+            "number": "1.2.3",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "Siegmeyer2",
+            "href": "https://github.com/tbredin/Siegmeyer2",
+            "description": "Siegmeyer2 is a static SMACSS boilerplate using Susy grids and Siegmeyer typographic rhythm. It can be used as a standalone boilerplate, or just the SCSS tools can be imported via installation as a bower component (recommended)."
+          },
+          {
+            "number": "2.1.1",
+            "type": "tech",
+            "category": "essay",
+            "em": false,
+            "title": "Were We Wrong About Vertical Rhythm All Along?",
+            "href": "http://zellwk.com/blog/wrong-about-vertical-rhythm/",
+            "description": "Just a few days ago, I received a design critique from Aurobind (a font, newspaper and magazine designer) regarding my website. He specifically pointed out that the spaces between my paragraphs could be reduced to achieve a better effect. I was dumbfounded. I didn’t believe him at first since I was already using Vertical Rhythm. If I were to reduce the amount of space between paragraphs, wouldn’t I be breaking the Vertical Rhythm?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "04",
     "number": 1,
     "weekend": false,
