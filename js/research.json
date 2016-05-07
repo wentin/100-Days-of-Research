@@ -1,6 +1,153 @@
 [
   {
     "month": "May",
+    "date": "06",
+    "number": 3,
+    "weekend": false,
+    "title": "Variable Fonts (Multiple Masters)",
+    "sum": "4 weeks ago, among my many adventures of link clicking at late night, I found out about Variable Fonts. Reading Nick Sherman’s article about his vision of what Web Typography could be like in the future really excited me. Though at the time I thought it is pure science fiction — in type realm, too futuristic and too many development obstacles. 3 weeks ago, I went to San Fransisco for my job. At one dinner with coworker, because of my lacking in experience with babies and child education and ability to hold such conversation, I started a random new topic about variable fonts with another quiet dinner goer. A few minutes later I started to get excited because I heard some exciting development on this subject, which was happening as we spoke. This is why I love my job.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "essay",
+            "em": true,
+            "title": "The New Web Typography",
+            "href": "https://robinrendle.com/essays/new-web-typography/",
+            "description": "Web typography is only as strong as its weakest point… It’s often difficult to identify where the weakness in a design system can be found because a failure in programming will often cause a surprising failure in the aesthetics, and vice versa. Take the current implementation of declaring a font-weight in css. At the moment it’s horrendously limiting, and I think this has the effect of blinding us… I believe that these weaknesses in the programming—in the technical limitations of css and within the font formats themselves—have slowly become a weakness in aesthetics."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "research",
+            "category": "essay",
+            "em": true,
+            "title": "Efficient Web Type, c. 1556",
+            "href": "http://kennethormandy.com/journal/efficient-web-type-circa-1556",
+            "description": "Haultin’s performance issues in type design mirror our performance issues on the web: “How might a text be received, and read, more efficiently?”. He suggests answers to this this through the design of type itself, but that’s not the only place where this question needs an answer; we’re still facing the same question of typography efficiency today—but much more often it occurs on the web, and less so in the bible. … Practice, taking advantage of established approaches. Prospects, looking to upcoming technologies. Precedence, viewing the punchcutter’s process as precedence for designer’s role in web performance."
+          },
+          {
+            "number": "1.2",
+            "type": "research",
+            "category": "essay",
+            "em": true,
+            "title": "Variable Fonts for Responsive Design",
+            "href": "http://alistapart.com/blog/post/variable-fonts-for-responsive-design",
+            "description": "Choosing typefaces for use on the web today is a practice of specifying static fonts with fixed designs. But what if the design of a typeface could be as flexible and responsive as the layout it exists within?"
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.2.1",
+            "type": "tech",
+            "category": "archive",
+            "em": false,
+            "title": "Multiple Master Fonts",
+            "href": "http://partners.adobe.com/public/developer/opentype/index_mult_master.html",
+            "description": "Multiple master fonts are Type 1 font programs that include two or more \"master\" fonts within a single font file. It allows users to interpolate many intermediate \"instances\" of the typeface. The fonts have one or more \"axes\" which might typically represent the weight, width, or optical size of the font. Thus the user can generate a very large number of variations from a single font - thus providing unprecedented flexibility."
+          },
+          {
+            "number": "1.2.2",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "Font‑To‑Width (FTW!)",
+            "href": "http://font-to-width.com/",
+            "description": "Font‑To‑Width (FTW!) is a script by Nick Sherman and Chris Lewis that takes advantage of large type families to fit pieces of text snugly within their containers. Unlike other text-fitting tools like FitText.js, Font‑To‑Width does not scale the font-size (at least not by default). Instead, it chooses a width or weight variant according to what fits best, and then allows for letter- and word-spacing adjustments as needed."
+          },
+          {
+            "number": "1.2.3",
+            "type": "tech",
+            "category": "code",
+            "em": true,
+            "title": "Live Font Interpolation on the Web",
+            "href": "http://alistapart.com/article/live-font-interpolation-on-the-web",
+            "description": "As typographers, designers, and developers, we can solve this problem. But we’ll need to work together to make webfonts more systemized and context-aware. Live webfont interpolation—the modification of a font’s design in the browser—exists today and can serve as an inroad for using truly responsive typography."
+          },
+          {
+            "number": "1.2.4",
+            "type": "research",
+            "category": "essay",
+            "em": false,
+            "title": "Font Hinting and the Future of Responsive Typography",
+            "href": "http://alistapart.com/column/font-hinting-and-the-future-of-responsive-typography",
+            "description": "Thinking about it in these terms, hinting is responsive type that existed before the web: The font performs a media query of sorts to learn its size, then responds by repositioning points in each glyph according to built-in instructions, or “hints.”. In other words, hinting is to fonts what responsive layout is to websites. It allows a single font file to adapt to a variety of contexts, the same way CSS allows a single HTML file to adapt to a variety of contexts."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.2.3.1",
+            "type": "research",
+            "category": "tool",
+            "em": true,
+            "title": "A Glossary of Common Type Terminology",
+            "href": "https://www.fontshop.com/glossary/",
+            "description": ""
+          },
+          {
+            "number": "1.2.3.2",
+            "type": "tech",
+            "category": "story",
+            "em": false,
+            "title": "MutatorMath",
+            "href": "http://letterror.com/2014/09/19/mutatormath/",
+            "description": "Together with Petr van Blokland and Just van Rossum, we added algorithm support for the basic contour and glyph objects in RoboFog around 1997. This meant glyph objects could participate in basic math operations. This resulted in a reduction in code and at the same time invited a new level of complexity."
+          },
+          {
+            "number": "1.2.3.3",
+            "type": "tech",
+            "category": "math",
+            "em": false,
+            "title": "Interpolation Theory",
+            "href": "http://www.lucasfonts.com/about/interpolation-theory/",
+            "description": "Luc(as) de Groot’s Interpolation Theory is a theory about the optical behaviour of a family of fonts of increasing weight. It has resulted in a formula for calculating intermediate weights that has been influential among type designers the world over."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.2.3.2.1",
+            "type": "research",
+            "category": "essay",
+            "em": false,
+            "title": "The Adobe Originals Silver Anniversary Story: How the Originals endured in an ever-changing industry",
+            "href": "http://blog.typekit.com/2014/07/30/the-adobe-originals-silver-anniversary-story-how-the-originals-endured-in-an-ever-changing-industry/",
+            "description": "This is the seventh in a series of articles from Tamye Riggs, a longtime lover of type who is working with us to celebrate the twenty-fifth anniversary of the Adobe Originals type design program. This post explores multiple master fonts and OpenType, and how the Adobe Type team continued to innovate in type design and font technology."
+          },
+          {
+            "number": "1.2.3.2.2",
+            "type": "tech",
+            "category": "tool",
+            "em": false,
+            "title": "New from Adobe Type: Open-sourced font development tools",
+            "href": "http://blog.typekit.com/2014/09/19/new-from-adobe-type-open-sourced-font-development-tools/",
+            "description": "The AFDKO, or Adobe Font Development Kit for OpenType — is now available with an Apache open source license… recently we’ve been using the ADFKO in conjunction with Superpolator from Erik van Blokland, which provides a convenient user interface and a level of flexibility unavailable with other interpolation tools."
+          },
+          {
+            "number": "1.2.3.3",
+            "type": "tech",
+            "category": "math",
+            "em": false,
+            "title": "Interpolation Theory",
+            "href": "http://www.lucasfonts.com/about/interpolation-theory/",
+            "description": "Luc(as) de Groot’s Interpolation Theory is a theory about the optical behaviour of a family of fonts of increasing weight. It has resulted in a formula for calculating intermediate weights that has been influential among type designers the world over."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "05",
     "number": 2,
     "weekend": false,
@@ -12,7 +159,7 @@
           {
             "number": "1",
             "type": "tech",
-            "category": "article",
+            "category": "essay",
             "em": false,
             "title": "Web typography is broken. Here’s how we can fix it",
             "href": "http://www.studiothick.com/essays/web-typography-is-broken/",

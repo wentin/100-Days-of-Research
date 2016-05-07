@@ -344,7 +344,7 @@ nav ul li ul li {
 .level .research p {
   font-weight: 400;
   font-size: 24px;
-  line-height: 28px;
+  line-height: 30px;
 }
 .level .tech {
   font-family: "acumin-pro-wide", sans-serif;
@@ -377,8 +377,8 @@ nav ul li ul li {
 }
 .level .tech p {
   font-weight: 300;
-  font-size: 20px;
-  line-height: 28px;
+  font-size: 21px;
+  line-height: 30px;
   letter-spacing: -0.7px;
 }
 .level .quote {
