@@ -132,15 +132,6 @@
             "title": "New from Adobe Type: Open-sourced font development tools",
             "href": "http://blog.typekit.com/2014/09/19/new-from-adobe-type-open-sourced-font-development-tools/",
             "description": "The AFDKO, or Adobe Font Development Kit for OpenType — is now available with an Apache open source license… recently we’ve been using the ADFKO in conjunction with Superpolator from Erik van Blokland, which provides a convenient user interface and a level of flexibility unavailable with other interpolation tools."
-          },
-          {
-            "number": "1.2.3.3",
-            "type": "tech",
-            "category": "math",
-            "em": false,
-            "title": "Interpolation Theory",
-            "href": "http://www.lucasfonts.com/about/interpolation-theory/",
-            "description": "Luc(as) de Groot’s Interpolation Theory is a theory about the optical behaviour of a family of fonts of increasing weight. It has resulted in a formula for calculating intermediate weights that has been influential among type designers the world over."
           }
         ]
       }
