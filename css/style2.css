@@ -2,7 +2,7 @@ body {
   font-family: "adobe-caslon-pro", serif;
   color: #B6B8BA;
   display: inline-block;
-  background-color: #4E5C60;
+  background-color: #384548;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -129,7 +129,7 @@ header .color .swatch#swatch1 {
   background-color: #717475;
 }
 header .color .swatch#swatch2 {
-  border-color: #4E5C60;
+  border-color: #384548;
   background-color: #B6B8BA;
 }
 header .color .swatch#swatch3 {
@@ -138,7 +138,7 @@ header .color .swatch#swatch3 {
 }
 header .color .swatch#swatch4 {
   border-color: #323235;
-  background-color: #88A0AA;
+  background-color: #9FB7C1;
 }
 header .zoom {
   float: right;
@@ -208,7 +208,7 @@ nav ul li ul {
   top: 20px;
   margin-left: 0;
   padding-top: 8px;
-  background-color: #4E5C60;
+  background-color: #384548;
 }
 nav ul li ul li {
   float: none;
@@ -253,7 +253,7 @@ nav ul li ul li {
   margin-bottom: 20px;
 }
 .intro .date.weekend {
-  color: #4E5C60;
+  color: #384548;
   text-shadow: -1px -1px 0 #B6B8BA, 1px -1px 0 #B6B8BA, -1px 1px 0 #B6B8BA, 1px 1px 0 #B6B8BA;
 }
 .intro h4 {
@@ -450,7 +450,7 @@ nav ul li ul li {
   }
   header .color {
     display: none;
-    background-color: #4E5C60;
+    background-color: #384548;
     position: fixed;
     width: 100%;
     padding-left: 20px;
@@ -460,7 +460,7 @@ nav ul li ul li {
   }
   header .zoom {
     display: none;
-    background-color: #4E5C60;
+    background-color: #384548;
     position: fixed;
     width: 100%;
     padding-left: 20px;
