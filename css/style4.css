@@ -236,7 +236,7 @@ nav ul li ul li {
   float: right;
   font-family: "acumin-pro-wide", sans-serif;
   font-weight: 800;
-  font-size: 20px;
+  font-size: 21px;
   color: #87A0AB;
   letter-spacing: -1px;
 }
@@ -245,7 +245,7 @@ nav ul li ul li {
   float: right;
   font-family: "bodoni-urw", serif;
   font-weight: 800;
-  font-size: 86px;
+  font-size: 82px;
   color: #87A0AB;
   letter-spacing: -3px;
   line-height: 86px;
@@ -260,9 +260,9 @@ nav ul li ul li {
   clear: both;
   font-family: "acumin-pro-wide", sans-serif;
   font-weight: 800;
-  font-size: 20px;
-  letter-spacing: -1px;
-  line-height: 24px;
+  font-size: 27px;
+  letter-spacing: -0.8px;
+  line-height: 34px;
   text-align: right;
   margin-bottom: 8px;
 }
@@ -273,10 +273,10 @@ nav ul li ul li {
   clear: both;
   font-family: "acumin-pro-wide", sans-serif;
   font-weight: 500;
-  font-size: 20px;
+  font-size: 21px;
   color: #87A0AB;
-  letter-spacing: -1px;
-  line-height: 24px;
+  letter-spacing: -0.7px;
+  line-height: 28px;
   text-align: right;
   margin-bottom: 40px;
 }
@@ -285,7 +285,7 @@ nav ul li ul li {
   text-align: right;
   font-family: "acumin-pro-wide", sans-serif;
   font-weight: 800;
-  font-size: 20px;
+  font-size: 21px;
   color: #87A0AB;
   letter-spacing: -1px;
   line-height: 22px;
