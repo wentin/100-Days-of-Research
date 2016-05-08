@@ -175,7 +175,7 @@ nav ul {
 }
 nav ul li {
   float: left;
-  margin-right: 40px;
+  margin-right: 43px;
   position: relative;
   text-transform: uppercase;
   font-family: "acumin-pro-wide", sans-serif;
@@ -184,6 +184,9 @@ nav ul li {
   line-height: 20px;
   color: #B6B8BA;
   letter-spacing: -0.4px;
+}
+nav ul li.follow {
+  margin-left: -3px;
 }
 nav ul li a, nav ul li span {
   color: #B6B8BA;
