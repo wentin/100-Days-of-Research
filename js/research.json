@@ -1,11 +1,141 @@
 [
   {
     "month": "May",
+    "date": "07",
+    "number": 4,
+    "weekend": true,
+    "title": "Color Palettes Generator",
+    "sum": "Among my many failed attempt to finish a project, the one I go back to the most is the color theory project. Color is an interesting subject, because for 1), it has the right amount of art aspect in it, and 2) it can be explained and explored with code, and 3) it is the other fundamental part of design, just like typography. Plus I own an awesome domain for it, the only one that .space is not just for its cheapness: codecolor.space, code color space, how clever! One day, one day.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "tech",
+            "category": "article",
+            "em": true,
+            "title": "How To Avoid Equidistant HSV Colors",
+            "href": "https://vis4.net/blog/posts/avoid-equidistant-hsv-colors/",
+            "description": "… taking equidistant colors in the HSV color space is no solution for finding a set of colors that are perceived as equidistant. This post describes what’s wrong with HSV and what we can do about this."
+          },
+          {
+            "number": "2",
+            "type": "tech",
+            "category": "paper",
+            "em": false,
+            "title": "HCL-Based Color Palettes in R",
+            "href": "https://cran.r-project.org/web/packages/colorspace/vignettes/hcl-colors.pdf",
+            "description": "The package colorspace provides various functions providing perceptually-based color palettes for coding categorical data (qualitative palettes) and numerical variables (sequential and diverging palettes). We illustrate how these functions can be employed to generate various flavours of these palettes (with different emphases) and how they can be plugged into R graphics functions."
+          },
+          {
+            "number": "3",
+            "type": "tech",
+            "category": "tool",
+            "em": true,
+            "title": "Coolors",
+            "href": "https://coolors.co/",
+            "description": "Generate infinite color palettes for your designs and share, export or save it in your profile."
+          },
+          {
+            "number": "4",
+            "type": "tech",
+            "category": "tool",
+            "em": false,
+            "title": "COLOURlovers",
+            "href": "http://www.colourlovers.com/",
+            "description": "COLOURlovers is a creative community where people from around the world create and share colors, palettes and patterns, discuss the latest trends and explore colorful articles... All in the spirit of love."
+          },
+          {
+            "number": "5",
+            "type": "tech",
+            "category": "tool",
+            "em": false,
+            "title": "Material Palette",
+            "href": "http://www.materialpalette.com/",
+            "description": "Material Design Palette Generator"
+          },
+          {
+            "number": "6",
+            "type": "tech",
+            "category": "tool",
+            "em": false,
+            "title": "CSS Drive: Image to Colors Palette Generator",
+            "href": "http://www.cssdrive.com/imagepalette/",
+            "description": "Welcome to CSS Drive's Image to Colors Palette Generator! Upload an image to generate a color palette based on the image's primary colors. Useful for quickly grabbing a particular color within an image for inspiration."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "tech",
+            "category": "tool",
+            "em": false,
+            "title": "Color Brewer",
+            "href": "http://colorbrewer2.org/",
+            "description": "An Online Tool for Selecting Colour Schemes for Maps. Choosing effective colour schemes for thematic maps is surprisingly difficult. ColorBrewer is an online tool designed to take some of the guesswork out of this process by helping users select appropriate colour schemes for their speciffic mapping needs by considering: the number of data classes; the nature of their data (matched with sequential, diverging and qualitative schemes); and the end-use environment for the map (e.g. CRT, LCD, printed, projected, photocopied)."
+          },
+          {
+            "number": "1.2",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "chroma.js",
+            "href": "https://github.com/gka/chroma.js",
+            "description": "Chroma.js is a tiny JavaScript library (12kB) for all kinds of color conversions and color scales."
+          },
+          {
+            "number": "1.3",
+            "type": "tech",
+            "category": "tool",
+            "em": false,
+            "title": "Colors for Data Scientists",
+            "href": "http://tools.medialab.sciences-po.fr/iwanthue/",
+            "description": "Generate and refine palettes of optimally distinct colors."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1.1",
+            "type": "tech",
+            "category": "paper",
+            "em": false,
+            "title": "ColorBrewer: An Online Tool for Selecting Color Schemes for Maps. The Cartographic Journal 40(1): 27-37.",
+            "href": "http://www.albany.edu/faculty/fboscoe/papers/harrower2003.pdf",
+            "description": "An understanding of how to manipulate the three perceptual dimensions of colour (hue, saturation and lightness) is required to create attractive and logical colour sequences for thematic maps. These dimensions are three of the visual variables or basic ‘building blocks’ of graphics (Bertin, 1983). Nearly a century of colour theory development combined with perceptual testing has allowed us to better understand how individuals perceive and understand colour. From a semiotic perspective, colour works as a ‘sign vehicle’ when the map reader is able to understand that a specic colour on the map represents or stands for something in the real world and that multiple occurrences of that colour stand for the same kind of thing (MacEachren, 71995)."
+          },
+          {
+            "number": "1.3.1",
+            "type": "tech",
+            "category": "essay",
+            "em": true,
+            "title": "Colors for Data Scientists: Color Theory",
+            "href": "http://tools.medialab.sciences-po.fr/iwanthue/theory.php",
+            "description": "Distributing colors evenly, in a perceptively coherent space, constrained by user-friendly settings, to generate high quality custom palettes. Which is the best way to generate random colors? This was my starting point."
+          },
+          {
+            "number": "1.3.2",
+            "type": "tech",
+            "category": "experiment",
+            "em": false,
+            "title": "Random Colors: Experiment",
+            "href": "http://tools.medialab.sciences-po.fr/iwanthue/experiment.php",
+            "description": "Choose a generator and look at how the random colors are distributed. The purpose here is to observe the properties of different generators of colors."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "06",
     "number": 3,
     "weekend": false,
     "title": "Variable Fonts",
-    "sum": "4 weeks ago, among my many adventures of link clicking at late night, I found out about Variable Fonts. Reading Nick Sherman’s article about his vision of  Web Typography in the future really excited me. Though at the time I thought it is pure science fiction — in type realm, too futuristic and too many development obstacles. 3 weeks ago, I went to San Francisco for my job. At one dinner with coworker, because of my lacking in experience with babies and child education and ability to hold such conversation, I started a random new topic about variable fonts with another quiet dinner goer. A few minutes later I started to get excited because I heard some exciting development on this subject, which was happening as we spoke. I love my job.",
+    "sum": "4 weeks ago, among my many adventures of link clicking at late night, I found out about Variable Fonts. Reading Nick Sherman’s article about his vision of Web Typography in the future really excited me. Though at the time I thought it is pure science fiction — in type realm, too futuristic and too many development obstacles. 3 weeks ago, I went to San Francisco for my job. At one dinner with coworkers, because of my lacking in experience with babies and child education and ability to hold such conversation, I started a random new topic about variable fonts with another quiet dinner-goer. A few minutes later I started to get excited because I heard some exciting development on this subject, which was happening as we spoke. I love my job.",
     "levels": [
       {
         "links": [
@@ -143,7 +273,7 @@
     "number": 2,
     "weekend": false,
     "title": "Vertical Rhythm",
-    "sum": "While designing this website, I was torn on whether I should make it stick to a vertical grid. I read many articles about this particular topic. The one I agree the most is “The New Web Typography”. For the past few years, Web Typography is playing catch up, trying to achieve what has been done on the print. Web is a new medium, very different than print, and it is facing a lot of new challenges. Instead of doing everything “by the book”, new rules should be defined, and old rules that doesn’t apply any more should be tossed. Treat Web Typography as its own unique art form and medium.",
+    "sum": "While designing this website, I was torn on whether I should make it stick to a vertical grid. I read many articles about this particular topic. The one I agree the most is “The New Web Typography”. For the past few years, Web Typography is playing catch up, trying to achieve what has been done on the print. Web is a new medium, very different than print, and it is facing a lot of new challenges. Instead of doing everything “by the book”, new rules should be defined, and old rules that don't apply anymore should be tossed. Treat Web Typography as its own unique art form and medium.",
     "levels": [
       {
         "links": [
@@ -277,7 +407,7 @@
     "number": 1,
     "weekend": false,
     "title": "Metafont",
-    "sum": "Metafont was created almost 30 years ago. It is by no means a new finding. I was researching on parametric type design, and metafont is just exactly what I was looking for. Maybe it is another living proof of the saying “There is nothing new under the sun”. But the new is always born from the old. Soon after I started digging metafont, I found out about Metapolator, and Prototype. These tools are being actively worked on. When I look into it, the latest update could be as late as just 2 days ago. This excites me.",
+    "sum": "Metafont was created almost 30 years ago. It is by no means a new finding. I was researching on parametric type design, and Metafont is just exactly what I was looking for. Maybe it is another living proof of the saying “There is nothing new under the sun”. But the new is always born from the old. Soon after I started digging Metafont, I found out about Metapolator and Prototype. These tools are being actively worked on. When I look into it, the latest update could be as late as just 2 days ago. This excites me.",
     "levels": [
       {
         "links": [
