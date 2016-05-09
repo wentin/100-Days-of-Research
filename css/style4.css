@@ -226,6 +226,7 @@ nav ul li ul li {
 
 @-moz-document url-prefix() {
   .intro .date.weekend {
+    color: #323235 !important;
     text-shadow: -1px -1px 0 #9FB7C1, 1px -1px 0 #9FB7C1, -1px 1px 0 #9FB7C1, 1px 1px 0 #9FB7C1;
   }
 }
@@ -258,7 +259,7 @@ nav ul li ul li {
   margin-bottom: 20px;
 }
 .intro .date.weekend {
-  color: #323235;
+  color: transparent;
   -webkit-text-stroke: 1px #9FB7C1;
 }
 .intro h4 {
