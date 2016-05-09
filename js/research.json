@@ -1,6 +1,109 @@
 [
   {
     "month": "May",
+    "date": "08",
+    "number": 5,
+    "weekend": true,
+    "title": "OpenType Features",
+    "sum": "Among my many failed attempts to finish a project, the one I go back to the most is the color theory project. Color is an interesting subject, because for 1) it has the right amount of art aspect in it, and 2) it can be explained and explored with code, and 3) it is the other fundamental part of design, just like typography. Plus I own an awesome domain for it, the only one that .space is not just for its cheapness: codecolor.space, code color space, how clever! One day!",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "tech",
+            "category": "tutorial",
+            "em": true,
+            "title": "Caring about OpenType features",
+            "href": "http://practice.typekit.com/lesson/caring-about-opentype-features/",
+            "description": "More than fancy swashes and superfluous ligatures, OpenType features are font superpowers. The best, most capable typefaces are full of sophisticated reasoning and delightful surprises — things that are often integral to the design of the type itself, or that help it work better for specific typesetting tasks. Using OpenType features is easy when you know they exist, are enabled, and are supported in browsers and applications."
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "essay",
+            "em": false,
+            "title": "Advanced web typography: A recap on OpenType features",
+            "href": "http://www.elliotjaystocks.com/blog/a-recap-on-opentype-features/",
+            "description": "Browser support has improved, progress seems to have slowed and the varying levels of support are still pretty confusing. So let’s try and demystify some of this. The four areas I covered previously were: ligatures, small caps and old style numerals (with subsets for polyfilling), swashes (with subsets again), and stylesets."
+          },
+          {
+            "number": "3",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "Introducing Normalize-OpenType.css",
+            "href": "http://kennethormandy.com/journal/normalize-opentype-css",
+            "description": "Following the same normalising approach as its namesake, Normalize-OpenType.css only includes CSS that applies OpenType features to basic HTML elements, like <body>, <table>, and <time>. If your font includes OpenType features, your typography will be improved in supported browsers. If not, nothing else will be affected."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "tech",
+            "category": "book",
+            "em": false,
+            "title": "The OpenType Cookbook",
+            "href": "http://opentypecookbook.com/",
+            "description": "OpenType features allow fonts to behave smartly. This behavior can do simple things (e.g. change letters to small caps) or they can do complex things (e.g. insert swashes, alternates, and ligatures to make text set in a script font feel handmade). This cookbook aims to be a designer…"
+          },
+          {
+            "number": "2.1",
+            "type": "research",
+            "category": "essay",
+            "em": false,
+            "title": "Tomorrow’s Web Type Today Series",
+            "href": "http://www.elliotjaystocks.com/blog/the-fine-flourish-of-the-ligature/",
+            "description": "In preparation for my talks at TYPO Berlin next week and Ampersand next month, I’m brushing up on a load of future-facing techniques to do with typography on the web. I’m calling this series of posts ‘tomorrow’s web type today’ and I’m using each post’s heading to demonstrate a particular technique."
+          },
+          {
+            "number": "3.1",
+            "type": "tech",
+            "category": "tool",
+            "em": true,
+            "title": "The State of Web Type",
+            "href": "http://stateofwebtype.com/",
+            "description": "Up-to-date data on support for type and typographic features on the web."
+          },
+          {
+            "number": "3.2",
+            "type": "tech",
+            "category": "tool",
+            "em": true,
+            "title": "Utility OpenType",
+            "href": "http://utility-opentype.kennethormandy.com/",
+            "description": "Utility OpenType helps you make the most of the font that you are loading in, reducing convoluted CSS into four-letter, typographic utility classes, because: 1. OpenType features should be as easy to apply as bold and italics. 2. OpenType features should cascade predictably. 3. OpenType features should fallback gracefully."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "3.1.1",
+            "type": "tech",
+            "category": "tool",
+            "em": false,
+            "title": "OpenType features in web browsers — Tests (outdated)",
+            "href": "https://www.typotheque.com/articles/opentype_features_in_web_browsers_-_tests",
+            "description": "A collection of tests for OpenType feature support in web browsers. Based on the latest draft of the CSS Fonts Module Level 3 specification, and the latest public version of each browser."
+          },
+          {
+            "number": "3.1.2",
+            "type": "tech",
+            "category": "spec",
+            "em": false,
+            "title": "OpenType Specification",
+            "href": "https://www.microsoft.com/en-us/Typography/OpenTypeSpecification.aspx",
+            "description": "OpenType 1.70 is fully equivalent to the ISO/IEC 14496-22:2015 (3rd edition) “Open Font Format” standard. The standard will be published in June 2015 and at that time will be freely available for download from the ISO website."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "07",
     "number": 4,
     "weekend": true,
