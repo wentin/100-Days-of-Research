@@ -5,7 +5,7 @@
     "number": 5,
     "weekend": true,
     "title": "OpenType Features",
-    "sum": "Among my many failed attempts to finish a project, the one I go back to the most is the color theory project. Color is an interesting subject, because for 1) it has the right amount of art aspect in it, and 2) it can be explained and explored with code, and 3) it is the other fundamental part of design, just like typography. Plus I own an awesome domain for it, the only one that .space is not just for its cheapness: codecolor.space, code color space, how clever! One day!",
+    "sum": "The highlight of my last year was working with Tim Brown on launch the \"Caring about OpenType features\" lesson on practice Typekit. Doing the lesson helped me understand what OpenType is and means to Web Typography. But a few days ago, while making this website you are looking at, I discovered a new OpenType feature I wasn't aware of, historical ligature. OpenType is a treasure land, and I certainly enjoyed digging in.",
     "levels": [
       {
         "links": [
