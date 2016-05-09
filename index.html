@@ -34,7 +34,18 @@
             <input type="range" value="1" min="0.5" max="1" step="0.02" ng-model="zoom" ng-change="updateZoom()"> <span>{{zoom}}</span>
         </label>
     </header>
-    <div ng-view style="zoom:{{zoom}}"></div>
+    <style type="text/css">
+        @-moz-document url-prefix() {
+            .main {
+                zoom: {{zoom}};
+                -ms-zoom: {{zoom}};
+                -webkit-zoom: {{zoom}};
+                -moz-transform: scale({{zoom}});
+                -moz-transform-origin: left top;
+            }
+        }
+    </style>
+    <div ng-view class="main" style="zoom:{{zoom}}"></div>
     <script src='//cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.2/angular.min.js'></script>
     <script src='//ajax.googleapis.com/ajax/libs/angularjs/1.5.2/angular-cookies.js'></script>
     <script src='//ajax.googleapis.com/ajax/libs/angularjs/1.5.2/angular-route.js'></script>

@@ -224,6 +224,11 @@ nav ul li ul li {
   white-space: nowrap;
 }
 
+@-moz-document url-prefix() {
+  .intro .date.weekend {
+    text-shadow: -1px -1px 0 #9FB7C1, 1px -1px 0 #9FB7C1, -1px 1px 0 #9FB7C1, 1px 1px 0 #9FB7C1;
+  }
+}
 .intro {
   width: 350px;
   padding-top: 7px;
@@ -254,7 +259,7 @@ nav ul li ul li {
 }
 .intro .date.weekend {
   color: #323235;
-  text-shadow: -1px -1px 0 #9FB7C1, 1px -1px 0 #9FB7C1, -1px 1px 0 #9FB7C1, 1px 1px 0 #9FB7C1;
+  -webkit-text-stroke: 1px #9FB7C1;
 }
 .intro h4 {
   clear: both;
