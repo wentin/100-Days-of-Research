@@ -1,6 +1,153 @@
 [
   {
     "month": "May",
+    "date": "09",
+    "number": 6,
+    "weekend": false,
+    "title": "Typographic “Rules”",
+    "sum": "In “The Three Phases to Improve Your Typography”, I described Classic Phase and Master Phase. In retrospect, I could have made it much more clear and simpler by saying, Classic Phase is when you stick to typographic rules and master phase is when you know when and how to break them. Maybe “rule” is a poor choice of word, “principle” is a better word. The author of “The Value of Multi-Typeface Design Design” really amazed me with her knowledge and eyes for detail in typography. A must read.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "essay",
+            "em": true,
+            "title": "The Value of Multi-Typeface Design",
+            "href": "https://blog.prototypr.io/the-value-of-multi-typeface-design-ccd67227b0ee#.dmpv9i86c",
+            "description": "I want to present a counter argument and speak to the value of eclectic type systems, and how you can structure your projects in ways that will allow you to use more typefaces together effectively."
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "book",
+            "em": true,
+            "title": "Combining Typefaces: Free guide to great typography",
+            "href": "http://blog.typekit.com/2016/04/29/combining-typefaces-free-guide-to-great-typography/",
+            "description": "This very brief “pocket guide” is for designers and developers who want to make better choices about type and build their typographic expertise. Successful typeface combinations are partly a matter of good taste, which can be tough to develop. And finding typefaces that work well together often takes more time than we (or our managers, or our spouses!) think it should."
+          },
+          {
+            "number": "3",
+            "type": "tech",
+            "category": "tool",
+            "em": false,
+            "title": "Font Flame - Tinder for Font Pairing",
+            "href": "http://fontflame.com/",
+            "description": "Font Flame ambitiously tries to solve a problem most typography lovers have, namely font pairing.Even though this is still an early prototype, new features are continuously being rolled out. Hopefully in the end, it will be your go-to font pairing tool. Currently utilizing Google’s free font library, but there are plans to implement other sources."
+          },
+          {
+            "number": "4",
+            "type": "tech",
+            "category": "",
+            "em": false,
+            "title": "Type Genius",
+            "href": "http://www.typegenius.com/",
+            "description": ""
+          },
+          {
+            "number": "5",
+            "type": "tech",
+            "category": "",
+            "em": false,
+            "title": "Type Connection",
+            "href": "http://www.typeconnection.com/",
+            "description": ""
+          },
+          {
+            "number": "6",
+            "type": "tech",
+            "category": "",
+            "em": false,
+            "title": "Discover Typography",
+            "href": "http://discover.typography.com/",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "tech",
+            "category": "book",
+            "em": false,
+            "title": "Eight Tips for Combining Typefaces",
+            "href": "http://create.adobe.com/2013/12/1/eight_tips_for_combining_typefaces.html",
+            "description": "The more effective combinations usually rely on typographic principles. These principles are not scientific, rigid, or fail-safe; all of them can be broken, but they should all be understood."
+          },
+          {
+            "number": "1.2",
+            "type": "research",
+            "category": "book",
+            "em": false,
+            "title": "Typography for Lawyers",
+            "href": "http://fontsinuse.com/uses/53/typography-for-lawyers",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1.2",
+            "type": "research",
+            "category": "tutorial",
+            "em": true,
+            "title": "Best Practices of Combining Typefaces",
+            "href": "https://www.smashingmagazine.com/2010/11/best-practices-of-combining-typefaces/",
+            "description": "Creating great typeface combinations is an art, not a science. Indeed, the beauty of typography has no borders. While there are no absolute rules to follow, it is crucial that you understand and apply some best practices when combining fonts in a design. When used with diligence and attention, these principles will always yield suitable results. Today we will take a close look at some the best practices for combining typefaces — as well as some blunders to avoid."
+          },
+          {
+            "number": "1.2.1",
+            "type": "research",
+            "category": "book",
+            "em": false,
+            "title": "Butterick's Practical Typography",
+            "href": "http://practicaltypography.com/",
+            "description": "A few hun­dred years of type and ty­pog­ra­phy have es­tab­lished rules that only a fool would ig­nore. (Or a graphic de­signer keen to im­press his peers.) For all those who need to com­mu­ni­cate clearly and even add a mod­icum of aes­thetic value to their mes­sages, this pub­li­ca­tion pro­vides every­thing you al­ways wanted to ask but didn’t know how to."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1.2.1",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "29 principles for making great font combinations",
+            "href": "http://bonfx.com/29-principles-for-making-great-font-combinations/",
+            "description": "When it comes to making font combinations, there are principles and methods, but no absolutes. You can’t apply all the principles or ideas listed here at the same time. Just peruse this list of ideas and see what strikes you as interesting, and then pursue creating your own interesting typeface pairs!"
+          },
+          {
+            "number": "1.1.2.2",
+            "type": "research",
+            "category": "",
+            "em": false,
+            "title": "U&lc Mixing Typefaces, September 1992",
+            "href": "http://www.as8.it/handouts/mixing-typefaces_U&lc1992.pdf",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1.2.1.1",
+            "type": "research",
+            "category": "book",
+            "em": false,
+            "title": "The Big Book of Font Combinations",
+            "href": "http://bonfx.com/the-big-book-of-font-combinations/?cmp=bbofc1",
+            "description": "The BBOFC is an expansive collection of carefully crafted typeface pair samples. The font pairings in BBOFC will inspire you and give you back time you need for your design projects. Use the combination examples straight out of the BBOFC in your next project, with other typeface software, or use them as a springboard for your own creativity. However you use the BBOFC, it’s bound to inspire and is a trustworthy companion to consult for all kinds of design projects and general study of typography."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "08",
     "number": 5,
     "weekend": true,
