@@ -1,6 +1,136 @@
 [
   {
     "month": "May",
+    "date": "10",
+    "number": 7,
+    "weekend": false,
+    "title": "Font Loading",
+    "sum": "FOUT or FOIT or something else? Behind these nerdy code-like acronyms, it is how much some of us care about web typography: the milliseconds delay matters. From a joke on the presidential candidates' websites to serious long draft to the w3 standard on native font loading API, Font Loading is an interesting and important area in Web Typography to dig in. It shows the difference between Web Typography and Print Typography: print doesn't need loading time to render the text, it is all pre-loaded and pre-rendered. But as in \"The New Web Typography\" points out, the web is a new medium, it brings new challenges and we are facing them heads on.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "tech",
+            "category": "article",
+            "em": false,
+            "title": "Web Fonts for President 2016",
+            "href": "https://www.zachleat.com/web/president-web-font/",
+            "description": "US presidential candidates ordered by best font loading strategy."
+          },
+          {
+            "number": "2",
+            "type": "tech",
+            "category": "tutorial",
+            "em": false,
+            "title": "Loading Web Fonts with the Web Font Loader",
+            "href": "https://css-tricks.com/loading-web-fonts-with-the-web-font-loader/",
+            "description": "In fact, this practice of letting a browser hide all the text that should be styled with a custom font is now called the ‘Flash of Invisible Text’, or FOIT, and is often regarded as the worst of all possible options. Scott Jehl has argued that this is a pretty bad idea for both performance and usability. Likewise, the Typekit help page on the matter states that “the FOUT approach makes for more immediately usable pages, particularly on slower network connections.” So as designers and developers we have to make a decision between FOUT or FOIT."
+          },
+          {
+            "number": "3",
+            "type": "tech",
+            "category": "article",
+            "em": true,
+            "title": "Critical Web Fonts",
+            "href": "https://www.zachleat.com/web/critical-webfonts/",
+            "description": "The next iteration: critical FOFT. This method builds on the Flash of Faux Text (FOFT) using a two stages loading process (sounds like, but is not actually rocket science), but instead of a full Roman web font in the first stage, it loads a small subset of the Roman web font, in this case with only the upper case and lower case alphabetic characters."
+          },
+          {
+            "number": "4",
+            "type": "tech",
+            "category": "article",
+            "em": false,
+            "title": "Font Loading Revisited with Font Events",
+            "href": "https://www.filamentgroup.com/lab/font-events.html",
+            "description": "Last month we wrote about an approach we’d been using to load web fonts in a more responsible manner than browsers tend to do by default. The purpose of the approach was to avoid a typically undesirable browser behavior we often refer to as the “FOIT” (Flash of Invisible Text), in which a browser hides all text that should be styled with a custom font until that font has finished loading."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "2.1",
+            "type": "tech",
+            "category": "doc",
+            "em": false,
+            "title": "Typekit Help Page on the Font Events",
+            "href": "https://helpx.adobe.com/typekit/using/font-events.html",
+            "description": "CSS Font Events; JavaScript Font Events; Controlling the Flash of Unstyled Text (or FOUT) using font events; Dynamic kits and font events; Styling fallback fonts using font events."
+          },
+          {
+            "number": "2.2",
+            "type": "tech",
+            "category": "article",
+            "em": true,
+            "title": "Web Font Loading Patterns",
+            "href": "http://bramstein.com/writing/web-font-loading-patterns.html",
+            "description": "Web font load­ing may seem com­pli­cated, but it is ac­tu­ally quite sim­ple if you use these font load­ing pat­terns. Com­bine the pat­terns to cre­ate cus­tom font load­ing be­hav­iour that works in all browsers. Ba­sic font load­ing; Load­ing groups of fonts; Load­ing fonts with a time­out; Pri­ori­tised load­ing; Cus­tom font dis­play; Op­ti­mise for caching."
+          },
+          {
+            "number": "3.1",
+            "type": "tech",
+            "category": "article",
+            "em": false,
+            "title": "Flash of Faux Text - Still More on Font Loading",
+            "href": "https://www.zachleat.com/web/foft/",
+            "description": "After we’ve defeated the Flash of Invisible Text, we also want to decrease the amount of reflow a user sees when the font switches from fallback to @font-face. We already split our CSS into critical and deferred, why not fonts? Prioritize your fonts by loading only your roman (or plain/normal) font first, which will cause the browser to use font synthesis to create faux-bold/italic versions automatically. Next, trigger requests for the real bold and italic fonts. This will minimize the amount of reflow while the user is reading the content."
+          },
+          {
+            "number": "4.1",
+            "type": "tech",
+            "category": "article",
+            "em": false,
+            "title": "How we use web fonts responsibly, or, avoiding a @font-face-palm",
+            "href": "https://www.filamentgroup.com/lab/font-loading.html",
+            "description": "Using @font-face to load custom web fonts is a great feature to give our sites a unique and memorable aesthetic. However, when you use custom fonts on the web using standard techniques, they can slow down page load speed and hamper performance—both real and perceived. Luckily, we've figured out some methods to apply them carefully to ensure your site correctly balances usability, performance and style."
+          },
+          {
+            "number": "4.2",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "loadCSS",
+            "href": "https://github.com/filamentgroup/loadCSS",
+            "description": "Referencing CSS files with link[rel=stylesheet] or @import will cause most browsers to delay page rendering while the stylesheet loads. This is desirable in many cases, but when loading stylesheets that are not critical to the initial rendering of a page, loadCSS (and upcoming web standards mentioned below) allows you to load stylesheets asynchronously, so they don’t block page rendering."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "2.2.1",
+            "type": "tech",
+            "category": "code",
+            "em": true,
+            "title": "Font Face Observer",
+            "href": "https://github.com/bramstein/fontfaceobserver",
+            "description": "Font Face Observer is a small @font-face loader and monitor (3.5KB minified and 1.3KB gzipped) compatible with any web font service. It will monitor when a web font is applied to the page and notify you. It does not limit you in any way in where, when, or how you load your web fonts. Unlike the Web Font Loader Font Face Observer uses scroll events to detect font loads efficiently and with minimum overhead."
+          },
+          {
+            "number": "2.2.2",
+            "type": "tech",
+            "category": "doc",
+            "em": false,
+            "title": "Na­tive Font Load­ing API",
+            "href": "https://drafts.csswg.org/css-font-loading/",
+            "description": "This CSS module describes events and interfaces used for dynamically loading font resources."
+          },
+          {
+            "number": "3.1.1",
+            "type": "tech",
+            "category": "article",
+            "em": false,
+            "title": "Web Font Tune-up Time: A Fun Font Fallback Event",
+            "href": "http://blog.fonts.com/2011/08/web-font-tune-up-time-a-fun-font-fallback-event/",
+            "description": "In my last article I talked about the importance of font fallbacks when using Web fonts – though truth be told, it’s important no matter what. But simply adding fallbacks to your CSS leaves a lot of loose ends lying about that are just waiting to trip up you and your users. Here we’ll go through exactly what to do, how to do it and why it’s important to address getting your fallback embedding and styles sorted out and just a bit more complete."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "09",
     "number": 6,
     "weekend": false,
@@ -815,6 +945,15 @@
             "title": "Prototypo Release Video",
             "href": "https://www.youtube.com/watch?v=ueELKlfskuo",
             "description": ""
+          },
+          {
+            "number": "1.3.2.1.2.2",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "Plumin.js",
+            "href": "http://www.pluminjs.com/",
+            "description": "Manipulating fonts with code has enabled designers to create new kinds of typefaces, increase their quality, and automate repetitive tasks. Plumin.js allows to create and manipulate fonts using javascript."
           }
         ]
       }
