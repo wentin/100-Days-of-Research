@@ -1,6 +1,203 @@
 [
   {
     "month": "May",
+    "date": "11",
+    "number": 8,
+    "weekend": false,
+    "title": "Font Subsetting",
+    "sum": "In Dec. 2014, on a vacation trip to New Orlean, I came up with the idea of font subsetting, to address the web font issue for CJK fonts. I was so excited that I drafted an email immediately in the hotel to a type friend I met online (GitHub), who has experience building font serving open source project and also has an Asian background. But of course, this idea was not new, as \"Nothing is new under the sun\". I found out about justfont, which did exactly what I envisioned. A few month later I started to talk to Typekit about joining the team, and it turned out Typekit has the dynamic subsetting technology as well, ready to be launched in Japan. The technology is there, the real question now is why it is not as ground shattering as I imagined? Why is Chinese web design still not pushing as hard on typography as the West? Maybe it is the intrinsic beauty in the language character itself that shadowed the power of good typeface? Or eastern design has not evolved to the stage to be caring about such detail? I am leaning towards the former.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "tech",
+            "category": "service",
+            "em": false,
+            "title": "justfont",
+            "href": "http://en.justfont.com/fonts",
+            "description": "Even though various webfont services are available for English texts, such as google webfonts, creating a Chinese webfont service is an enormous challenge, considering the file sizes of Chinese fonts are quite large. But we have exceeded all imaginations to create a Chinese webfont service which boasts the same service speed as English webfonts. Besides utilizing dynamic sub-setting which effectively shrinks Chinese fonts, we pursue paramount perfection in every presented detail, offering you incredible instantaneous display."
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "Announcing East Asian web font support and new font browsing tools for Japanese customers",
+            "href": "http://blog.typekit.com/2015/06/15/announcing-east-asian-web-font-support/",
+            "description": "East Asian fonts are big. Really, REALLY big. Last year we announced the introduction of Source Han Sans, with glyph counts ranging from just under 18,000 for Japanese and nearly 31,000 for Simplified Chinese. Not only do they have a lot of glyphs, they have a lot of megabytes to go with them – from 4.2 to 8.8MB per font! How are you going to use those on your site?! Well, here’s what we have done: when you add an East Asian font family to your kit, it will automatically become what we call a dynamic kit. In a dynamic kit, you’ll have a new Character Set option in the kit editor called Dynamic Subsetting. When your dynamic kit JavaScript loads in the browser, it will detect your page’s character usage and request a dynamic subset for the glyphs needed for each member of the family. This makes for very small fonts, with incredibly fast load times."
+          },
+          {
+            "number": "3",
+            "type": "tech",
+            "category": "tutorial",
+            "em": false,
+            "title": "Slash Page Load Times With CSS Font Subsetting",
+            "href": "http://thenewcode.com/878/Slash-Page-Load-Times-With-CSS-Font-Subsetting",
+            "description": "The wide availability of web fonts has enabled sites to become typographical wonderlands, at the cost of increased page size and longer load times. Performance-focused developers already optimize their images and CSS; it makes sense that we should also optimize web fonts. The good news is that doing is fairly easy: by creating your own custom font or supplying your web font hosting service with a simple variable value, you can load only the glyphs that you need for the text you have on the page, rather than the entire range of characters, numbers and symbols in the font, reducing page load times."
+          },
+          {
+            "number": "4",
+            "type": "research",
+            "category": "",
+            "em": false,
+            "title": "Monotype Dynamic Subsetting",
+            "href": "http://www.ascendercorp.us/services/screen-imaging-solutions/dynamicsubsetting",
+            "description": "Dynamic subsetting, a patented technology from Monotype, enables content developers to improve Web page and application performance when using Web fonts. Developed initially to reduce load times for Chinese, Japanese and Korean fonts, dynamic subsetting allows all Web fonts to load faster – even when delivered to mobile devices over mobile networks."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "tech",
+            "category": "service",
+            "em": false,
+            "title": "youziku",
+            "href": "http://www.youziku.com/",
+            "description": "Chinese Web Font Service"
+          },
+          {
+            "number": "1.2",
+            "type": "tech",
+            "category": "code",
+            "em": true,
+            "title": "Font Spider",
+            "href": "http://font-spider.org/",
+            "description": "Open Source Dynamic Web Font Subsetting for Chinese font, written in Node.js"
+          },
+          {
+            "number": "1.3",
+            "type": "tech",
+            "category": "service",
+            "em": false,
+            "title": "iFontCloud",
+            "href": "http://ifontcloud.com/index/index.jsp",
+            "description": "iFontCloud Web Font Service: Effectively compresses the file size of the font and allows data transfer to be more efficient."
+          },
+          {
+            "number": "2.1",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Launched and live: Custom language subsetting options",
+            "href": "http://blog.typekit.com/2015/01/13/launched-and-live-custom-language-subsetting-options/",
+            "description": "If you’re new to language subsetting, we’ll walk you through using the feature here. You don’t have to change anything if you don’t want to — all of your kits will continue to work with the current settings — but many people use custom subsets to control the size of their kits while covering multiple languages. In short, a smaller kit means a faster load time for your website."
+          },
+          {
+            "number": "2.2",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "New from Typekit: Get early access to new web font subsetting options",
+            "href": "http://blog.typekit.com/2014/12/16/new-from-typekit-get-early-access-to-new-web-font-subsetting-options/",
+            "description": "We’re pleased to announce some major improvements to our language subsetting options for web fonts. These changes will allow you to fine-tune the characters and OpenType features you include in your kits, so you can deliver content in more languages while serving much smaller fonts to your users. This is great news for kit sizes, and paves the way for some really exciting features to come."
+          },
+          {
+            "number": "3.1",
+            "type": "tech",
+            "category": "article",
+            "em": false,
+            "title": "The Joy of Subsets: Crossbreeding Web Fonts",
+            "href": "http://www.sitepoint.com/joy-of-subsets-web-fonts/",
+            "description": "Thanks to “one weird trick” I discovered using Google Fonts, I can now offer you a way to be inventive with subsets without the need to deconstruct those fonts manually. It’s all about Google Fonts’ URL text parameter."
+          },
+          {
+            "number": "4.1",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Dynamic Subsetting For Dynamic Content",
+            "href": "http://blog.fonts.com/2012/03/dynamic-subsetting-for-dynamic-content/",
+            "description": "By now, most of you have (hopefully) heard about our patent-pending dynamic subsetting technology that helps brands improve the performance and user experience when using Web fonts. Initially developed to reduce the larger file sizes of Chinese, Japanese and Korean fonts, dynamic subsetting automatically detects and delivers a Web font containing only the characters needed to render the page, thus dramatically reducing font file size. While Fonts.com Web Fonts has used dynamic subsetting for all of our East Asian fonts since its inception in 2010, we’d like to explore implementing the technology for other languages and use cases including mobile targeted content, dynamic branded content, social apps or rich media ads."
+          },
+          {
+            "number": "4.2",
+            "type": "tech",
+            "category": "demo",
+            "em": false,
+            "title": "Font Subsetter",
+            "href": "http://fontsubsetter.com/en-US#whatIsSubsetting",
+            "description": "Reduce wait times and improve experience: When using web fonts, dynamic Subsetting helps to detect and deliver only the letters that are being used vs. the entire font library, reducing the file size and load times. Typical Chinese fonts include over 13,000 characters at 8MB. With dynamic subsetting that same file is reduced to less than 200KB. This is done with Monotype patented technology, Dynamic font Subsetting."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.2.1",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "Font Spider GitHub Repo",
+            "href": "https://github.com/aui/font-spider",
+            "description": ""
+          },
+          {
+            "number": "2.1.2",
+            "type": "research",
+            "category": "doc",
+            "em": false,
+            "title": "Language support and subsetting",
+            "href": "https://helpx.adobe.com/typekit/using/language-support-subsetting.html",
+            "description": "The fonts in the Typekit library include support for many different languages. You can filter for fonts that support a specific language (or combination of languages) from the Language Support section on http://typekit.com/fonts. Japanese fonts can be filtered using the Script button, and support various combinations of kanji and kana character sets, which are indicated on each family detail page."
+          },
+          {
+            "number": "3.1.1",
+            "type": "tech",
+            "category": "article",
+            "em": true,
+            "title": "Font Hacking",
+            "href": "http://www.heydonworks.com/article/font-hacking",
+            "description": "What if I told you there was a way to radically alter your web pages without using images, javascript, proprietary CSS3 or any extra markup? What if I told you you didn’t have to be an experienced typographer, you could do it for little more than 6Kb and that it would work in Internet Explorer 7? For free? Welcome to Font Hacking, my primer on extracting, deconstructing, altering and replacing letterforms. The workflow I shall be outlining can be used for good or for evil; artfully resculpting typefaces or brutally defacing them. I am going to give you the ability to do either."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.2.1.1",
+            "type": "tech",
+            "category": "code",
+            "em": true,
+            "title": "Fontmin",
+            "href": "https://github.com/ecomfe/fontmin",
+            "description": "Minify font seamlessly."
+          },
+          {
+            "number": "1.2.1.2",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "Fontmin App",
+            "href": "https://github.com/ecomfe/fontmin-app",
+            "description": "Fontmin App is client app for fontmin, on Mac and Windows"
+          },
+          {
+            "number": "1.2.1.3",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "Baidu Chinese Font Auto Build",
+            "href": "http://efe.baidu.com/blog/chinese-font-build/",
+            "description": ""
+          },
+          {
+            "number": "3.1.1.1",
+            "type": "tech",
+            "category": "tutorial",
+            "em": false,
+            "title": "Creating Custom Font Stacks with Unicode-Range",
+            "href": "https://24ways.org/2011/creating-custom-font-stacks-with-unicode-range/",
+            "description": "… One such property — the unicode-range descriptor — sounds pretty dull and is easily overlooked. It does, however, have some fairly interesting possibilities when put to use in creative ways."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "10",
     "number": 7,
     "weekend": false,
