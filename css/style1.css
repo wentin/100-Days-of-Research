@@ -184,6 +184,10 @@ nav ul li {
   line-height: 20px;
   color: #717475;
   letter-spacing: -0.4px;
+  font-variant-numeric: tabular-nums;
+  -moz-font-feature-settings: "tnum";
+  -webkit-font-feature-settings: "tnum";
+  font-feature-settings: "tnum";
 }
 nav ul li.follow {
   margin-left: -3px;
