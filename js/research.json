@@ -5,7 +5,7 @@
     "number": 7,
     "weekend": false,
     "title": "Font Loading",
-    "sum": "FOUT or FOIT or something else? Behind these nerdy code-like acronyms, it is how much some of us care about web typography: the milliseconds delay matters. From a joke on the presidential candidates' websites to serious long draft to the w3 standard on native font loading API, Font Loading is an interesting and important area in Web Typography to dig in. It shows the difference between Web Typography and Print Typography: print doesn't need loading time to render the text, it is all pre-loaded and pre-rendered. But as in \"The New Web Typography\" points out, the web is a new medium, it brings new challenges and we are facing them heads on.",
+    "sum": "FOUT or FOIT or something else? Behind these nerdy code-like acronyms, it is how much some of us care about web typography: the milliseconds delay matters. From a joke on the presidential candidates' websites to serious long draft to the w3 standard on native font loading API, Font Loading is an interesting and important area in Web Typography to dig in. It shows the difference between Web Typography and Print Typography: print doesn't need loading time to render the text, it is all pre-loaded and pre-rendered. But as \"The New Web Typography\" points out, the web is a new medium, it brings new challenges to typography, and that is what makes now the most exciting time to get in.",
     "levels": [
       {
         "links": [
