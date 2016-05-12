@@ -1,6 +1,212 @@
 [
   {
     "month": "May",
+    "date": "12",
+    "number": 9,
+    "weekend": false,
+    "title": "Opinions on Rebrand",
+    "sum": "",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "critique",
+            "em": false,
+            "title": "New Icon for Instagram done In-house #Gradient #Minimal #Life #CatsOfInstagram",
+            "href": "http://www.underconsideration.com/brandnew/archives/new_icon_for_instagram_done_in_house.php#.VzSjBpMrLUI",
+            "description": "The skeuomorphic camera icon that has accompanied Instagram until today is a modern-day classic. Not because it’s good — it’s not, really — but because of its omnipresence in users’ phone screens. I bet it’s on the home screen of 99% of people who have the app and who tap it very regularly. When the iPhone first came out — if you’ll remember — skeuomorphism was the default aesthetic and now, for better or worse, it’s all about flat design with a dash of optional gradients so it’s no surprise that’s where Instagram has headed. If there was any surprise it’s that Instagram held on to the skeuomorphism for a relatively long five years."
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "critique",
+            "em": false,
+            "title": "New Logo and Identity for The Met by Wolff Olins, Making the Mummies Dense",
+            "href": "http://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_the_met_by_wolff_olins.php#.VzSjwZMrLUI",
+            "description": "But the museum felt that this geometrically-constructed M was too reliant on symbolism. So instead, they wrote out the name as “an original drawing, a hybrid that combines and connects serif and sans serif, classical and modern letterforms. In this respect, it reflects the scope of the Museum’s collection and the connections that exist within it”. In other words the letters touch each other."
+          },
+          {
+            "number": "3",
+            "type": "research",
+            "category": "essay",
+            "em": false,
+            "title": "You Could Almost Do Anything Pt. I",
+            "href": "http://www.elischiff.com/blog/2016/4/12/do-almost-anything",
+            "description": "One of the central aims of the modern minimalist project is to remove as much visually representational information as possible, despite the inherent contradictions that implies for the design practitioner. Abstraction is one of the primary tools modern minimalist designers needlessly corrupt in order to prevent meaning from being made of what otherwise might be communicative visual signs. This preference for intentional obscurantism brings status to a class of would-be elite designers and their sycophants."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "research",
+            "category": "blog",
+            "em": false,
+            "title": "A New Look for Instagram",
+            "href": "http://blog.instagram.com/post/144198429587/160511-a-new-look",
+            "description": "Today we’re introducing a new look. You’ll see an updated icon and app design for Instagram. Inspired by the previous app icon, the new one represents a simpler camera and the rainbow lives on in gradient form."
+          },
+          {
+            "number": "1.2",
+            "type": "research",
+            "category": "youtube",
+            "em": false,
+            "title": "Tobias van Schneider's thoughts on Instagram's new design and logo",
+            "href": "https://www.youtube.com/watch?v=xR3t9SsfHT0&feature=youtu.be",
+            "description": "Tobias van Schneider: After many people asked me on Twitter about my thoughts on the new icon and Instagram design refinements, I thought it might be best to make a quick video. PS: I do not work at Instagram, I'm just someone who loves the app."
+          },
+          {
+            "number": "2.1",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "The Metropolitan Museum of Art’s New Logo Is a Typographic Bus Crash",
+            "href": "http://www.vulture.com/2016/02/metropolitan-museums-new-logo-the-met.html",
+            "description": "As the Metropolitan Museum of Art busts out of its Beaux-Arts shell and opens its Madison Avenue outpost in the old Whitney, the institution is trying on a fresh identity, or at least enshrining an old nickname in a new look. In its logo, the Met is now THE MET, the two short words printed in scarlet letters, stacked and squashed together. The whole ensemble looks like a red double-decker bus that has stopped short, shoving the passengers into each other’s backs. Worse, the entire top half of the new logo consists of the word the."
+          },
+          {
+            "number": 2.2,
+            "type": "quote",
+            "category": "essay",
+            "quote": "Whether we want to acknowledge it or not, anyone evaluating a brand new logo at first glance is — to paraphrase my partner Paula Scher — reviewing a three-act play based on what they see the moment the curtain goes up. Or, to put it differently, they think they're judging a diving competition when in fact they're judging a swimming competition. The question isn't what kind of splash you make. It's how long you can keep your head above water.",
+            "author": {
+              "name": "Michael Bierut",
+              "href": ""
+            },
+            "cite": {
+              "title": "Not Diving but Swimming",
+              "href": "http://designobserver.com/feature/not-diving-but-swimming/39218/"
+            }
+          },
+          {
+            "number": "3.1",
+            "type": "research",
+            "category": "essay",
+            "em": true,
+            "title": "Fall of the Designer Part I: Fashionable Nonsense",
+            "href": "http://www.elischiff.com/blog/2015/4/7/fall-of-the-designer-part-i-fashionable-nonsense",
+            "description": "Icon design used to be a specialty at Apple. Today, they encourage app designers to follow their homogenous example. The height of creativity in icon design today is a flat, white super-ellipse with a logo in the middle."
+          },
+          {
+            "number": "3.2",
+            "type": "research",
+            "category": "interview",
+            "em": false,
+            "title": "Michael Bierut (Part 2): The primitive power of logos",
+            "href": "http://www.designindaba.com/videos/interviews/michael-bierut-part-2-primitive-power-logos",
+            "description": "We tend to fixate on the power of logos in today’s hyper-aware consumer culture, which Bierut is quick to disarm. “I don’t want to overemphasise logos in the world. I think that if you act with intelligence and integrity and consistency you’ll develop a brand. Whether you are a person or a non-profit, a small organisation or a giant corporation.”"
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.2.1",
+            "type": "research",
+            "category": "",
+            "em": false,
+            "title": "Dribbble redesigns Instagram redesign",
+            "href": "https://dribbble.com/search?q=instagram&s=latest",
+            "description": ""
+          },
+          {
+            "number": "2.2.1",
+            "type": "research",
+            "category": "podcast",
+            "em": false,
+            "title": "Michael Bierut + Jessica Helfand: The Logosphere",
+            "href": "http://designobserver.com/article.php?id=39243",
+            "description": "This week, Jessica and Michael get around to discussing the new logo for the Metropolitan Museum of Art, the ensuing hubbub, and why so many hubbubs ensue from new logos. Also see Michael’s recent Design Observer essay on the subject."
+          },
+          {
+            "number": "2.2.2",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "The Meh-tropolitan Museum of Art’s Rebranding",
+            "href": "http://hyperallergic.com/277926/the-meh-tropolitan-museum-of-arts-rebranding/",
+            "description": ""
+          },
+          {
+            "number": "2.2.3",
+            "type": "research",
+            "category": "essay",
+            "em": false,
+            "title": "The Met and a New Logo",
+            "href": "http://www.nytimes.com/2016/02/19/arts/the-met-and-a-new-logo.html?_r=0",
+            "description": "The Metropolitan Museum of Art’s new official design, which generated strong negative reactions this week, is part of a larger rebranding effort that the museum says is meant to signal a more welcoming, accessible, current institution."
+          },
+          {
+            "number": "3.1.1",
+            "type": "research",
+            "category": "essay",
+            "em": false,
+            "title": "Uber's Atomic Meltdown",
+            "href": "http://www.elischiff.com/blog/2016/2/16/ubers-atomic-meltdown",
+            "description": "Most of us have come to accept the new Uber redesign as normal–after all, it has been a whole two weeks since its reveal. Nevertheless, it is well worth examining this prime example of both design and managerial dysfunction."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "2.2.2.1",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "The Met Explains Its Controversial New Logo",
+            "href": "http://www.wired.com/2016/02/the-met-explains-its-controversial-new-logo/#slide-1",
+            "description": "The Met’s new logo won’t do that. It’s static, like a stamp. And like the rest of The Met’s visual overhaul, it’s something of a safe bet. Lee says one goal of the rebranding is to “make the experience much more accessible to people,” and Lisa Smith, the creative director at Wolff Olins, says the font, the palette, and the photography styles are “much more simple and friendly and global.” The Met’s lead designer and its head of marketing offer similar rhetoric. Everyone used the words “friendlier,” “simpler,” and “contemporary” a lot."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "2.2.2.1.1",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Say WWWhat? Whitney Museum Unveils New Graphic Identity",
+            "href": "http://www.adweek.com/fishbowlny/say-wwwhat-whitney-museum-unveils-new-identity/300259?red=ub",
+            "description": "The new identity, created by Amsterdam-based Experimental Jetset and unveiled today along with the museum’s redesigned website, is an anti-logo: lacking distinction, gravitas, and the ability to be seen from across a room. The “responsive ‘W’,” intended to dynamically “illustrate the museum’s ever-changing nature” with an elastic take on the letter “W,” is paired with a redrawn version of Neue Haas Grotesk, in all caps."
+          },
+          {
+            "number": "2.2.2.1.2",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "The Whitney Museum’s New Logo Goes Nowhere",
+            "href": "http://hyperallergic.com/71653/the-whitney-museums-new-logo-goes-nowhere/",
+            "description": "Looking at the branding guidelines, I don’t see the visual pleasure of a Sol Lewitt wall drawing, or the perceptual fancy of Op Art, even the solidity of Abbott Miller’s logo, what is here is a bare decontextualized line, on a white field, with no soul, just a continuous wave, like the stock market, which gives us the illusion of progress and movement but doesn’t really go anywhere."
+          },
+          {
+            "number": "2.2.2.1.3",
+            "type": "research",
+            "category": "work",
+            "em": true,
+            "title": "Jewish Museum Identity by Sagmeister & Walsh",
+            "href": "http://www.sagmeisterwalsh.com/work/project/jewish-museum-identity/",
+            "description": "Our goal in rebranding the museum was to connect the historic and contemporary, and engage multiple visitor generations. The new identity system we created is founded on ‘sacred geometry’, an ancient geometric system from which the Star of David was formed. The entire branding system is drawn on this grid, from the word and logo mark, to dozens of patterns, icons, typography, and illustrations. To address photography as part of the system, we built a processing app that turns a photo or webcam stream into a Jewish Museum illustration."
+          },
+          {
+            "number": "2.2.2.1.4",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "The New Metropolitan Museum logo",
+            "href": "https://medium.com/@johnkorpics/the-new-metropolitan-museum-logo-8108d36cbeed#.mme2p5jbk",
+            "description": "Mostly I just miss the personality of the old one. In our effort to flatten, simplify, clean up and generally declutter design (all good things) we also tend to lose personality and character. That doesn’t have to be the case. A great design solution can do both. And in the case of one of the greatest museums on the planet, it has a responsibility to do both."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "11",
     "number": 8,
     "weekend": false,
