@@ -1,6 +1,181 @@
 [
   {
     "month": "May",
+    "date": "13",
+    "number": 10,
+    "weekend": false,
+    "title": "Everything Color",
+    "sum": "Starting today, I am going to focus my research on topics that I am going to teach this summer at OfCourse in China. The class is focused on typography, color, and motion, explored through Javascript creative coding. I want to research color a bit deeper than last time, particularly in regard to the coding aspect of it. And oh boy did I find treasure ☞ “RGB/XYZ Matrices”. There are a couple of points in my adult life that I just feel blessed that I did my homework of Linear Algebra on that particularly rainy day in Fall 2007. Last time was when reading the technical documentation on CSS Matrix, and today is the other occasion. Kids, stay in school!",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "tech",
+            "category": "article",
+            "em": false,
+            "title": "Exploring Color Theory with Blender",
+            "href": "http://www.photo-mark.com/notes/color-theory-blender/",
+            "description": "Blender is an open source 3D modeling/rendering application. Because you have to tell it explicitly what to do at every step, working with color geometry in Blender is a really good way to sharpen your understanding of the technical details. And unlike software dedicated specifically to plotting colors, Blender imposes no limitations on your creativity."
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "tutorial",
+            "em": true,
+            "title": "Color Template",
+            "href": "http://www.rocket-design.fr/color-template/",
+            "description": "How do you choose the right colors for your designs? 1 - The Color Wheel; 2 - Color definition; 3 - Color relationship; 4 - Color Harmony; 5 - Warm and cool colors; 6 - How Many Colors?; 7 - Triadic Colors; 8 - Rationing Color;"
+          },
+          {
+            "number": "3",
+            "type": "research",
+            "category": "blog",
+            "em": false,
+            "title": "Movies in Color",
+            "href": "http://moviesincolor.com/",
+            "description": "A website featuring stills from films and their corresponding color palettes. A tool to promote learning and inspiration. Updated daily."
+          },
+          {
+            "number": "4",
+            "type": "research",
+            "category": "tutorial",
+            "em": true,
+            "title": "Ultimate Guide to Color Theory for Designers",
+            "href": "http://www.vandelaydesign.com/ultimate-guide-color-theory-designers/",
+            "description": "This guide explores the subject of color relative to web and graphic design. The information is meant to be introductory while also getting into more applicable topics for digital designers. Advanced color theory is something best learned through practice rather than theory, but in order to improve, you have to start somewhere. Along with helpful tips and ideas for designing with color, you’ll also find plenty of valuable resources interspersed throughout the article."
+          },
+          {
+            "number": "5",
+            "type": "tech",
+            "category": "tutorial",
+            "em": true,
+            "title": "Blending Modes in CSS: Color Theory and Practical Application",
+            "href": "http://webdesign.tutsplus.com/tutorials/blending-modes-in-css-color-theory-and-practical-application--cms-25201",
+            "description": "You might be familiar with “blending modes” if you’re a Photoshop user; they allow you to combine layers in different ways and they’re great fun to play with. Blending modes in CSS, however, aren’t supported universally, but they are certainly on their way."
+          },
+          {
+            "number": "6",
+            "type": "research",
+            "category": "essay",
+            "em": true,
+            "title": "Do Brand Colors Translate to Instagram?",
+            "href": "https://blog.modeanalytics.com/brand-colors-on-instagram/",
+            "description": "We were curious: how does this color-centric visual identity carry over to social media and, more specifically, Instagram? If we boiled down a brand’s Instagram photos to a handful of colors, could you identify the brand?"
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "tech",
+            "category": "reference",
+            "em": true,
+            "title": "RGB/XYZ Matrices",
+            "href": "http://www.brucelindbloom.com/index.html?Eqn_RGB_XYZ_Matrix.html#WSMatrices",
+            "description": "Using the chromaticities and reference whites of common RGB working spaces, I have done the math for you to compute the RGB-to-XYZ and XYZ-to-RGB matrices. Note that these matrices are given relative to their own reference whites. If you examine the matrices for these working spaces found inside ICC profiles (through the redColorantTag, greenColorantTag and blueColorantTag), those matrices will always be relative to D50, and therefore, the colorants have been subjected to a chromatic adaptation transformation if the working space reference white is not also D50."
+          },
+          {
+            "number": "1.2",
+            "type": "tech",
+            "category": "project",
+            "em": false,
+            "title": "Color Wander",
+            "href": "http://color-wander.surge.sh/",
+            "description": "Tap to ramdomize both the color and the particle system movement."
+          },
+          {
+            "number": "2.1",
+            "type": "tech",
+            "category": "tool",
+            "em": false,
+            "title": "Pictaculous",
+            "href": "http://www.pictaculous.com/",
+            "description": "Looking for a particular emotion, style or atmosphere from your colour palette? Pictaculous is a clever tool that allows you to pick out colours from an uploaded image."
+          },
+          {
+            "number": "2.2",
+            "type": "tech",
+            "category": "tool",
+            "em": false,
+            "title": "Color Scheme Designer",
+            "href": "http://paletton.com/",
+            "description": "Color Scheme Designer has been around for a while, but was just recently updated with a brand new interface and a new color scheme generating engine."
+          },
+          {
+            "number": "6.1",
+            "type": "tech",
+            "category": "tutorial",
+            "em": false,
+            "title": "Using python and k-means to find the dominant colors in images",
+            "href": "http://charlesleifer.com/blog/using-python-and-k-means-to-find-the-dominant-colors-in-images/",
+            "description": "This approach uses k-means clustering to cluster the pixels in groups based on their color. The center of those resulting clusters are then the \"dominant\" colors. k-means is a great fit for this problem because it is (usually) fast. It has the caveat of requiring you to specify up-front how many clusters you want."
+          },
+          {
+            "number": "6.2",
+            "type": "tech",
+            "category": "tool",
+            "em": false,
+            "title": "CSS Analyser",
+            "href": "http://juicystudio.com/services/csstest.php",
+            "description": "This service has been provided to allow you to check the validity of your CSS against the W3C's validation service, along with a colour contrast test, and a test to ensure that relevant sizes are specified in relative units of measurement. If the CSS is specified by a URL, it will be loaded into the text area to offer an option to make changes for testing without having to re-upload."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "2.2.1",
+            "type": "tech",
+            "category": "tool",
+            "em": false,
+            "title": "Color Hunt",
+            "href": "http://colorhunt.co/",
+            "description": "Color Hunt is a place to discover and share beautiful color palettes. We pick and collect curated color combinations that has a magic. Our colors are all yours, you are welcome to use, share, and get inspiration, every day."
+          },
+          {
+            "number": "2.2.2",
+            "type": "tech",
+            "category": "tool",
+            "em": false,
+            "title": "ColorHexa",
+            "href": "http://www.colorhexa.com/",
+            "description": "ColorHexa.com is a free color tool providing information about any color and generating matching color palettes for your designs (such as complementary, analogous, triadic, tetradic or monochromatic colors schemes). Just type any color value in the search field and ColorHexa will offer a detailed description and automatically convert it to its equivalent in Hexadecimal, RGB, CMYK, HSL, HSV, CIE-LAB / LUV / LCH, Hunter-Lab, XYZ, xyY and Binary."
+          },
+          {
+            "number": "2.2.3",
+            "type": "tech",
+            "category": "tool",
+            "em": false,
+            "title": "Colour Contrast Check",
+            "href": "http://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333",
+            "description": "The Colour Contrast Check Tool allows to specify a foreground and a background colour and determine if they provide enough of a contrast \"when viewed by someone having color deficits or when viewed on a black and white screen\"[W3C]. The tool will indicate that the colours pass the test if both the colour difference and the brightness difference exceed their threshold. It will indicate that it sort of passes if only one of the two values exceed their threshold. And finally, it'll fail to pass if neither value exceeds its threshold."
+          },
+          {
+            "number": "6.2.1",
+            "type": "tech",
+            "category": "doc",
+            "em": false,
+            "title": "Techniques For Accessibility Evaluation And Repair Tools",
+            "href": "https://www.w3.org/TR/AERT",
+            "description": "This document describes techniques that Web accessibility validation tools may use to evaluate the conformance of HTML documents to the Web Content Accessibility Guidelines 1.0 (WCAG 1.0). This document also describes techniques that Web authoring tools may use to help authors modify HTML documents to conform to WCAG 1.0. We anticipate that tool developers may develop accessibility validation and/or repair modules to be incorporated into commercial authoring tools, validation tools, and perhaps user agents."
+          },
+          {
+            "number": "6.2.2",
+            "type": "tech",
+            "category": "doc",
+            "em": false,
+            "title": "Contrast (Minimum)",
+            "href": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/#visual-audio-contrast-contrast",
+            "description": "The visual presentation of text and images of text has a contrast ratio of at least 4.5:1, except for the following: Large Text: Large-scale text and images of large-scale text have a contrast ratio of at least 3:1; Incidental: Text or images of text that are part of an inactive user interface component, that are pure decoration, that are not visible to anyone, or that are part of a picture that contains significant other visual content, have no contrast requirement. Logotypes: Text that is part of a logo or brand name has no minimum contrast requirement."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "12",
     "number": 9,
     "weekend": false,
