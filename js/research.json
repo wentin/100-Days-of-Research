@@ -1,6 +1,185 @@
 [
   {
     "month": "May",
+    "date": "14",
+    "number": 11,
+    "weekend": false,
+    "title": "Generative Art",
+    "sum": "Processing is great, but personally, I don't see why javascript couldn't take over the prime place of processing in generative art or even creative coding in general. Javascript is more open, more shareable, its community is more welcoming and diverse. I am designing a course to teach how to do Generative Art with javascript.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "tech",
+            "category": "book",
+            "em": true,
+            "title": "Generative Design",
+            "href": "http://www.generative-gestaltung.de/",
+            "description": "The book Generative Design describes the creation of images by using codes. An image is not created manually, but instead by translating a visual idea into a set of rules and then implementing it in a programming language. Such a program can not only create a single image but also design complete visual worlds when parameters are changed."
+          },
+          {
+            "number": "2",
+            "type": "tech",
+            "category": "video",
+            "em": false,
+            "title": "Programming Graphics I: Introduction to Generative Art",
+            "href": "https://www.skillshare.com/classes/design/Programming-Graphics-I-Introduction-to-Generative-Art/782118657",
+            "description": "Generative art is all about using programming to generate artwork that is algorithmically defined and created. In this project-based class, you'll learn how to create your own series of patterns using generative art techniques and computer programming!"
+          },
+          {
+            "number": "3",
+            "type": "tech",
+            "category": "video",
+            "em": true,
+            "title": "Doodling in Math and more",
+            "href": "https://www.khanacademy.org/math/math-for-fun-and-glory/vi-hart",
+            "description": "Recreational mathematics and inspirational videos by mathemusician Vi Hart."
+          },
+          {
+            "number": "4",
+            "type": "tech",
+            "category": "book",
+            "em": true,
+            "title": "Generative Art - A practical guide using Processing",
+            "href": "https://www.manning.com/books/generative-art",
+            "description": "Generative Art presents both the technique and the beauty of algorithmic art. The book includes high-quality examples of generative art, along with the specific programmatic steps author and artist Matt Pearson followed to create each unique piece using the Processing programming language."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "Portfolio of Generative Design on OpenProcessing",
+            "href": "http://www.openprocessing.org/user/18615",
+            "description": ""
+          },
+          {
+            "number": "1.2",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "Github Repo of Generative Design",
+            "href": "https://github.com/generative-design",
+            "description": ""
+          },
+          {
+            "number": "1.3",
+            "type": "tech",
+            "category": "",
+            "em": false,
+            "title": "Introducing Generative Design",
+            "href": "http://onformative.com/work/book-generative-gestaltung",
+            "description": ""
+          },
+          {
+            "number": "1.4",
+            "type": "tech",
+            "category": "book",
+            "em": false,
+            "title": "The Nature of Code",
+            "href": "http://natureofcode.com/",
+            "description": "How can we capture the unpredictable evolutionary and emergent properties of nature in software? How can understanding the mathematical principles behind our physical world help us to create digital worlds? This book focuses on the programming strategies and techniques behind computer simulations of natural systems using Processing."
+          },
+          {
+            "number": "3.1",
+            "type": "tech",
+            "category": "artist",
+            "em": false,
+            "title": "Vi Hart",
+            "href": "http://vihart.com/",
+            "description": "I am Vi Hart! I am a real person, and I make videos and virtual reality and other things. Sorry about the bright yellow. It amuses me. This is my personal website, not some “Vi Hart brand Websperience” created for your enjoyment or education or whatever."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": 5,
+            "type": "tech",
+            "category": "artist",
+            "em": false,
+            "title": "Jason K. Smith",
+            "href": "http://colordodge.com/",
+            "description": "Hi. I’m Jason, and this website is a collection of some of my favorite interactive projects. I have over 15 years experience designing and building playful interactive things. My specialties are interaction design, generative design, programmatic animation, simulation, interface design, and gaming. I have a deep passion for creating fun and beautiful experiences with code."
+          },
+          {
+            "number": 6,
+            "type": "tech",
+            "category": "article",
+            "em": false,
+            "title": "Generative Art with d3.js",
+            "href": "http://gastonfig.com/2015/02/generative-art-with-d3js/",
+            "description": "Bill Automata hosted the event and he spent a couple of hours dissecting examples he made for this workshop. You can find them in this CodePen collection."
+          },
+          {
+            "number": 7,
+            "type": "tech",
+            "category": "studio",
+            "em": false,
+            "title": "Variable imagination",
+            "href": "http://variable.io/",
+            "description": "Started in 2012 by Marcin Ignac to pursue interest in blending design, software and the aesthetics emerging from data, processes and human behaviour. Variable imagination brings to life ever changing digital sculptures, immersive installations and data driven designs with thousands of possible outcomes."
+          },
+          {
+            "number": 8,
+            "type": "tech",
+            "category": "artist",
+            "em": false,
+            "title": "Anders Hoff",
+            "href": "http://inconvergent.net/",
+            "description": "My name is Anders Hoff. I write algorithms that generate images. To me it is fascinating how complex and intricate results you can get from a set of simple rules. My works are often a result of me trying to recreate some behaviour I have seen elsewhere. Either in nature, in previous works by others or in mathematical concepts."
+          },
+          {
+            "number": 9,
+            "type": "tech",
+            "category": "work",
+            "em": false,
+            "title": "100 Abandoned Artworks .JS (2013)",
+            "href": "http://abandonedart.org/",
+            "description": "JavaScript / WebGL conversions of the original 100."
+          },
+          {
+            "number": 10,
+            "type": "tech",
+            "category": "website",
+            "em": false,
+            "title": "Creative Application Network",
+            "href": "http://www.creativeapplications.net/",
+            "description": "CreativeApplications.Net [CAN] was launched in October 2008 and is one of today’s most authoritative digital art blogs. The site tirelessly beat reports innovation across the field and catalogues projects, tools and platforms relevant to the intersection of art, media and technology. CAN is also known for uncovering and contextualising noteworthy work featured on the festival and gallery circuit, executed within the commercial realm or developed as academic research."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": 5.1,
+            "type": "tech",
+            "category": "",
+            "em": false,
+            "title": "Beautiful Programming",
+            "href": "http://beautifulprogramming.com/",
+            "description": "An Exploration of Aesthetics via Instruction"
+          },
+          {
+            "number": 6.1,
+            "type": "tech",
+            "category": "",
+            "em": false,
+            "title": "Generative Art with d3.js CodePen Collection",
+            "href": "http://codepen.io/collection/XeJYVQ/",
+            "description": "A workshop for PDX Creative Coders on Jan 31, 2015."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "13",
     "number": 10,
     "weekend": false,
