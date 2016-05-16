@@ -5,7 +5,7 @@
     "number": 12,
     "weekend": true,
     "title": "Code and Typography",
-    "sum": "",
+    "sum": "Outsiders of type world may not believe how much coding is involved in every aspect of Type Design and Web Typography. Code and Math are embedded in Type Design's nature. I am always fascinated by innovation in Type and Typography through programming. I collect a list of open source coding projects surrounding the topic of Type and mostly Web Typography. There are more to be done, and there are a few ideas in my head that I need to get out. Typography sits in an exciting intersection of art, technology and craftsmanship.",
     "levels": [
       {
         "links": [
@@ -200,11 +200,7 @@
             "title": "Lettering.js",
             "href": "http://letteringjs.com/",
             "description": "Web type is exploding all over the web but CSS currently doesn't offer complete down-to-the-letter control. So cwe created a jQuery plugin to give you that control."
-          }
-        ]
-      },
-      {
-        "links": [
+          },
           {
             "number": "21",
             "type": "tech",
@@ -222,7 +218,11 @@
             "title": "FlowType.JS",
             "href": "http://simplefocus.com/flowtype/",
             "description": "Ideally, the most legible typography contains between 45 and 75 characters per line. This is difficult to accomplish for all screen widths with only CSS media-queries. FlowType.JS eases this difficulty by changing the font-size based on a specific element's width. This allows for a perfect character count per line at any screen width."
-          },
+          }
+        ]
+      },
+      {
+        "links": [
           {
             "number": "23",
             "type": "tech",
@@ -249,6 +249,15 @@
             "title": "Antiquify.js",
             "href": "https://github.com/matthewgonzalez/Antiquify.js",
             "description": "Antiquify text with this unique jQuery plugin. Randomly applied aberrations makes text look like it came straight off an old, antique printing press."
+          },
+          {
+            "number": "26",
+            "type": "tech",
+            "category": "lecture",
+            "em": true,
+            "title": "Designing Obsidian with Andy Clymer",
+            "href": "https://vimeo.com/124062807",
+            "description": "Designers of type and lettering make use of custom tools to draw and manufacture their product, this is as true today as it was in the time of punchcutting and steelplate engraving. After the design of the Surveyor family of typefaces came to a close, an exploration was made into finding an approach where custom tools could be used to help prototype the kinds of highly intricate designs that may have been too complex to otherwise consider putting into development. This process led to the design of Obsidian, a typeface that is elaborately shaded in a style that makes reference to the same nineteenth century tradition of engraved lettering as Surveyor is rooted in. Andy Clymer, a senior designer at Hoefler & Co. and instructor in the Type@Cooper program, will share a look at the design process, the custom tools involved, and some of the unexpected challenges and discoveries found while designing Obsidian."
           }
         ]
       }
