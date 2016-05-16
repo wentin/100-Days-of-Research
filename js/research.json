@@ -1,9 +1,264 @@
 [
   {
     "month": "May",
+    "date": "15",
+    "number": 12,
+    "weekend": true,
+    "title": "Code and Typography",
+    "sum": "",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "tech",
+            "category": "code",
+            "em": true,
+            "title": "opentype.js",
+            "href": "http://opentype.js.org/",
+            "description": "opentype.js is an OpenType and TrueType font parser and writer. It allows you to access the letterforms of text from the browser or node.js."
+          },
+          {
+            "number": "2",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "FreeType",
+            "href": "https://www.freetype.org/",
+            "description": "FreeType is a freely available software library to render fonts. It is written in C, designed to be small, efficient, highly customizable, and portable while capable of producing high quality output (glyph images) of most vector and bitmap font formats. Some products that use FreeType for rendering fonts on screen or on paper, either exclusively or partially: GNU/Linux, iOS, Android, ChromeOS, ReactOS, Ghostscript."
+          },
+          {
+            "number": "3",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "Kern.js",
+            "href": "http://www.kernjs.com/",
+            "description": "Make web kerning suck less."
+          },
+          {
+            "number": "4",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "JavaScript/CSS Font Detector",
+            "href": "http://www.lalit.org/lab/javascript-css-font-detect/",
+            "description": "JavaScript code to detect available availability of a particular font in a browser using JavaScript and CSS."
+          },
+          {
+            "number": "5",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "textillate.js",
+            "href": "http://textillate.js.org/",
+            "description": "Textillate.js combines some awesome libraries to provide a ease-to-use plugin for applying CSS3 animations to any text."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "6",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "Font‑To‑Width",
+            "href": "http://font-to-width.com/",
+            "description": "Font‑To‑Width (FTW!) is a script by Nick Sherman and Chris Lewis that takes advantage of large type families to fit pieces of text snugly within their containers. Unlike other text-fitting tools like FitText.js, Font‑To‑Width does not scale the font-size (at least not by default). Instead, it chooses a width or weight variant according to what fits best, and then allows for letter- and word-spacing adjustments as needed."
+          },
+          {
+            "number": "7",
+            "type": "tech",
+            "category": "code",
+            "em": true,
+            "title": "FitText.js",
+            "href": "http://fittextjs.com/",
+            "description": "FitText makes font-sizes flexible. Use this plugin on your fluid or responsive layout to achieve scalable headlines that fill the width of a parent element."
+          },
+          {
+            "number": "8",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "Blast.js",
+            "href": "http://julian.com/research/blast/",
+            "description": "Blast.js separates text in order to facilitate typographic manipulation. It has four delimiters built in: character, word, sentence, and element. Alternatively, Blast can match custom regular expressions and phrases."
+          },
+          {
+            "number": "9",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "Font.js",
+            "href": "http://pomax.nihongoresources.com/pages/Font.js/",
+            "description": "This library adds a Font object to the collection of predefined objects available to you when doing JS coding for the web. You are probably already familiar with new Image() for loading images through the browser; this object does something similar for fonts. Font.js can be used for both remote fonts (from URL) or system fonts (by font family name), which allows you to use the Font object as a way to detect whether a specific system font is installed at the client, for implementing typesetting fallbacks and failsafes."
+          },
+          {
+            "number": "10",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "Squishy",
+            "href": "https://github.com/lemonmade/squishy",
+            "description": "Squishy is a jQuery plugin that automatically resizes text to exactly fit the container with no extra work on your part."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "11",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "SlabText",
+            "href": "http://freqdec.github.io/slabText/",
+            "description": "Put simply, the script splits headlines into rows before resizing each row to fill the available horizontal space. The ideal number of characters to set on each row is calculated by dividing the available width by the pixel font-size – the script then uses this ideal character count to split the headline into word combinations that are displayed as separate rows of text."
+          },
+          {
+            "number": "12",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "HatchShow",
+            "href": "http://charliepark.org/hatchshow/",
+            "description": "HatchShow is a jQuery typesetting plugin. It balances measures."
+          },
+          {
+            "number": "13",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "FunnyText.js",
+            "href": "http://alvarotrigo.com/funnyText/",
+            "description": "Create funny and crazy moving texts in a simple way."
+          },
+          {
+            "number": "14",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "Simple Text Rotator",
+            "href": "http://pomax.nihongoresources.com/pages/Font.js/",
+            "description": "Add a super simple rotating text to your website with little to no markup."
+          },
+          {
+            "number": "15",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "jumble",
+            "href": "https://github.com/vonKristoff/jumble",
+            "description": "A jQuery plugin that jumbles up the colours of your text headers, and can also animate them. Choose a colour range for the colours to be jumbled amongst, and set params for whether the shuffle is based on brightness or satuation hue."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "16",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "CircleType.js",
+            "href": "http://circletype.labwire.ca/",
+            "description": "CircleType.js is a tiny (2kb) jQuery plugin that lets you curve type on the web."
+          },
+          {
+            "number": "17",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "jQuery Bacon",
+            "href": "http://baconforme.com/",
+            "description": "Allows you to align text to a bezier curve or a line."
+          },
+          {
+            "number": "18",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "novacancy.js",
+            "href": "http://chuckyglitch.github.io/novacancy.js/",
+            "description": "novacancy.js is a text neon golden effect jQuery plugin."
+          },
+          {
+            "number": "19",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "jQuery Flipping Text by Pete R.",
+            "href": "http://www.thepetedesign.com/demos/flipping_text_demo.html",
+            "description": "Create a ticking intro animation for your typography"
+          },
+          {
+            "number": "20",
+            "type": "tech",
+            "category": "code",
+            "em": true,
+            "title": "Lettering.js",
+            "href": "http://letteringjs.com/",
+            "description": "Web type is exploding all over the web but CSS currently doesn't offer complete down-to-the-letter control. So cwe created a jQuery plugin to give you that control."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "21",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "type.js",
+            "href": "http://typejs.org/",
+            "description": "Type.js allows you to write new CSS properties to take finer typographic control of type styles on the web."
+          },
+          {
+            "number": "22",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "FlowType.JS",
+            "href": "http://simplefocus.com/flowtype/",
+            "description": "Ideally, the most legible typography contains between 45 and 75 characters per line. This is difficult to accomplish for all screen widths with only CSS media-queries. FlowType.JS eases this difficulty by changing the font-size based on a specific element's width. This allows for a perfect character count per line at any screen width."
+          },
+          {
+            "number": "23",
+            "type": "tech",
+            "category": "code",
+            "em": true,
+            "title": "Kerning.js",
+            "href": "http://kerningjs.com/",
+            "description": "Print designers have had it easy for way too long. This is 2014; the web has been around for over two decades, yet web designers don’t get full control over their typography? Forget that, use Kerning.js!"
+          },
+          {
+            "number": "24",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "jQuery Typography Troll",
+            "href": "https://github.com/mcoconnor/jquery-typographytroll",
+            "description": "Typography Troll provides an easy way to confuse readers who try to distinguish which of several similar fonts you're using (like Helvetica and Arial) by randomly assigning a font family to each character in the selected text."
+          },
+          {
+            "number": "25",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "Antiquify.js",
+            "href": "https://github.com/matthewgonzalez/Antiquify.js",
+            "description": "Antiquify text with this unique jQuery plugin. Randomly applied aberrations makes text look like it came straight off an old, antique printing press."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "14",
     "number": 11,
-    "weekend": false,
+    "weekend": true,
     "title": "Generative Art",
     "sum": "Processing is great, but personally, I don't see why javascript couldn't take over the prime place of processing in generative art or even creative coding in general. Javascript is more open, more shareable, its community is more welcoming and diverse. I am designing a course to teach how to do Generative Art with javascript.",
     "levels": [
