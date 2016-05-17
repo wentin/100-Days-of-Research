@@ -505,6 +505,15 @@
             "title": "Do Brand Colors Translate to Instagram?",
             "href": "https://blog.modeanalytics.com/brand-colors-on-instagram/",
             "description": "We were curious: how does this color-centric visual identity carry over to social media and, more specifically, Instagram? If we boiled down a brand’s Instagram photos to a handful of colors, could you identify the brand?"
+          },
+          {
+            "number": "7",
+            "type": "research",
+            "category": "essay",
+            "em": true,
+            "title": "Color in Design Systems",
+            "href": "https://medium.com/eightshapes-llc/color-in-design-systems-a1c80f65fa3#.k3tgashf4",
+            "description": "Here’s a 16 lessons I’ve learned while stabilizing a primary palette, tint and shade choices, secondary palettes, and solving for accessible contrast."
           }
         ]
       },
