@@ -1,6 +1,203 @@
 [
   {
     "month": "May",
+    "date": "16",
+    "number": 13,
+    "weekend": false,
+    "title": "Shapes",
+    "sum": "These links are mostly about using CSS shape to create more dynamic web layout. The rest are links to cool projects and opinion essays around the topic “shape”.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "tech",
+            "category": "tutorial",
+            "em": false,
+            "title": "Why you should be excited about CSS shapes",
+            "href": "https://www.chenhuijing.com/blog/why-you-should-be-excited-about-css-shapes/#🏀",
+            "description": "CSS shapes is being developed by the Adobe Web Platform team and they have blogged about how this spec has been developing since 2012. Check out the cool demo the team built, based on Alice in Wonderland, to showcase CSS shapes’ capabilities. Point is, with CSS shapes, it’s totally possible to have text wrap around Beyoncé’s elbow."
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "essay",
+            "em": false,
+            "title": "Own a Shape",
+            "href": "http://interuserface.net/2011/06/own-a-shape/",
+            "description": "Visual identity takes many forms, from the most superficial of trademarks to the most integrated of design signatures. Shapes are part of its language. At their most basic, shapes are universal, untetherable to any name, product, or brand. But in context, in their intersections and in the synthesis of forms, they are powerful."
+          },
+          {
+            "number": "3",
+            "type": "tech",
+            "category": "project",
+            "em": true,
+            "title": "The Shape Christmas",
+            "href": "http://itsashapechristmas.co.uk/",
+            "description": "Started in 2011, here at Shape we created a collaboration project that connected students, graduates and industry professionals together. We created a digital platform to enable creatives to create artwork free for download to end users on iPhone & iPad. The process is simple. A digital calendar that counts down to christmas and reveals a bespoke illustration each day themed around 4 different Shapes (Square, Triangle, Circle and Hexagon) & Christmas! 25 creatives are chosen to feature their artwork from all over the world."
+          },
+          {
+            "number": "4",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "Maskew",
+            "href": "http://oxism.com/maskew/",
+            "description": "A JS library for skewing the shapes of elements."
+          },
+          {
+            "number": "5",
+            "type": "tech",
+            "category": "project",
+            "em": false,
+            "title": "Shape Shifter",
+            "href": "http://www.kennethcachia.com/shape-shifter/",
+            "description": "An experiment by Kenneth Cachia. Font Awesome is being used to render all #icons."
+          },
+          {
+            "number": "6",
+            "type": "tech",
+            "category": "tutorial",
+            "em": true,
+            "title": "Shape Blobbing in CSS",
+            "href": "https://css-tricks.com/shape-blobbing-css/",
+            "description": "We just covered shape morphing in SVG, where shapes change from one to another. Let's look at shapes that blob into each other! You know, that gooey squishy blobby effect like droplets of mercury on a surface."
+          },
+          {
+            "number": "7",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "The Shape of Materials to Come",
+            "href": "http://five.agency/the-shape-of-materials-to-come/",
+            "description": "We wanted to start with something simple, and yet show the behavior we wanted to have. So we started with different shapes and determined some rules. Bubble Gum material – outwards animations. Marshmallow material – imploding animations and softer reaction. Jawbreaker material – subtle bouncy animations. Jelly material – subtle bouncy animations."
+          },
+          {
+            "number": "8",
+            "type": "tech",
+            "category": "project",
+            "em": true,
+            "title": "Philographics",
+            "href": "http://studiocarreras.com/philographics/",
+            "description": "Philographics is a series of posters that explains big ideas in simple shapes. They are the result of combining the world of philosophy with graphic design. You can get the entire set of 95 designs as a book or a selection of them as posters and postcards."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "tech",
+            "category": "tutorial",
+            "em": false,
+            "title": "Getting Started with CSS Shapes",
+            "href": "http://www.html5rocks.com/en/tutorials/shapes/getting-started/",
+            "description": "For a long time, web designers have been forced to create within the constraints of the rectangle. Most content on the web is still trapped in simple boxes because most creative ventures into non-rectangular layout end in frustration. That is about to change with the introduction of CSS Shapes, available starting with Chrome 37."
+          },
+          {
+            "number": "1.2",
+            "type": "tech",
+            "category": "tutorial",
+            "em": false,
+            "title": "Animating CSS Shapes with CSS Animations and Transitions",
+            "href": "https://sarasoueidan.com/blog/animating-css-shapes/",
+            "description": "Today we're going to be talking about animating CSS shapes with CSS animations. We'll be creating very basic \"shape-shifting\" layouts of sort. There are also many considerations to take when animating CSS shapes, so we'll go over all points in this article."
+          },
+          {
+            "number": "1.3",
+            "type": "tech",
+            "category": "tutorial",
+            "em": true,
+            "title": "Using CSS Shapes to Enhance Visual Storytelling",
+            "href": "http://blogs.adobe.com/webplatform/2013/10/23/css-shapes-visual-storytelling/",
+            "description": "All that is about to change with the implementation of CSS Shapes, a new standard which allows web designers and developers to wrap content inside or around custom shapes. Shapes are defined in simple, practical, and reusable ways; most importantly, unlike most CSS hacks that just simulate shapes, they can affect the entire layout of a web page."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1.1",
+            "type": "tech",
+            "category": "took",
+            "em": true,
+            "title": "CSS Shapes Editor for Chrome",
+            "href": "http://razvancaliman.com/writing/css-shapes-editor-chrome/",
+            "description": "CSS Shapes Editor for Chrome is a Developer Tools extension which provides an interactive editor for shape property values like circle(), ellipse() and polygon()."
+          },
+          {
+            "number": "1.2.1",
+            "type": "tech",
+            "category": "tutorial",
+            "em": false,
+            "title": "Using CSS Regions With CSS Shapes For A Better Reading Experience",
+            "href": "https://sarasoueidan.com/blog/css-regions-with-shapes-for-readability/",
+            "description": "Using CSS shapes we can flow our content in non-rectangular areas. And sometimes we want to be able to flow our content into multiple custom-shaped areas inside an element. If you've read my previous article, you already know that this can be done with CSS Shapes, by using an image with alpha transparency with multiple shapes defined in it, and letting the browser extract the content's float areas from it. As appealing as this may sound and as creative as we can get with our shapes, flowing the text into multiple areas can easily make our content almost completely unreadable."
+          },
+          {
+            "number": "1.2.2",
+            "type": "tech",
+            "category": "tutorial",
+            "em": false,
+            "title": "Creating Non-Rectangular Layouts With CSS Shapes",
+            "href": "https://sarasoueidan.com/blog/css-shapes/",
+            "description": "Today we can create all kinds of shapes with CSS using CSS transforms, but all these shapes do not affect the flow of the content inside or around them. That is, if you create a triangle or a trapezoid with CSS, for example, the shape created does not define or affect the way the text inside it flows, or the way inline text around it does."
+          },
+          {
+            "number": "1.2.3",
+            "type": "tech",
+            "category": "tutorial",
+            "em": true,
+            "title": "CSS Shapes 101",
+            "href": "http://alistapart.com/article/css-shapes-101",
+            "description": "The new CSS Shapes specification is changing that. Introduced by Adobe in mid-2012, its goal is to provide web designers with a new way to change how the content flows inside and around arbitrarily complex shapes—something we’ve never been able to do before, not even with JavaScript."
+          },
+          {
+            "number": "1.3.1",
+            "type": "tech",
+            "category": "code",
+            "em": true,
+            "title": "Demo for Alice's Adventures in Wonderland, by Lewis Carroll",
+            "href": "https://github.com/adobe-webplatform/Demo-for-Alice-s-Adventures-in-Wonderland",
+            "description": "Using CSS Shapes to enhance visual storytelling."
+          },
+          {
+            "number": "1.3.2",
+            "type": "tech",
+            "category": "tutorial",
+            "em": false,
+            "title": "Good-Looking Shapes Gallery",
+            "href": "http://blogs.adobe.com/webplatform/2014/05/13/good-looking-shapes-gallery/",
+            "description": "Development of CSS Shapes has been underway for about two years, and we’ve been regularly heralding its progress here. Many of those reports have focused on the evolution of the spec and implementations, and they’ve included examples that emphasized basics over beauty. This article is an attempt to tilt the balance back towards good-looking. Listed below are simple shapes demos that we think look pretty good. Everyone on Adobe’s CSS Shapes engineering team contributed at least one."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.3.1.1",
+            "type": "tech",
+            "category": "demo",
+            "em": false,
+            "title": "Demo for Alice in Wonderland by Lewis Carroll",
+            "href": "http://webplatform.adobe.com/Demo-for-Alice-s-Adventures-in-Wonderland/",
+            "description": ""
+          },
+          {
+            "number": "1.3.2.1",
+            "type": "tech",
+            "category": "demo",
+            "em": false,
+            "title": "CSS Shapes Gallery",
+            "href": "http://codepen.io/collection/lrmwd/",
+            "description": "There’s a live CodePen.io version of each demo in the gallery. Click on the demo screenshot or one of the handy links to take a look. You’ll want to view the demos with a browser that supports Shapes and you’ll need to enable CSS Shapes in that browser."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "15",
     "number": 12,
     "weekend": true,
