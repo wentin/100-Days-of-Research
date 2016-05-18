@@ -70,13 +70,15 @@ app.controller("MainCtrl", ['$scope', '$cookies', '$http', '$route', '$routePara
 
 app.controller('DayController', function($scope, $routeParams) {
   $scope.params = $routeParams;
-  var dayId = $routeParams.dayId;
-  if (dayId == 1) {
+  $scope.dayId = Number($routeParams.dayId);
+  console.log($scope.dayId);
+
+  if ($scope.dayId == 1) {
     $scope.prevDay = false;
   } else {
-    $scope.prevDay = parseInt(dayId) - 1; 
+    $scope.prevDay =  $scope.dayId - 1; 
   }
-  $scope.nextDay = parseInt(dayId) + 1; 
+  $scope.nextDay = $scope.dayId + 1; 
   
   jq("body").unbind('keydown').keydown(function(e) {
     e.preventDefault();
