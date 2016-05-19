@@ -1,6 +1,110 @@
 [
   {
     "month": "May",
+    "date": "18",
+    "number": 15,
+    "weekend": false,
+    "title": "Jan Tschichold – Typographic Genius",
+    "sum": "Jan(pronounced Yahn) Tschichold(pronounced Chih-kold) was someone who would change their name because he changed his opinion on type design or he was inspired by a new design style.  He is a typographic genius, \"a titan of typography\" (The Guardian), yet he is \"the most severe critic of the young self\".  His legacy is still influencing the web typography era that he was not able to be part of. Technology is the surface, the medium; whereas the thinking, the philosophy is the root.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "Jan Tschichold – Typographic Genius",
+            "href": "http://retinart.net/artist-profiles/jan-tschichold/",
+            "description": "Jan Tschichold left an impression upon the world of graphic design and typography that few could compete against. From strongly advocating the beauty of sans serif fonts and clean, organised design 20 years before it took off, to strengthening the design of Penguin books to turn them into the something special that they are. Jan Tschichold spent a life learning and exploring and left us with much to do the same."
+          },
+          {
+            "number": "2.1.1",
+            "type": "quote",
+            "category": "article",
+            "quote": "The web is by and large a more colorful medium than the printed page. Color is cheaper on the web. Color can be ornamental, can help to establish a visual identity, and can have practical value (red might draw attention to important information). But color poses difficulties to accessibility as well.",
+            "author": {
+              "name": "John Allsopp",
+              "href": ""
+            },
+            "cite": {
+              "title": "A Dao of Web Design",
+              "href": ""
+            }
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "research",
+            "category": "people",
+            "em": false,
+            "title": "Pierre Simon Fournier",
+            "href": "https://en.wikipedia.org/wiki/Pierre_Simon_Fournier",
+            "description": "Pierre-Simon Fournier (15 September 1712 – 8 October 1768) was a French mid-18th century punch-cutter, typefounder and typographic theoretician. He was both a collector and originator of types. Fournier's contributions to printing were his creation of initials and ornaments, his design of letters, and his standardization of type sizes. He worked in the rococo form, and designed typefaces including Fournier and Narcissus. He was known for incorporating ‘decorative typographic ornaments’ into his typefaces. Fournier's main accomplishment is that he ‘created a standardized measuring system that would revolutionize the typography industry forever’."
+          },
+          {
+            "number": "1.2",
+            "type": "research",
+            "category": "font",
+            "em": false,
+            "title": "Sabon",
+            "href": "https://www.wikiwand.com/en/Sabon",
+            "description": "Sabon is an old-style serif typeface designed by the German-born typographer and designer Jan Tschichold (1902–1974) in the period 1964–1967. It was released jointly by the Linotype, Monotype, and Stempel type foundries in 1967. The design of the roman is based on types by Claude Garamond (c.1480–1561), particularly a specimen printed by the Frankfurt printer Konrad Berner. Berner had married the widow of a fellow printer Jacques Sabon, the source of the face's name, who had bought some of Garamond's type after his death."
+          },
+          {
+            "number": "1.3",
+            "type": "research",
+            "category": "book",
+            "em": true,
+            "title": "The New Typography (Weimar and Now: German Cultural Criticism)",
+            "href": "http://www.amazon.com/New-Typography-Weimar-Now-Criticism/dp/0520250125?ie=UTF8&s=books&qid=1237095128&sr=8-2",
+            "description": "Since its initial publication in Berlin in 1928, Jan Tschichold's The New Typography has been recognized as the definitive treatise on book and graphic design in the machine age. First published in English in 1995, with an excellent introduction by Robin Kinross, this new edition includes a foreword by Rich Hendel, who considers current thinking about Tschichold's life and work."
+          },
+          {
+            "number": "1.4",
+            "type": "research",
+            "category": "book",
+            "em": false,
+            "title": "Jan Tschichold, Master Typographer: His Life, Work and Legacy",
+            "href": "http://www.amazon.com/Jan-Tschichold-Master-Typographer-Legacy/dp/0500513988?ie=UTF8&s=books&qid=1237095128&sr=8-1",
+            "description": "Few have left a deeper impression on the world of typography than Jan Tschichold (1902-1974), one of the most outstanding and influential designers of the twentieth century. Not only was he a master in his field, but he also lectured on the subject, wrote a number of highly influential books, and designed many classic typefaces, including the best-selling Sabon."
+          },
+          {
+            "number": "1.5",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "In Honor of the 100th Birthday of Jan Tschichold",
+            "href": "https://www.linotype.com/794/in-honor-of-the-100th-birthday-of-jan-tschichold.html",
+            "description": "Jan Tschichold is one of the most outstanding and influential typographers of the 20th century. He was a master in his field, worked as a teacher, wrote a number of books, designed typefaces, and worked his entire life as designer and writer. The significance of his influence on the print industry and designers in Europe and the USA is uncontested and his famous typeface Sabon is still a bestseller. In honor of his 100th birthday, Linotype is dedicating this review of his life and work."
+          },
+          {
+            "number": "1.6",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Jan Tschichold: a titan of typography",
+            "href": "http://www.theguardian.com/artanddesign/2008/dec/05/jan-tschichold-typography",
+            "description": "The man who perfected Penguin's classic paperback deserves to be remembered as one of the great designers of the 20th century"
+          },
+          {
+            "number": "2.1",
+            "type": "research",
+            "category": "essay",
+            "em": true,
+            "title": "Tschichold, Nazis and Allen Lane: the Modernist Politics of Type",
+            "href": "http://www.mcsweeneys.net/articles/tschichold-nazis-and-allen-lane-the-modernist-politics-of-type",
+            "description": "Reader, if you feel that perhaps typography is trivial in the history of culture, look no further than this minor incident in Nazi lore as refutation. The Nazis were willing to imprison people not because of their beliefs in religion or politics per se, but because of their beliefs about typography."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "17",
     "number": 14,
     "weekend": false,
