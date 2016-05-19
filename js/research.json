@@ -5,7 +5,7 @@
     "number": 15,
     "weekend": false,
     "title": "Jan Tschichold – Typographic Genius",
-    "sum": "Jan(pronounced Yahn) Tschichold(pronounced Chih-kold) was someone who would change their name because he changed his opinion on type design or he was inspired by a new design style.  He is a typographic genius, \"a titan of typography\" (The Guardian), yet he is \"the most severe critic of the young self\".  His legacy is still influencing the web typography era that he was not able to be part of. Technology is the surface, the medium; whereas the thinking, the philosophy is the root.",
+    "sum": "Jan(pronounced Yahn) Tschichold(pronounced Chih-kold) was someone who would change his name because he changed his opinion on type design or he was inspired by a new design style.  He is a typographic genius, \"a titan of typography\" (The Guardian), yet he is \"the most severe critic of the young self\".  His legacy is still influencing the web typography era that he was not able to be part of. Technology is the surface, the medium; whereas the thinking, the philosophy is the root.",
     "levels": [
       {
         "links": [
@@ -19,17 +19,17 @@
             "description": "Jan Tschichold left an impression upon the world of graphic design and typography that few could compete against. From strongly advocating the beauty of sans serif fonts and clean, organised design 20 years before it took off, to strengthening the design of Penguin books to turn them into the something special that they are. Jan Tschichold spent a life learning and exploring and left us with much to do the same."
           },
           {
-            "number": "2.1.1",
+            "number": 2,
             "type": "quote",
             "category": "article",
-            "quote": "The web is by and large a more colorful medium than the printed page. Color is cheaper on the web. Color can be ornamental, can help to establish a visual identity, and can have practical value (red might draw attention to important information). But color poses difficulties to accessibility as well.",
+            "quote": "Regardless of Tzschichhold’s skill, there was something about all these colourful posters and books at the Bauhaus that must’ve sent shivers down his spine. Consequently, Johannes was so enamoured by this material that he wrote to designers all across Europe asking them for copies of their work. Later, he would rename himself “Iwan” (pronounced Ivan) and simplify his surname to “Tschichold”, in honour of this underground style that had quickly become his inspiration.",
             "author": {
-              "name": "John Allsopp",
+              "name": "Robin Rendle",
               "href": ""
             },
             "cite": {
-              "title": "A Dao of Web Design",
-              "href": ""
+              "title": "The New Web Typography",
+              "href": "https://robinrendle.com/essays/new-web-typography/"
             }
           }
         ]
