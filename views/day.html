@@ -43,8 +43,8 @@
       <a class="next" ng-href="#/day/{{nextDay}}" ng-if="nextDay<=data.length">NEXT DAY <span>or press →</span></a>
     </div>
   </div>
-  <div class="level" ng-repeat="level in dayData.levels">
-    <div class="link" ng-class="{research: link.type=='research', tech: link.type=='tech', quote: link.type=='quote', em: link.em}" ng-repeat="link in level.links" ng-mouseover="showConnected($event, link)">
+  <div class="level" ng-repeat="level in dayData.levels | filter: searchText">
+    <div class="link" ng-class="{research: link.type=='research', tech: link.type=='tech', quote: link.type=='quote', em: link.em}" ng-repeat="link in level.links | filter: searchText" ng-mouseover="showConnected($event, link)">
       <span class="number">{{link.number}}</span>
       <span class="category">{{link.category}}</span>
       <div ng-if="link.type=='quote'">

@@ -71,7 +71,6 @@ app.controller("MainCtrl", ['$scope', '$cookies', '$http', '$route', '$routePara
 app.controller('DayController', function($scope, $routeParams) {
   $scope.params = $routeParams;
   $scope.dayId = Number($routeParams.dayId);
-  console.log($scope.dayId);
 
   if ($scope.dayId == 1) {
     $scope.prevDay = false;
@@ -81,13 +80,14 @@ app.controller('DayController', function($scope, $routeParams) {
   $scope.nextDay = $scope.dayId + 1; 
   
   jq("body").unbind('keydown').keydown(function(e) {
-    e.preventDefault();
 		if(e.keyCode == 37) {
+      e.preventDefault();
 			if (jq('.prev')[0]) {
 				jq('.prev')[0].click();
 			}
 		}
 		else if(e.keyCode == 39) { 
+      e.preventDefault();
 			if (jq('.next')[0]) {
 				jq('.next')[0].click();
 			}
@@ -99,6 +99,7 @@ app.controller('DayController', function($scope, $routeParams) {
 app.controller('UserController', function($scope, $routeParams, $http) {
   $scope.params = $routeParams;
   var userId = $routeParams.userId;
+  jq("body").unbind('keydown');
   
   $scope.data = [];
   $http.get('http://api.jsoneditoronline.org/v1/docs/'+userId+'/data').success(function(data) {
@@ -107,8 +108,8 @@ app.controller('UserController', function($scope, $routeParams, $http) {
 })
 
 app.controller('HomeController', function($scope, $routeParams) {
-   $scope.params = $routeParams;
-   jq("body").unbind('keydown');
+  $scope.params = $routeParams;
+  jq("body").unbind('keydown');
 })
 
 app.config(function($routeProvider, $locationProvider){
