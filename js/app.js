@@ -41,7 +41,7 @@ app.controller("MainCtrl", ['$scope', '$cookies', '$http', '$route', '$routePara
     }
   }
   $scope.showConnected = function($event, link) {
-    var number = link.number;
+    var number = link.number.toString();
     var numberLength = number.length;
     var treeArray = [];
     jq('.hover').removeClass('hover');
