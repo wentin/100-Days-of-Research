@@ -1,6 +1,118 @@
 [
   {
     "month": "May",
+    "date": "20",
+    "number": 17,
+    "weekend": false,
+    "title": "James Turrell",
+    "sum": "Excited to see James Turrell: 67 68 69 exhibition at Pace Galery in New York tomorrow, I started a quest to have a peak at the beloved (even by Drake!) lighting artist's work and interviews. I am fascinated by the Roden Crater, which was started in the 1960s and continue to evolve over the years as the artist's grand piece of work. 67 68 69 is focused exclusively on Turrell’s first light works and schematic drawings from the late 1960s. The title suggests the year these work are from.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "artist",
+            "em": false,
+            "title": "James Turrell",
+            "href": "http://jamesturrell.com/",
+            "description": "“My work is more about your seeing than it is about my seeing, although it is a product of my seeing. I’m also interested in the sense of presence of space; that is space where you feel a presence, almost an entity — that physical feeling and power that space can give.”"
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "about",
+            "em": true,
+            "title": "About James Turrell",
+            "href": "http://www.art21.org/artists/james-turrell?expand=1",
+            "description": "His fascination with the phenomena of light is ultimately connected to a very personal, inward search for mankind’s place in the universe. Influenced by his Quaker faith, which he characterizes as having a “straightforward, strict presentation of the sublime,” Turrell’s art prompts greater self-awareness through a similar discipline of silent contemplation, patience, and meditation."
+          },
+          {
+            "number": "3",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Did Drake’s New Video Get Its Bling from James Turrell’s Light Installations?",
+            "href": "http://hyperallergic.com/246789/did-drakes-new-video-get-its-bling-from-james-turrells-light-installations/",
+            "description": "The internet almost exploded last night when Drake dropped the music video for his track, “Hotline Bling.” But while the Steve Jobs-esque turtleneck he wears while rapping and his very intriguing dance moves dominated the discourse online, what has received far less attention are the video’s backdrops of glowing neon gradients, which closely resemble James Turrell‘s light installations. … Turrell has issued the following statement in response: “While I am truly flattered to learn that Drake f*cks with me, I nevertheless wish to make clear that neither I nor any of my woes was involved in any way in the making of the Hotline Bling video.”"
+          },
+          {
+            "number": "4",
+            "type": "research",
+            "category": "exhibition",
+            "em": false,
+            "title": "James Turrell at Guggenheim Museum",
+            "href": "http://web.guggenheim.org/exhibitions/turrell/",
+            "description": "This exhibition, Turrell’s first solopresentation in a New York museum since 1980, considers the dominant themes explored by the artist for nearly fifty years, focusing on his explorations of perception, light, color, and space and the critical role of site specificity in his practice. It features a selection of early works, drawn from the museum’s Panza Collection as well as loans, that introduces visitors to the artist’s first statements in light. However, the show’s centerpiece is Aten Reign (2013), a major new project created specifically for the Guggenheim that reimagines the rotunda of Frank Lloyd Wright’s iconic building as one of Turrell’s luminous and immersive"
+          },
+          {
+            "number": "5",
+            "type": "research",
+            "category": "interview",
+            "em": false,
+            "title": "Interview Magazine: James Turrell",
+            "href": "http://www.interviewmagazine.com/art/james-turell",
+            "description": "JAMES TURRELL: It’s about perception. For me, it’s using light as a material to influence or affect the medium of perception. I feel that I want to use light as this wonderful and magic elixir that we drink as Vitamin D through the skin—and I mean, we are literally light-eaters—to then affect the way that we see. We live within this reality we create, and we’re quite unaware of how we create the reality. So the work is often a general koan into how we go about forming this world in which we live, in particular with seeing."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "research",
+            "category": "work",
+            "em": true,
+            "title": "Roden Crater",
+            "href": "http://rodencrater.com/",
+            "description": "Roden Crater, located in the Painted Desert region of Northern Arizona, is an unprecedented large-scale artwork created within a volcanic cinder cone by light and space artist James Turrell. Representing the culmination of the artist’s lifelong research in the field of human visual and psychological perception, Roden Crater is a controlled environment for the experiencing and contemplation of light. It takes its place within the tradition of American landscape art that began in the 1960s, requiring a journey to visit the work in the remote desert with truly dark night skies. While minimally invasive to the external natural landscape, internally the red and black cinder has been transformed into special engineered spaces where the cycles of geologic and celestial time can be directly experienced. It will constitute a truly culminating phenomenon in world art."
+          },
+          {
+            "number": "2.1",
+            "type": "research",
+            "category": "interview",
+            "em": true,
+            "title": "James Turrell: \"Roden Crater\"",
+            "href": "http://www.art21.org/texts/james-turrell/interview-james-turrell-roden-crater",
+            "description": "ART21: Where are we, right now? Could you describe your first sighting of Roden Crater—how you knew this would be the one you wanted to use? What started you on a quest for this place? Why do you want to work with light? Can works of art impart a sense of spirituality?"
+          },
+          {
+            "number": "2.2",
+            "type": "research",
+            "category": "video",
+            "em": false,
+            "title": "SEGMENT: James Turrell in \"Spirituality\"",
+            "href": "http://www.art21.org/videos/segment-james-turrell-in-spirituality",
+            "description": "The final segment in \"Spirituality\" features James Turrell, known for his use of light as the primary material in his work. From his Quaker Meeting House to his \"Roden Crater\" project, the artist has devoted his life to capturing the ethereal properties of light and its powers to evoke transcendence and the sublime. Pursuing his vision at a great sacrifice, Turrell wryly comments \"People often ask me how much this crater costs. It cost me two marriages and a relationship.\" This segment focuses on two new works in Houston, Texas—an underground tunnel of light and a skyspace in the ceiling of a Friends meetinghouse—in addition to Turrell's life's work in Arizona's remote Painted Desert—the \"Roden Crater.\""
+          },
+          {
+            "number": "4.1",
+            "type": "research",
+            "category": "critique",
+            "em": true,
+            "title": "New Light Fixture for a Famous Rotunda - James Turrell Plays With Color at the Guggenheim",
+            "href": "http://www.nytimes.com/2013/06/21/arts/design/james-turrell-plays-with-color-at-the-guggenheim.html",
+            "description": "James Turrell’s exhibition at the Guggenheim Museum will probably be the bliss-out environmental art hit of the summer. This is primarily because of the ravishing “Aten Reign,” an immense, elliptical, nearly hallucinatory play of light and color that makes brilliant use of the museum’s famed rotunda and ocular skylight. The latest site-specific effort from Mr. Turrell, “Aten Reign” is close to oxymoronic: a meditative spectacle."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "4.1.1",
+            "type": "research",
+            "category": "wikipedia",
+            "em": false,
+            "title": "Conservative Quakers (Conservative Friends)",
+            "href": "https://en.wikipedia.org/wiki/Conservative_Friends",
+            "description": "Conservative Friends refers to members of a certain branch of the Religious Society of Friends (Quakers). In the United States of America, Conservative Friends belong to three Yearly Meetings, Ohio, North Carolina, and Iowa. English Friends affiliated with the Conservative branch tend to use the term Primitive, or (less frequently) Plain. There is no single unifying association of Conservative Friends, unlike three of the other branches of Quakerism in America, represented by Friends United Meeting, Evangelical Friends International, and Friends General Conference."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "19",
     "number": 16,
     "weekend": false,
