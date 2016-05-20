@@ -6,8 +6,12 @@ body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-kerning: normal;
-  font-variant-ligatures: common-ligatures contextual;
+  -webkit-font-kerning: normal;
+     -moz-font-kerning: normal;
+          font-kerning: normal;
+  -webkit-font-variant-ligatures: common-ligatures contextual;
+     -moz-font-variant-ligatures: common-ligatures contextual;
+          font-variant-ligatures: common-ligatures contextual;
   -moz-font-feature-settings: "kern", "liga", "clig", "dlig", "calt";
   -ms-font-feature-settings: "kern", "liga", "clig", "dlig", "alt";
   -webkit-font-feature-settings: "kern", "liga", "clig", "dlig", "calt";
@@ -51,7 +55,8 @@ a:hover {
   border-right: solid 2px transparent;
   border-bottom: solid 2px transparent;
   border-radius: 50%;
-  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
   top: 0;
 }
 .doubleQuoteLeft.icon i:after {
@@ -112,7 +117,8 @@ header .color .swatch {
   z-index: 999;
   border-style: solid;
   border-width: 14px;
-  transition: border-width 0.2s ease;
+  -webkit-transition: border-width 0.2s ease;
+          transition: border-width 0.2s ease;
 }
 header .color .swatch:hover, header .color .swatch.selected {
   cursor: pointer;
@@ -195,6 +201,9 @@ nav ul li.follow {
 nav ul li a, nav ul li span {
   color: #717475;
   display: block;
+}
+nav ul li a > strong {
+  text-transform: none;
 }
 nav ul li span {
   cursor: default;
@@ -445,8 +454,10 @@ nav ul li ul li {
   color: #717475;
   letter-spacing: -0.4px;
   text-transform: uppercase;
-  transform: rotate(90deg);
-  transform-origin: left top;
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+  -webkit-transform-origin: left top;
+          transform-origin: left top;
 }
 
 @media screen and (max-width: 568px) {
