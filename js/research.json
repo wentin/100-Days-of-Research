@@ -1,6 +1,118 @@
 [
   {
     "month": "May",
+    "date": "19",
+    "number": 16,
+    "weekend": false,
+    "title": "Beauty — Cooper Hewitt Design Triennial Part I",
+    "sum": "Exhibitions are not easy subjects. I often go to them and come back completely puzzled. I would give comments based on almost nothing concrete, and often feel embarrassed soon after about then entitled opinion. What is worse is that I often feel the urge to get opinions/knowledge out of my brain instead of absorbing new ideas into my brain - the natural instinct to impress people, and study is almost always contra-intuitsive. Here is the first installment of a series of research into 250 pieces of work from 63 designers around the globe on display at Beauty — Cooper Hewitt Design Triennial 2016.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "Cooper Hewitt Triennial Offers a Bold Look at ‘Beauty’",
+            "href": "http://www.nytimes.com/2016/02/12/arts/design/cooper-hewitt-triennial-offers-a-bold-look-at-beauty.html",
+            "description": "This year’s version of the Cooper Hewitt, Smithsonian Design Museum’s always interesting Design Triennial boldly ventures to tackle one of the most controversial topics in today’s visual culture. With more than 250 works by 63 designers from around the world in a jam-packed, two-floor show, “Beauty” is a mixed, visually cacophonous bag in terms of quality. But whether or not everything in it qualifies as incontrovertibly beautiful, it’s an exciting opportunity to meditate on the perennially confounding questions: What is beauty? And what is it good for?"
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "research",
+            "category": "studio",
+            "em": false,
+            "title": "The Haas Brothers",
+            "href": "http://www.thehaasbrothers.com/",
+            "description": "The Haas Brothers, twins Nikolai and Simon (b. 1984), had a creative upbringing in Austin, Texas where their opera singer mother, actor brother and sculptor father taught them to play music, write, sing and paint. Starting in their early teens, they studied stone carving under their father, mastering the craft before leaving home. The twins parted ways in 2003 to pursue their artistic goals individually. Simon studied painting at RISD while Nikolai toured as a musician. In 2007, the two reconvened in Los Angeles to tour with the band RRIICCEE, then founded The Haas Brothers there in 2010 when L.A. architects Johnston Marklee offered a chance to collaborate on a friend's project. Early on, the brothers received accolades for their exceptional craftsmanship and expansive studio practice. The years since have seen them evolve from fabricators and collaborators to nimble cross-pollinators in creative disciplines including fashion, film, music, art and design."
+          },
+          {
+            "number": "1.2",
+            "type": "research",
+            "category": "studio",
+            "em": false,
+            "title": "Elastic",
+            "href": "http://elastic.tv/",
+            "description": "Elastic is a full-service design studio launched in Santa Monica in 2008 by the founders of editorial company Rock Paper Scissors and visual effects boutique a52. Elastic is home to a diverse collection of artists that tell stories in a variety of mediums including motion graphics, animation, live action and CG."
+          },
+          {
+            "number": "1.3",
+            "type": "research",
+            "category": "artist",
+            "em": false,
+            "title": "Neri Oxman",
+            "href": "http://www.materialecology.com/",
+            "description": "Architect and designer Neri Oxman is the Sony Corporation Career Development Professor and Associate Professor of Media Arts and Sciences at the MIT Media Lab, where she founded and directs the Mediated Matter design research group. Her group conducts research at the intersection of computational design, digital fabrication, materials science and synthetic biology and applies that knowledge to design across scales from the micro scale to the building scale. Her goal is to enhance the relationship between the built and the natural environments by employing design principles inspired or engineered by Nature and implementing them in the invention of novel digital design technologies. Areas of application include product and architectural design, as well as digital fabrication and construction."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1.1",
+            "type": "research",
+            "category": "interview",
+            "em": true,
+            "title": "Interview With Artist-duo the Haas Brothers",
+            "href": "http://www.designboom.com/art/interview-with-artist-duo-the-haas-brothers-09-05-2014/",
+            "description": "… in the years since, the brothers have continued to grow their design studio and spend their time prototyping forms and experimenting with materials, surface textures and processes. they have gradually evolved into a multifaceted operation and has garnered international accolades for set design and props for print and video, one of a kind fashion works and their highly original furniture and object designs. designboom spoke to niki and simon ahead of their upcoming show at R and company in november."
+          },
+          {
+            "number": "1.1.2",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Two of a Kind",
+            "href": "http://www.wsj.com/articles/SB10001424127887323723104578185643073638664",
+            "description": "Twins Nikolai and Simon Haas are using their combined talents—a wild eye for artistry, traditional carpentry skills and a deep Hollywood Rolodex—to become some of the most innovative furniture makers around"
+          },
+          {
+            "number": "1.2.1",
+            "type": "research",
+            "category": "opening titles",
+            "em": true,
+            "title": "Masters of Sex",
+            "href": "https://vimeo.com/76562171",
+            "description": "One for “Masters of Sex” is a comical sequence of sexually suggestive but not explicit images, like an erupting champagne bottle."
+          },
+          {
+            "number": "1.2.2",
+            "type": "research",
+            "category": "opening titles",
+            "em": false,
+            "title": "True Detective",
+            "href": "http://elastic.tv/project/true-detective-season-2/",
+            "description": "Those for both seasons of “True Detectives” are surrealistic montages of worried faces, bleak landscapes and atmospheric commotion, summing up with terrific intensity the show’s noirish melodrama."
+          },
+          {
+            "number": "1.3.1",
+            "type": "research",
+            "category": "project",
+            "em": true,
+            "title": "Otaared - Mercury’s Wonderer",
+            "href": "http://www.materialecology.com/projects/details/otaared",
+            "description": "Named after the Roman deity Mercury (Arabic: Otaared عطارد), the messenger to the gods, the planet Mercury lacks any atmosphere, making it susceptible to impacts over its entire surface. The expression mercurial is typically used to refer to something or someone erratic, volatile or unstable, derived from Mercury's swift flights from place to place. Otaared is designed as antler-like extensions of the scapulae to protect the head. The 3D printed structure is computationally grown from the scapulae and the sternum outward generating a branched winged exoskeleton. The printed shell is designed to contain calcifying bacteria grown within a wearable Caduceus. The ultimate goal is to grow true bone structures acting as protective exoskeleton."
+          },
+          {
+            "number": "1.3.2",
+            "type": "research",
+            "category": "research group",
+            "em": false,
+            "title": "MIT Media Lab’s Mediated Matter Group",
+            "href": "https://www.media.mit.edu/research/groups/mediated-matter",
+            "description": "The Mediated Matter group is dedicated to the development and application of novel processes that enable and support the design of physical matter, and its adaptability to environmental conditions in the creation of form. Our research integrates computational form-finding strategies with biologically inspired fabrication. This enables mediating synergies between objects and environment; between humans and objects; and between humans and environment. Our goal is to enhance the relation between natural and man-made environments by achieving high degrees of design customization and versatility, environmental performance integration, and material efficiency. We seek to establish new forms of design and novel processes of material practice at the intersection of computer science, material engineering, design and ecology, with broad applications across multiple scales."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "18",
     "number": 15,
     "weekend": false,
@@ -124,7 +236,7 @@
           },
           {
             "number": "2",
-            "type": "research",
+            "type": "tech",
             "category": "article",
             "em": false,
             "title": "What are Fractals and why should I care?",
