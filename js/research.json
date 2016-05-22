@@ -1,6 +1,87 @@
 [
   {
     "month": "May",
+    "date": "22",
+    "number": 19,
+    "weekend": true,
+    "title": "Typeface Designer: Adrian Frutiger",
+    "sum": "I don't know any typeface designer who is more accomplished than Adrian Frutiger. Died at age 87 in September 2015, his works lives on on London street signs, Swiss road signs, JFK airport, Charles de Gaulle airport, and the list goes on and on. Some people may say we worried about typefaces all day while other people are saving lives. Typeface work may not be as glamorous as some other jobs, but it matters to people's lives (when they read) and it does change the world a little bit, I feel so especially when I look up someone's career like Frutiger's.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "Adrian Frutiger Dies at 87; His Type Designs Show You the Way",
+            "href": "http://www.nytimes.com/2015/09/20/arts/design/adrian-frutiger-dies-at-87-his-type-designs-show-you-the-way.html?_r=0",
+            "description": "Mr. Frutiger, whose career spanned the era of hot lead and the age of silicon, created some 40 fonts, a vast number for one lifetime. Praised for an elegant readability that belied their rigorous engineering, his typefaces over the years have graced signs in the Paris Métro and many international airports, and on Swiss highways and some London streets."
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Adrian Frutiger, type designer and creator of London's street-sign font, dies aged 87",
+            "href": "http://www.dezeen.com/2015/09/14/adrian-frutiger-obituary-life-work-font-designer-typography-univers-london-street-signs/",
+            "description": "\"On my career path I learned to understand that beauty and readability – and up to a certain point, banality – are close bedfellows: the best typeface is the one that impinges least on the reader's consciousness, becoming the sole tool that communicates the meaning of the writer to the understanding of the reader.\""
+          },
+          {
+            "number": "3",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Famous Graphic Designers: Adrian Frutiger",
+            "href": "http://www.famousgraphicdesigners.org/adrian-frutiger",
+            "description": "Adrian Frutiger is a renowned twentieth century Swiss graphic designer. His forte was typeface designing and he is considered responsible for the advancement of typography into digital typography. His valued contribution to typography includes the typefaces; Univers and Frutiger."
+          },
+          {
+            "number": "4",
+            "type": "research",
+            "category": "book",
+            "em": false,
+            "title": "Adrian Frutiger Typefaces. The Complete Works",
+            "href": "https://issuu.com/birkhauser.ch/docs/adrian-frutiger-typefaces",
+            "description": "The Complete Works is based on interviews and conversations with the designer and on comprehensive research by the editors. Its depth and range make it an indispensable reference work. Completed in the year of Adrian Frutiger's 80th birthday, it represents, as is his wish, his legacy to further generations of type designers and typographers."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "research",
+            "category": "typeface",
+            "em": false,
+            "title": "Typeface: OCR B",
+            "href": "https://www.linotype.com/900972/ocr-a-extended-family.html?site=details",
+            "description": "OCR B was designed in 1968 by Adrian Frutiger to meet the standards of the European Computer Manufacturer's Association. It was intended for use on products that were to be scanned by electronic devices as well as read by humans. OCR B was made a world standard in 1973, and is more legible to human eyes than most other OCR fonts. Though less appealingly geeky than OCR A, the OCR B version also has a distinctive technical appearance that makes it a hit with graphic designers."
+          },
+          {
+            "number": "2.2",
+            "type": "research",
+            "category": "interview",
+            "em": false,
+            "title": "Typography as the Highest Form of Visual Communication: a Talk With Adrian Frutiger",
+            "href": "https://www.linotype.com/de/2316/type-adapted-to-everyday-life.html",
+            "description": ""
+          },
+          {
+            "number": "2.1",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "Reputations: Adrian Frutiger",
+            "href": "http://www.eyemagazine.com/feature/article/reputations-adrian-frutiger",
+            "description": "I was fortunate. Early in life, I understood that my world was a two-dimensional one. At sixteen I knew that my work would be in black and white."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "21",
     "number": 18,
     "weekend": true,
