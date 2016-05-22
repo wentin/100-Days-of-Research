@@ -10,7 +10,8 @@ module.exports = function(grunt) {
                     'css/style1.css': 'scss/style1.scss',
                     'css/style2.css': 'scss/style2.scss',
                     'css/style3.css': 'scss/style3.scss',
-                    'css/style4.css': 'scss/style4.scss'
+                    'css/style4.css': 'scss/style4.scss',
+                    'css/style5.css': 'scss/style5.scss'
                 }
             }
         },
@@ -23,7 +24,8 @@ module.exports = function(grunt) {
                     'css/style1.css': 'css/style1.css',
                     'css/style2.css': 'css/style2.css',
                     'css/style3.css': 'css/style3.css',
-                    'css/style4.css': 'css/style4.css'
+                    'css/style4.css': 'css/style4.css',
+                    'css/style5.css': 'css/style5.css'
                 }
             }
         },
