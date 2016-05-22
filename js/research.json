@@ -1268,6 +1268,24 @@
             "title": "Color in Design Systems",
             "href": "https://medium.com/eightshapes-llc/color-in-design-systems-a1c80f65fa3#.k3tgashf4",
             "description": "Here’s a 16 lessons I’ve learned while stabilizing a primary palette, tint and shade choices, secondary palettes, and solving for accessible contrast."
+          },
+          {
+            "number": "8",
+            "type": "tech",
+            "category": "tool",
+            "em": false,
+            "title": "What color is a blackbody? - some pixel rgb values",
+            "href": "http://www.vendian.org/mncharity/dir3/blackbody/",
+            "description": "The idea: It would be nice to know what color a blackbody is at various temperatures. Here is some help on converting blackbody temperature to color pixel rgb values."
+          },
+          {
+            "number": "9",
+            "type": "tech",
+            "category": "tool",
+            "em": false,
+            "title": "Color Hex Color Codes",
+            "href": "http://www.color-hex.com/",
+            "description": "Color-hex gives information about colors including color models (RGB,HSL,HSV and CMYK), Triadic colors, monochromatic colors and analogous colors calculated in color page. Color-hex.com also generates a simple css code for the selected color. Html element samples are also shown below the color detail page. Simply type the 6 digit color code in the box above and hit enter."
           }
         ]
       },

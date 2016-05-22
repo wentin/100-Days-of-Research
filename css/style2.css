@@ -144,6 +144,10 @@ header .color .swatch#swatch5 {
   border-color: #F7C3C2;
   background-color: #383434;
 }
+header .color .swatch#swatch6 {
+  border-color: #FDAE98;
+  background-color: #382E28;
+}
 header .zoom {
   float: right;
   padding-left: 20px;

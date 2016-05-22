@@ -1,8 +1,8 @@
 body {
   font-family: "adobe-caslon-pro", serif;
-  color: #383434;
+  color: #382E28;
   display: inline-block;
-  background-color: #F7C3C2;
+  background-color: #FDAE98;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -37,7 +37,7 @@ a:hover {
   display: block;
   width: 12px;
   height: 12px;
-  border: solid 2px #383434;
+  border: solid 2px #382E28;
   border-radius: 50%;
   top: 6px;
 }
@@ -50,7 +50,7 @@ a:hover {
   display: block;
   width: 24px;
   height: 24px;
-  border-left: solid 2px #383434;
+  border-left: solid 2px #382E28;
   border-top: solid 2px transparent;
   border-right: solid 2px transparent;
   border-bottom: solid 2px transparent;
@@ -70,7 +70,7 @@ header {
   z-index: 99;
   width: 100%;
   height: 40px;
-  background-color: rgba(56, 52, 52, 0.1);
+  background-color: rgba(56, 46, 40, 0.1);
 }
 header label {
   display: block;
@@ -78,7 +78,7 @@ header label {
   font-family: "acumin-pro-wide", sans-serif;
   font-weight: 800;
   font-size: 16px;
-  color: #383434;
+  color: #382E28;
   letter-spacing: -0.8px;
 }
 header .search {
@@ -93,7 +93,7 @@ header .search input {
   line-height: 40px;
   font-weight: 500;
   font-size: 16px;
-  color: #383434;
+  color: #382E28;
   padding: 0;
   font-family: "acumin-pro-wide", sans-serif;
   letter-spacing: -0.4px;
@@ -175,7 +175,7 @@ nav a.logo {
   font-family: "acumin-pro-wide", sans-serif;
   font-weight: 800;
   font-size: 24px;
-  color: #383434;
+  color: #382E28;
   letter-spacing: -1px;
   width: 170px;
   text-align: right;
@@ -196,7 +196,7 @@ nav ul li {
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
-  color: #383434;
+  color: #382E28;
   letter-spacing: -0.4px;
   font-variant-numeric: tabular-nums;
   -moz-font-feature-settings: "tnum";
@@ -207,7 +207,7 @@ nav ul li.follow {
   margin-left: -3px;
 }
 nav ul li a, nav ul li span {
-  color: #383434;
+  color: #382E28;
   display: block;
 }
 nav ul li a > strong {
@@ -229,7 +229,7 @@ nav ul li ul {
   padding-bottom: 2px;
   padding-left: 12px;
   padding-top: 8px;
-  background-color: #F7C3C2;
+  background-color: #FDAE98;
 }
 nav ul li ul li {
   float: none;
@@ -247,8 +247,8 @@ nav ul li ul li {
 
 @-moz-document url-prefix() {
   .intro .date.weekend {
-    color: #F7C3C2 !important;
-    text-shadow: -1px -1px 0 #383434, 1px -1px 0 #383434, -1px 1px 0 #383434, 1px 1px 0 #383434;
+    color: #FDAE98 !important;
+    text-shadow: -1px -1px 0 #382E28, 1px -1px 0 #382E28, -1px 1px 0 #382E28, 1px 1px 0 #382E28;
   }
 }
 .intro {
@@ -264,7 +264,7 @@ nav ul li ul li {
   font-family: "acumin-pro-wide", sans-serif;
   font-weight: 800;
   font-size: 21px;
-  color: #383434;
+  color: #382E28;
   letter-spacing: -1px;
 }
 .intro .date {
@@ -273,7 +273,7 @@ nav ul li ul li {
   font-family: "bodoni-urw", serif;
   font-weight: 800;
   font-size: 82px;
-  color: #383434;
+  color: #382E28;
   letter-spacing: -3px;
   line-height: 86px;
   margin-right: -2px;
@@ -281,7 +281,7 @@ nav ul li ul li {
 }
 .intro .date.weekend {
   color: transparent;
-  -webkit-text-stroke: 1px #383434;
+  -webkit-text-stroke: 1px #382E28;
 }
 .intro h4 {
   clear: both;
@@ -294,14 +294,14 @@ nav ul li ul li {
   margin-bottom: 8px;
 }
 .intro h4 a {
-  color: #383434;
+  color: #382E28;
 }
 .intro p {
   clear: both;
   font-family: "acumin-pro-wide", sans-serif;
   font-weight: 500;
   font-size: 21px;
-  color: #383434;
+  color: #382E28;
   letter-spacing: -0.7px;
   line-height: 28px;
   text-align: right;
@@ -313,7 +313,7 @@ nav ul li ul li {
   font-family: "acumin-pro-wide", sans-serif;
   font-weight: 800;
   font-size: 21px;
-  color: #383434;
+  color: #382E28;
   letter-spacing: -1px;
   line-height: 22px;
   margin-bottom: 15px;
@@ -340,11 +340,11 @@ nav ul li ul li {
   border-radius: 4px;
 }
 .level .link.hover {
-  background-color: rgba(56, 52, 52, 0.09);
+  background-color: rgba(56, 46, 40, 0.09);
 }
 .level .research {
   font-family: "adobe-caslon-pro", serif;
-  color: #383434;
+  color: #382E28;
   margin-bottom: 40px;
   padding-top: 10px;
 }
@@ -354,7 +354,7 @@ nav ul li ul li {
 .level .research h1 a {
   font-weight: 700;
   line-height: 48px;
-  color: #383434;
+  color: #382E28;
   font-size: 28px;
   line-height: 34px;
 }
@@ -375,7 +375,7 @@ nav ul li ul li {
 }
 .level .tech {
   font-family: "acumin-pro-wide", sans-serif;
-  color: #383434;
+  color: #382E28;
   margin-bottom: 40px;
   padding-top: 2px;
 }
@@ -386,7 +386,7 @@ nav ul li ul li {
   vertical-align: top;
   font-weight: 500;
   line-height: 48px;
-  color: #383434;
+  color: #382E28;
   font-size: 27px;
   line-height: 34px;
   letter-spacing: -1.1px;
@@ -417,7 +417,7 @@ nav ul li ul li {
   font-weight: 700;
   font-style: italic;
   font-size: 28px;
-  color: #383434;
+  color: #382E28;
   letter-spacing: 0px;
   line-height: 34px;
 }
@@ -432,7 +432,7 @@ nav ul li ul li {
   line-height: 28px;
 }
 .level .quote figure figcaption a {
-  color: #383434;
+  color: #382E28;
 }
 .level .quote figure figcaption cite {
   font-style: normal;
@@ -449,7 +449,7 @@ nav ul li ul li {
   font-family: "acumin-pro-wide", sans-serif;
   font-weight: 800;
   font-size: 20px;
-  color: #383434;
+  color: #382E28;
   letter-spacing: -1px;
 }
 .level .research .category, .level .tech .category, .level .quote .category {
@@ -459,7 +459,7 @@ nav ul li ul li {
   font-family: "acumin-pro-wide", sans-serif;
   font-weight: 800;
   font-size: 16px;
-  color: #383434;
+  color: #382E28;
   letter-spacing: -0.4px;
   text-transform: uppercase;
   -webkit-transform: rotate(90deg);
@@ -477,7 +477,7 @@ nav ul li ul li {
   }
   header .color {
     display: none;
-    background-color: #F7C3C2;
+    background-color: #FDAE98;
     position: fixed;
     width: 100%;
     padding-left: 20px;
@@ -487,7 +487,7 @@ nav ul li ul li {
   }
   header .zoom {
     display: none;
-    background-color: #F7C3C2;
+    background-color: #FDAE98;
     position: fixed;
     width: 100%;
     padding-left: 20px;
@@ -496,4 +496,4 @@ nav ul li ul li {
   }
 }
 
-/*# sourceMappingURL=style5.css.map */
+/*# sourceMappingURL=style6.css.map */
