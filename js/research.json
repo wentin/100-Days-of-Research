@@ -1976,6 +1976,33 @@
             "title": "Discover Typography",
             "href": "http://discover.typography.com/",
             "description": ""
+          },
+          {
+            "number": "7",
+            "type": "tech",
+            "category": "tool",
+            "em": false,
+            "title": "Font Pair",
+            "href": "http://fontpair.co/",
+            "description": "Font Pair helps designers pair Google Fonts together."
+          },
+          {
+            "number": "8",
+            "type": "tech",
+            "category": "tool",
+            "em": false,
+            "title": "FontInUse: Typeface Combinations",
+            "href": "http://fontsinuse.com/tags/281/typeface+combinations",
+            "description": ""
+          },
+          {
+            "number": "9",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "The Vignelli Twelve Typefaces… well, almost",
+            "href": "http://intenseminimalism.com/2010/the-vignelli-twelve-typefaces-well-almost/",
+            "description": "What’s important here is that as a designer you have to choose very carefully your typeface. You have to “sift, sift, sift, sift”. And you have to understand “when to use it and when not to use it”."
           }
         ]
       },
@@ -1998,6 +2025,24 @@
             "title": "Typography for Lawyers",
             "href": "http://fontsinuse.com/uses/53/typography-for-lawyers",
             "description": ""
+          },
+          {
+            "number": "9.1",
+            "type": "research",
+            "category": "essay",
+            "em": false,
+            "title": "The Vignelli Twelve",
+            "href": "http://ilovetypography.com/2010/04/17/the-vignelli-12-or-we-use-too-many-fonts/",
+            "description": "For any designer to claim that a half-dozen or a dozen typefaces is enough — well that’s their prerogative. However, it’s one thing to say ‘twelve typefaces is enough for me’, but to claim ‘twelve typefaces is enough’, period; extrapolating a generalisation from a personal imposition is rarely, if ever helpful."
+          },
+          {
+            "number": "9.2",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "The Helvetica killer",
+            "href": "http://www.creativereview.co.uk/cr-blog/2010/july/the-helvetica-killer/",
+            "description": "Bruno Maag is so enraged by Helvetica that he has designed a typeface aimed specifically at wiping it off the face of the planet. He explains his hatred in the latest of SEA’s Naturalis booklets"
           }
         ]
       },
