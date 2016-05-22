@@ -374,7 +374,7 @@ nav ul li ul li {
   line-height: 30px;
 }
 .level .tech {
-  font-family: "acumin-pro-wide", sans-serif;
+  font-family: "acumin-pro", sans-serif;
   color: #B6B8BA;
   margin-bottom: 40px;
   padding-top: 2px;
@@ -384,12 +384,12 @@ nav ul li ul li {
 }
 .level .tech h1 a {
   vertical-align: top;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 48px;
   color: #B6B8BA;
   font-size: 27px;
   line-height: 34px;
-  letter-spacing: -1.1px;
+  letter-spacing: -0.1px;
 }
 .level .tech.em {
   padding-top: 0;
@@ -400,13 +400,13 @@ nav ul li ul li {
 .level .tech.em h1 a {
   font-size: 42px;
   line-height: 48px;
-  letter-spacing: -1.8px;
+  letter-spacing: -0.2px;
 }
 .level .tech p {
   font-weight: 300;
-  font-size: 21px;
+  font-size: 22px;
   line-height: 30px;
-  letter-spacing: -0.7px;
+  letter-spacing: 0.1px;
 }
 .level .quote {
   padding-top: 10px;
@@ -414,7 +414,7 @@ nav ul li ul li {
 }
 .level .quote figure {
   margin-top: 20px;
-  font-weight: 700;
+  font-weight: 600;
   font-style: italic;
   font-size: 28px;
   color: #B6B8BA;
