@@ -1,6 +1,118 @@
 [
   {
     "month": "May",
+    "date": "21",
+    "number": 18,
+    "weekend": true,
+    "title": "Manus x Machina: Fashion in an Age of Technology",
+    "sum": "In this MET exhibition's context, \"Machina\" doesn't translate to machinery used in fashion mass production, even though the curator's introduction text suggests that(which I think is misleading). These technology-involved, often 3D printed fashion pieces are as custom-made as it could be; the technicians who work on them are effectively the embroiderers and beaders of the new age of fashion design.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "exhibition",
+            "em": false,
+            "title": "Manus x Machina: Fashion in an Age of Technology: Exhibition Overview",
+            "href": "http://www.metmuseum.org/exhibitions/listings/2016/manus-x-machina",
+            "description": "With more than 170 ensembles dating from the early 20th century to the present, the exhibition will address the founding of the haute couture in the 19th century, when the sewing machine was invented, and the emergence of a distinction between the hand (manus) and the machine (machina) at the onset of mass production. It will explore this ongoing dichotomy, in which hand and machine are presented as discordant tools in the creative process, and question the relationship and distinction between haute couture and ready-to-wear."
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "critique",
+            "em": true,
+            "title": "At the Costume Institute, Couture Meets Technology",
+            "href": "http://www.nytimes.com/2016/05/06/arts/design/review-at-the-costume-institute-couture-meets-technology.html",
+            "description": "The show is unusually thoughtful — a stately, gorgeous tutorial. Encompassing 170 ensembles and dresses, it examines how haute couture, long associated with impeccably handmade garments tailored to individual clients, is increasingly integrating breakthroughs in technologies and materials. Technology (machina) is not replacing the hand (manus); rather, the two are collaborating as never before, stimulating innovation and expression."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "2.1",
+            "type": "research",
+            "category": "critique",
+            "em": true,
+            "title": "Iris Van Herpen’s Extraordinary Clothes Are More Like Wearable Sculptures",
+            "href": "http://www.wired.com/2015/11/iris-van-herpens-extraordinary-clothes-are-more-like-wearable-sculptures/#slide-5",
+            "description": "To call Iris Van Herpen a fashion designer would be a bit of a misnomer. The dutch designer, who does, in fact, make things that can be worn on the body, doesn’t design fashion so much as perform experiments with wearable hypotheses. Her designs are the sorts of things that are so precisely and intricately crafted that you’d feel guilty touching—let alone wearing—them."
+          },
+          {
+            "number": "2.2",
+            "type": "research",
+            "category": "project",
+            "em": false,
+            "title": "Hussein Chalayan fashion collections \"Kaikoku & Sakoku\" 2011",
+            "href": "http://martintestar.com/Fashion/Hussein-Chalayan-fashion-collections-Kaikoku-Sakoku-1",
+            "description": "For fall 2011, Hussein Chalayan again presented a film, picking up where he left off last season, exploring Japanese culture within the DNA he's established over the past ten years. But it's not the kind of literal Japanese influence you might envision--no obis or kimono sleeves here. This season's film, Kaikoku, means \"open country\" in Japanese. \"After the period of isolation Sakoku in Japan [Chalayan's fashion film for Spring 2011], the country experienced and openness to Western culture which over the years has influenced the food, fashion, art, architecture and technology while the country has still remained distinctly Japanese,\" his line sheets explained."
+          },
+          {
+            "number": "2.3",
+            "type": "research",
+            "category": "projects",
+            "em": true,
+            "title": "A Closer Look at the Manus x Machina Dresses 3D Printed by Materialise",
+            "href": "http://www.materialise.com/blog/a-closer-look-at-the-manus-x-machina-dresses-3d-printed-by-materialise/",
+            "description": "The exhibition explores the complex dichotomy between handmade haute couture and machine-made prêt-à-porter, and how the boundaries between the two are growing increasingly blurred. Several 3D printed dresses made in collaboration with Materialise have been featured as part of the exhibition’s exploration of technological innovation used in fashion."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "2.1.1",
+            "type": "research",
+            "category": "artist",
+            "em": false,
+            "title": "Iris Van Herpen",
+            "href": "http://www.irisvanherpen.com/",
+            "description": "Iris van Herpen stands for a reciprocity between craftsmanship and innovation in technique and materials. She creates a modern view on Haute  Couture that combines fine handwork techniques with digital technology .Van Herpen forces fashion to the extreme contradiction between beauty and regeneration. It is her unique way to reevaluate reality and so to express and underline individuality."
+          },
+          {
+            "number": "2.1.2",
+            "type": "research",
+            "category": "project",
+            "em": false,
+            "title": "Neri Oxman project: Otaared",
+            "href": "http://www.materialecology.com/projects/details/otaared",
+            "description": "3D printed with Stratasys multi-material 3D printing technology. In collaboration with Christoph Bader and Dominik Kolb."
+          },
+          {
+            "number": "2.2.1",
+            "type": "research",
+            "category": "critique",
+            "em": true,
+            "title": "Hussein Chalayan Fall 2011: Japanese Influence and a Floating Dress",
+            "href": "http://fashionista.com/2011/03/hussein-chalayan-fall-2011-japanese-influence-and-a-floating-dress",
+            "description": "What you see above, is the special museum piece called the Floating Dress that Chalayan created in collaboration with Swarovski. The technology that went into this piece--a gold spray painted shell that the model steps into--is staggering. It's remote controlled, and those little crystal pollens attached to it are all spring loaded to individually release via remote control as well. \"The dress symbolizes new beginnings,\" Chalayan said. \"It can move and go on a journey.\""
+          },
+          {
+            "number": "2.2.2",
+            "type": "research",
+            "category": "designer",
+            "em": false,
+            "title": "Hussein Chalayan",
+            "href": "http://store.chalayan.com/",
+            "description": "Hussein Chalayan MBE is a British/Turkish Cypriot fashion designer. He has won the British Designer of the Year twice and was awarded the MBE in 2006."
+          },
+          {
+            "number": "2.3.1",
+            "type": "research",
+            "category": "artist",
+            "em": false,
+            "title": "Bradley Rothenberg",
+            "href": "http://www.bradleyrothenberg.com/",
+            "description": "Located at the intersection of design and technology, Bradley Rothenberg is focused on making 3D printed textiles, jewelry and accessories a viable and accessible reality. With the goal of unlocking the potential that 3D printing has to forever change the design, and manufacturing of textiles jewelry and accessories, the studio explores 3D printing’s potential to create complex objects that could not be made in other ways."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "20",
     "number": 17,
     "weekend": false,
