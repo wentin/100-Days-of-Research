@@ -455,10 +455,10 @@ nav ul li ul li {
 .level .research .category, .level .tech .category, .level .quote .category {
   position: absolute;
   left: -13px;
-  top: 39px;
+  top: 34px;
   font-family: "acumin-pro-wide", sans-serif;
   font-weight: 800;
-  font-size: 16px;
+  font-size: 14px;
   color: #382E28;
   letter-spacing: -0.4px;
   text-transform: uppercase;
