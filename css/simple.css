@@ -1,0 +1,31 @@
+/* body .intro p {
+  display: none;
+} */
+body .level .tech {
+  margin-bottom: 20px;
+}
+body .level .tech.em h1 a {
+  font-size: 27px;
+  line-height: 34px;
+  letter-spacing: -0.1px;
+}
+body .level .tech p {
+  display: none;
+}
+
+body .level .research {
+  margin-bottom: 20px;
+}
+body .level .research.em h1 a {
+  font-size: 28px;
+  line-height: 34px;
+}
+body .level .research p {
+  display: none;
+}
+
+.research span.category, .tech span.category, .quote span.category {
+  display: none;
+}
+
+/*# sourceMappingURL=simple.css.map */
