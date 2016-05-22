@@ -11,7 +11,7 @@ app.controller("MainCtrl", ['$scope', '$cookies', '$http', '$route', '$routePara
   // $scope.$location = $location;
   // $scope.$routeParams = $routeParams;
 
-  $scope.swatch = $cookies.getObject("swatch")?$cookies.getObject("swatch"):1;
+  $scope.swatch = $cookies.getObject("swatch")?$cookies.getObject("swatch"):5;
   $scope.zoom = $cookies.getObject("zoom")?$cookies.getObject("zoom"):1;
   
   var now = new window.Date(),
