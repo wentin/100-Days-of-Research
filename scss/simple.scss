@@ -1,0 +1,33 @@
+/* body .intro p {
+  display: none;
+} */
+body .level .tech {
+  margin-bottom: 20px;
+  &.em {
+    h1 a{
+      font-size: 27px;
+      line-height: 34px;
+      letter-spacing: -0.1px;
+    }
+  }
+  p {
+    display: none;
+  }
+}
+body .level .research {
+  margin-bottom: 20px;
+  &.em  {
+    h1 a{
+      font-size: 28px;
+      line-height: 34px;
+    }
+  }
+  p {
+    display: none;
+  }
+}
+.research, .tech, .quote {
+  span.category {
+    display: none;
+  }
+}

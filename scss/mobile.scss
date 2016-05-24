@@ -1,0 +1,33 @@
+@media screen and (max-width: 568px) {
+header {
+  .search {
+    width: 100%;
+    input {
+      width: calc(100% - 120px);
+    }
+  }
+  .color {
+    display: none;
+    background-color: $light;
+    position: fixed;
+    width: 100%;
+    padding-left: 20px;
+    bottom: 0;
+    right: 0;
+    margin-left: 0;
+  }
+  .zoom {
+    display: none;
+    background-color: $light;
+    position: fixed;
+    width: 100%;
+    padding-left: 20px;
+    bottom: 40px;
+    right: 0;
+  }
+}
+.intro {
+  // width: calc(100vw - 120px);
+  
+}
+}
