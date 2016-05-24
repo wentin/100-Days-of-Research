@@ -1,6 +1,185 @@
 [
   {
     "month": "May",
+    "date": "23",
+    "number": 20,
+    "weekend": false,
+    "title": "Political Branding Design",
+    "sum": "Randomly found a few satire Trump campaign logo today, I set on a quest to find out more about political branding design. Jokes aside, the brand design does play an important role in political campaigns, especially in a large stage such as the presidential campaign. In 2008, the Obama O, and the hope stencil poster by artist Shepard Fairey became a cultural phenomenon. The typeface Gotham designed by Tobias Frere-Jone has made big too. What do people think of the 2016 campaign branding?",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "Bernie, Hillary, and the Authenticity Gap: A Case Study in Campaign Branding",
+            "href": "https://medium.com/@lindsayballant/bernie-hillary-and-the-authenticity-gap-a-case-study-in-campaign-branding-ef46845e11cb#.8mtj3zgg0",
+            "description": "… it demonstrates the authenticity gap between the candidates. Hillary’s visual campaign is carefully constructed, disciplined, and scripted. But, as any person who’s savvy enough to sniff out marketing campaigns knows, you can’t script a movement. … the Sanders’ campaign is building a larger movement. It builds from the bottom up, which means it’s messy, it’s spontaneous, it’s reactive, it’s organic, it’s unscripted. It isn’t clean and tidy. It isn’t “good design.” But that’s what makes it, in a word, authentic."
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "The Importance of Branding in Modern Political Campaigns",
+            "href": "http://www.brittonmdg.com/the-britton-blog/politics-in-branding-importance",
+            "description": "Political branding is gaffe-prone territory. It is a delicate operation where missteps and unplanned moments can spell political doom."
+          },
+          {
+            "number": "3",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "Battle of the Brands: Presidential Edition",
+            "href": "https://brandfolder.com/blog/shared-story/battle-brands-presidential-edition/",
+            "description": "Battle of the Brands is back, with a special presidential edition! As the election heats up, we thought it’d be interesting to take a look at the presidential branding of the three current frontrunners: Hillary Clinton, Bernie Sanders, and Donald Trump."
+          },
+          {
+            "number": "4",
+            "type": "research",
+            "category": "critique",
+            "em": false,
+            "title": "A Design Perspective on Hillary Clinton’s 2016 Logo",
+            "href": "http://www.brandchannel.com/2015/04/13/hillary-clinton-logo-150413/",
+            "description": "Before judging Team Hillary’s campaign logo, let’s take a step back and look at it in context. For a start, the full competitive set of logos in the 2016 US election campaign isn’t out yet, as Christie, Chafee, Bush and O’Malley have not formally announced."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "research",
+            "category": "wikipedia",
+            "em": false,
+            "title": "Barack Obama \"Hope\" poster",
+            "href": "https://en.wikipedia.org/wiki/Barack_Obama_%22Hope%22_poster",
+            "description": "The Barack Obama \"Hope\" poster is an image of Barack Obama designed by artist Shepard Fairey, which was widely described as iconic and came to represent his 2008 presidential campaign.[1][2] It consists of a stylized stencil portrait of Obama in solid red, beige and (light and dark) blue, with the word \"progress\", \"hope\" or \"change\" below (and other words in some versions)."
+          },
+          {
+            "number": "1.2",
+            "type": "research",
+            "category": "critique",
+            "em": true,
+            "title": "2016 Presidential Campaign Logos",
+            "href": "http://www.printmag.com/imprint/2016-presidential-campaign-logos/",
+            "description": "Faves? Hits? Misses? What would Paul Rand think of Rand Paul’s mark?"
+          },
+          {
+            "number": "3.1",
+            "type": "research",
+            "category": "jokes",
+            "em": false,
+            "title": "Donald Trump campaign logos are all about the hair",
+            "href": "http://www.tbo.com/entertainment/blogs/pop-rocks/donald-trump-campaign-logos-are-all-about-the-hair-20150625/",
+            "description": "… but the people at DesignCrowd, a site that connects freelance designers with clients, thought their users could do better, and we have to agree."
+          },
+          {
+            "number": "3.2",
+            "type": "research",
+            "category": "critique",
+            "em": false,
+            "title": "BrandNew: New Logo for Hillary Clinton Presidential Campaign - Hillary, Michael, and Lester",
+            "href": "http://www.underconsideration.com/brandnew/archives/new_logo_for_hillary_clinton_presidential_campaign.php#.V0Oq8JMrLfY",
+            "description": "And if you’re Hillary Clinton, who do you go to for your campaign logo? Why someone who’s established, non-controversial, respected and extremely charismatic. That would be none other than Michael Bierut. Because, as someone once said to me: no one was ever fired for hiring Pentagram."
+          },
+          {
+            "number": "4.1",
+            "type": "research",
+            "category": "book",
+            "em": false,
+            "title": "Designing Obama",
+            "href": "http://www.amazon.com/dp/0615284191/?tag=vglnk-c1071-20",
+            "description": "The Design Director of the Obama campaign has collaborated with artists and designers to create a book of art & design from the historic campaign."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1.1",
+            "type": "research",
+            "category": "artist",
+            "em": false,
+            "title": "Shepard Fairey",
+            "href": "https://en.wikipedia.org/wiki/Shepard_Fairey",
+            "description": "Frank Shepard Fairey (born February 15, 1970) is an American contemporary street artist, graphic designer, activist, illustrator and founder of OBEY (clothing) who emerged from the skateboarding scene."
+          },
+          {
+            "number": "3.1.1",
+            "type": "research",
+            "category": "jokes",
+            "em": false,
+            "title": "This Obama Logo Changed Perfectly to Be a Trump Logo",
+            "href": "https://www.reddit.com/r/oddlysatisfying/comments/3jmtrw/this_obama_logo_changed_perfectly_to_be_a_trump/",
+            "description": ""
+          },
+          {
+            "number": "3.2.1",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "It’s official: Hillary Clinton’s logo is actually perfect",
+            "href": "http://qz.com/423037/its-official-hillary-clintons-logo-is-actually-perfect/",
+            "description": "It is through all these iterations that Clinton’s logo fully displays its iconic value: It is highly recognizable despite the changes, and the much-criticized right-facing red arrow is now appears as it was likely meant to: pointing the way forward. The different backgrounds aren’t just an innovative graphic solution—they are the visual embodiment of the values Clinton is building her campaign around."
+          },
+          {
+            "number": "3.2.2",
+            "type": "research",
+            "category": "interview",
+            "em": false,
+            "title": "Obama Campaign Logo Designer Weighs in on Hillary Clinton’s “H” Logo",
+            "href": "http://www.huffingtonpost.com/ben-arnon/hillary-clinton-logo_b_7090226.html",
+            "description": "A political campaign is a brand. It behaves like a brand, so the logo needs to function as such. If you look at the Obama “O,” it can stand alone. People didn’t have to write ‘Obama’ after the logo because the design told the story and campaign mission."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1.1.1",
+            "type": "research",
+            "category": "news",
+            "em": false,
+            "title": "Shepard Fairey, who made the Obama 'Hope' poster, endorsed Bernie Sanders",
+            "href": "http://www.usatoday.com/story/news/politics/onpolitics/2016/02/18/shepherd-fairey-who-made-obama-hope-poster-endorsed-bernie-sanders/80579892/",
+            "description": "“I’m supporting Bernie Sanders because I want to push principles, not personalities,” Shepard Fairey says in a video released by Sanders' campaign. The Sanders campaign directed viewers to a T-shirt designed by Fairey in the campaign's store. The design incorporates campaign slogans including \"Feel the Bern\" and \"A political revolution.\""
+          },
+          {
+            "number": "1.1.1.2",
+            "type": "research",
+            "category": "interview",
+            "em": true,
+            "title": "How the Obama “Hope” Poster Reached a Tipping Point and Became a Cultural Phenomenon: An Interview With the Artist Shepard Fairey",
+            "href": "http://www.huffingtonpost.com/ben-arnon/how-the-obama-hope-poster_b_133874.html",
+            "description": ""
+          },
+          {
+            "number": "3.2.2.1",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Politics Meets Brand Design: The Story of Obama’s Campaign Logo",
+            "href": "http://www.huffingtonpost.com/ben-arnon/politics-meets-brand-desi_b_151317.html",
+            "description": "My hypothesis is that there is another thing going on with the design. Go back to the ‘O’ being more personal because it comes out of the name. I think the whole look of this design reinforces that. It has a sort of superhero look to it. You can imagine somebody wearing something like that on their chest in a Superman kind of movie. So it has that sort of larger than life, superhero dimension even beyond just the name. This fits the notion that this is the candidacy of a strong person.”"
+          },
+          {
+            "number": "3.2.2.2",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Hey Internet, Shut Up About Hillary Clinton’s Campaign Logo: Milton Glaser is Here with the Final Word",
+            "href": "https://eyeondesign.aiga.org/hey-internet-shut-up-about-hillary-clintons-campaign-logo-milton-glaser-is-here-with-the-final-word/",
+            "description": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "22",
     "number": 19,
     "weekend": true,
