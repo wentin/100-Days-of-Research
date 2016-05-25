@@ -1,6 +1,145 @@
 [
   {
     "month": "May",
+    "date": "24",
+    "number": 21,
+    "weekend": false,
+    "title": "Magazine Design (Digital & Print)",
+    "sum": "Curious about the New Yorker's signature typeface, I went on a quest to research on various magazine design. I found out about Rea Irvin, the designer who is behind the typeface Irvin, which is inspired by work by Allen Lewis, an American etcher and woodcutter trained in Paris.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "How The New Yorker Redesigned For the First Time in 13 Years",
+            "href": "http://gizmodo.com/how-the-new-yorker-redesigned-for-the-first-time-in-13-1325328771",
+            "description": "In its first major redesign since 2000, The New Yorker has revitalized its brand: gently updating its layout, redrawing its 88-year-old typeface, and recruiting a contemporary typeface to solve today's design problems. Refreshing Irvin for the redesign required redrawing some of the letterforms, a typical task when modernizing historical typefaces. The in-house team redrew the typeface in partnership with typographer Ben Kiel of type foundry House Industries. … Designer Massimo Vignelli was responsible for the last redesign 13 years ago, introducing similarly light touches like a more structured grid to the layout and the addition of red type to the front-of-book sections."
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "How The New Yorker Finally Figured Out The Internet: 3 Lessons From Its Web Redesign",
+            "href": "http://www.fastcodesign.com/3035381/how-the-new-yorker-finally-figured-out-the-internet-3-lessons-from-its-web-redesign",
+            "description": "In late July, NewYorker.com unveiled a slew of changes aimed at modernizing the site. The update included a responsive design that's meant to work just as well on smartphones as it does on desktops and free (if temporary) access to an archive previously only available to subscribers."
+          },
+          {
+            "number": "3",
+            "type": "research",
+            "category": "project",
+            "em": true,
+            "title": "Huge relaunches Newsweek's iconic publication as a digital-only, user-first experience.",
+            "href": "http://www.hugeinc.com/case-study/newsweek",
+            "description": "Our vision for Newsweek's future celebrated the long form, provocative content that Newsweek had always been known for. Continuing the weekly publishing model allowed us to frame the world’s most relevant stories, creating a snapshot of each week in history. This allowed Newsweek to continue the storytelling they do so well, while providing a real value to the user."
+          },
+          {
+            "number": "4",
+            "type": "research",
+            "category": "project",
+            "em": false,
+            "title": "Case Study: Harvard Business Review Website Redesign",
+            "href": "http://www.hugeinc.com/case-study/harvard-business-review",
+            "description": "The new HBR.org provides users with a personalized reading experience & easier access to the world’s best management resources."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "The New Yorker Spruces Up a Stalwart of Print, Subtly",
+            "href": "http://www.nytimes.com/2013/09/16/business/media/a-subtle-redesign-of-the-new-yorker.html?_r=0",
+            "description": "The magazine is updating its table of contents, contributors page, “Goings On About Town,” Briefly Noted and Fiction sections. These changes include changing the number of columns, redrawing the Irvin typeface and introducing Neutraface as a secondary one."
+          },
+          {
+            "number": "1.2",
+            "type": "research",
+            "category": "typeface",
+            "em": false,
+            "title": "Neutraface",
+            "href": "http://www.houseind.com/fonts/neutraface",
+            "description": "Although better known for his residential buildings, Richard Neutra’s commercial projects nevertheless resonate the same holistic ecology—unity with the surrounding landscape and uncompromising functionalism. His attention to detail even extended to the selection of signage for his buildings. It is no wonder that Neutra specified lettering that was open and unobtrusive, the same characteristics which typified his progressive architecture. House Industries brings the same linear geometry to Neutraface without sacrificing an unmistakably warm and human feel."
+          },
+          {
+            "number": "1.3",
+            "type": "research",
+            "category": "video",
+            "em": true,
+            "title": "Video: The New Yorker Gets Refreshed",
+            "href": "http://www.newyorker.com/culture/culture-desk/video-the-new-yorker-gets-refreshed",
+            "description": "In this week’s New Yorker, there’s a new look for Goings On About Town, a redrawn update of the classic Irvin font, and other design changes. Here’s the magazine’s creative director, Wyatt Mitchell, discussing the process that led to these enhancements:"
+          },
+          {
+            "number": "2.1",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "NewYorker.com Gets A Fresh New Look",
+            "href": "http://www.fastcodesign.com/3033317/fast-feed/newyorkercom-gets-a-fresh-new-look",
+            "description": "Following a redesign of the magazine last September, the New Yorker has today unveiled a new look for its website. NewYorker.com is now easier to read on smartphones, desktops, and tablets."
+          },
+          {
+            "number": "2.2",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Inspired By The Past, The New Yorker Redesigns Itself For The Future",
+            "href": "http://www.fastcodesign.com/3017625/inspired-by-the-past-the-new-yorker-redesigns-itself-for-the-future",
+            "description": "The iconic magazine brings changes to Irvin, the 'Goings On About Town' section, and the introduction of an entirely new font."
+          },
+          {
+            "number": "3.1",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Newsweek 2.0: A New Model For Online Magazines",
+            "href": "http://www.fastcodesign.com/1672623/newsweek-20-a-new-model-for-online-magazines",
+            "description": "Designed by Huge, the revamped, digital-only Newsweek aims to bring print mag qualities like cohesion and curation to the web."
+          },
+          {
+            "number": "3.2",
+            "type": "research",
+            "category": "critique",
+            "em": false,
+            "title": "Online Magazine That Is Filled With New Design Techniques",
+            "href": "http://designmind.info/design-analysis/newsweek",
+            "description": "Newsweek is the online version of the popular print magazine. It is filled with new techniques for translating magazines to the web. While all of these ideas are impressive and innovative, the print design focus over dominates causing some ideas to be less effective. Nevertheless, it is still a great example of design."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.2.1",
+            "type": "research",
+            "category": "designer",
+            "em": false,
+            "title": "Christian Schwartz",
+            "href": "http://www.christianschwartz.com/neutra.shtml",
+            "description": "Christian Schwartz (b. 1977), a type designer and typography consultant based in New York City and a partner in the typefoundry Commercial Type with London-based designer Paul Barnes. A graduate of the Communication Design program at Carnegie Mellon University."
+          },
+          {
+            "number": "1.3.1",
+            "type": "research",
+            "category": "typeface",
+            "em": true,
+            "title": "Everybody Loves Rea Irvin",
+            "href": "http://www.printmag.com/article/everybody_loves_rea_irvin/",
+            "description": "All typefaces have personalities, but few say “dandy” as confidently as the one on the cover of The New Yorker. … You don’t have to be a typophile to spot that face, the DNA of a logotype that’s inextricable from the publication itself. … Rea Irvin, whom founding editor Harold Ross hand-picked as the magazine’s “art consultant,” introduced the letters now known as “Irvin type” to the magazine-reading public in 1925, along with the essential design that still graces newsstands."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "23",
     "number": 20,
     "weekend": false,
@@ -2592,7 +2731,7 @@
             "em": false,
             "title": "ColorBrewer: An Online Tool for Selecting Color Schemes for Maps. The Cartographic Journal 40(1): 27-37.",
             "href": "http://www.albany.edu/faculty/fboscoe/papers/harrower2003.pdf",
-            "description": "An understanding of how to manipulate the three perceptual dimensions of colour (hue, saturation and lightness) is required to create attractive and logical colour sequences for thematic maps. These dimensions are three of the visual variables or basic ‘building blocks’ of graphics (Bertin, 1983). Nearly a century of colour theory development combined with perceptual testing has allowed us to better understand how individuals perceive and understand colour. From a semiotic perspective, colour works as a ‘sign vehicle’ when the map reader is able to understand that a specic colour on the map represents or stands for something in the real world and that multiple occurrences of that colour stand for the same kind of thing (MacEachren, 71995)."
+            "description": "An understanding of how to manipulate the three perceptual dimensions of colour (hue, saturation and lightness) is required to create attractive and logical colour sequences for thematic maps. These dimensions are three of the visual variables or basic ‘building blocks’ of graphics (Bertin, 1983). Nearly a century of colour theory development combined with perceptual testing has allowed us to better understand how individuals perceive and understand colour. From a semiotic perspective, colour works as a ‘sign vehicle’ when the map reader is able to understand that a specific colour on the map represents or stands for something in the real world and that multiple occurrences of that colour stand for the same kind of thing (MacEachren, 71995)."
           },
           {
             "number": "1.3.1",
