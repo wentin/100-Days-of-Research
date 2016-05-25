@@ -1,6 +1,154 @@
 [
   {
     "month": "May",
+    "date": "25",
+    "number": 22,
+    "weekend": false,
+    "title": "Creative Cartography",
+    "sum": "Creative Cartography: the convergence of art and cartography, this  sub-branch of art has existed for a long time, but not until today I stumble upon it. It is similar and part of data visualization, but has the warm and old historical touch. It interests people as well-known as Paula Scher, and as young as 17-year-old designer Martin Vargic, and their works on creative cartography are refreshing, creative and stimulating.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "journal",
+            "em": true,
+            "title": "Winter 2006 Cartographic Perspectives - Journal of the North American Cartographic Information Society",
+            "href": "http://www.kanarinka.com/wp-content/uploads/2015/07/CPMapArt-PsychogeographyAndOvens.pdf",
+            "description": ""
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "critique",
+            "em": false,
+            "title": "Stunning Subjectivity: Obsessive Typographic Maps by Paula Scher - an Irreverent, Artful Antidote to Gps Appification, or What the Nyc Subway Has to Do With Tsunamis.",
+            "href": "https://www.brainpickings.org/2011/10/21/paula-scher-maps/",
+            "description": "Since the early 1990s, Scher has been creating remarkable, obsessive, giant hand-painted typographic maps of the world as she sees it, covering everything from specific countries and continents to cultural phenomena."
+          },
+          {
+            "number": "3",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "How The Internet's Most Prolific Map Designer Creates His Viral Worlds",
+            "href": "http://www.fastcodesign.com/3052064/how-the-internets-most-prolific-map-designer-creates-his-viral-worlds",
+            "description": "To mark the publication of his first book, 17-year-old designer Martin Vargic tells us what inspires his maps, and how he works."
+          },
+          {
+            "number": "4",
+            "type": "tech",
+            "category": "tool",
+            "em": false,
+            "title": "Mapbox",
+            "href": "https://www.mapbox.com/",
+            "description": "Mapbox is a mapping platform for developers. Our building blocks make it easy to integrate location into any mobile or online application. We want to change the way people move around cities and understand our planet."
+          },
+          {
+            "number": "5",
+            "type": "research",
+            "category": "blog",
+            "em": false,
+            "title": "Cartophile",
+            "href": "http://cartophile.tumblr.com/",
+            "description": "A collection of map art"
+          },
+          {
+            "number": "6",
+            "type": "research",
+            "category": "project",
+            "em": false,
+            "title": "Ramón Espantaleón: First Apple",
+            "href": "http://www.thisiscolossal.com/2011/03/ramon-espantaleon-first-apple/",
+            "description": "First Apple is an ambitious work that seeks to recreate various scale models of New York City and in some cases to map these three dimensional renderings to the Twin Towers themselves. To create the base Espantaleón painstakingly constructed Manhattan in clay by forming 31,920 volumetric units each representing actual buildings, at a scale of 1/65."
+          },
+          {
+            "number": "7",
+            "type": "research",
+            "category": "book",
+            "em": true,
+            "title": "Map Art Lab: 52 Exciting Art Explorations in Mapmaking, Imagination, and Travel (Lab Series)",
+            "href": "http://www.amazon.com/Map-Art-Lab-Explorations-Imagination/dp/159253905X",
+            "description": "Travel through the exciting world of cartography with Map Art Lab. This fun and creative book features 52 map-related activities set into weekly exercises, beginning with legends and lines, moving through types and styles, and then creating personalized maps that allow you to journey to new worlds."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "2.1",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "How Pentagram's Paula Scher Makes A Map",
+            "href": "http://www.fastcodesign.com/3056162/how-pentagrams-paula-scher-makes-a-map",
+            "description": "For the graphic designer—and sometimes cartographer—it's about creative interpretation, not literal depiction."
+          },
+          {
+            "number": "2.2",
+            "type": "research",
+            "category": "book",
+            "em": false,
+            "title": "Paula Scher: MAPS",
+            "href": "http://www.amazon.com/Paula-Scher-MAPS/dp/1616890339",
+            "description": "In the early 1990s, celebrated graphic designer Paula Scher (Make It Bigger, 2002) began painting maps of the world as she sees it. The larger her canvases grew, the more expressionistic her geographical visions became. Displaying a powerful command of image and type, Scher brilliantly transformed the surface area of our world. Collected here for the first time, Paula Scher MAPS presents thirty-nine of Scher's obsessively detailed, highly personal creations."
+          },
+          {
+            "number": "2.3",
+            "type": "research",
+            "category": "books",
+            "em": true,
+            "title": "Creative Cartography: 7 Must-Read Books on Maps",
+            "href": "https://www.brainpickings.org/2011/01/07/must-read-map-books/",
+            "description": ""
+          },
+          {
+            "number": "3.1",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "What The Internet Would Look Like As A World Map",
+            "href": "http://www.fastcodesign.com/3025918/what-the-internet-would-look-like-as-a-world-map",
+            "description": "An artist has created a hand-drawn map of the Internet, where Google, Apple, and porn are continents."
+          },
+          {
+            "number": "3.2",
+            "type": "research",
+            "category": "book",
+            "em": false,
+            "title": "Vargic's Miscellany of Curious Maps: Mapping the Modern World",
+            "href": "http://www.amazon.com/dp/006238922X/",
+            "description": "A stunning full-color collection of inventive, poignant, humorous, and controversial maps of the world from the internationally recognized digital artist behind the stunning “Map of Stereotypes.”"
+          },
+          {
+            "number": "4.1",
+            "type": "tech",
+            "category": "tool",
+            "em": false,
+            "title": "Map Stack",
+            "href": "http://mapstack.stamen.com/",
+            "description": "Assemble a selection of different map layers like backgrounds, satellite imagery, terrain, roads or labels! Tweak Photoshop-like controls like colors, masks, opacity and brightness to make a map your own!"
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "2.2.1",
+            "type": "research",
+            "category": "work",
+            "em": false,
+            "title": "Paula Scher Maps",
+            "href": "http://www.paulaschermaps.com/",
+            "description": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "24",
     "number": 21,
     "weekend": false,
