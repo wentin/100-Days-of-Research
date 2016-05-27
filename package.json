@@ -1,10 +1,29 @@
 {
-  "name": "jshawl.com",
-  "version": "0.1.0",
+  "name": "100-days-of-research",
+  "version": "1.0.0",
+  "description": "Wenting Zhang's 100 day project on doing research.",
+  "main": "Gruntfile.js",
   "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-autoprefixer": "~0.2.20130806",
-    "grunt-contrib-sass": "~0.3.0",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-sass": "^1.0.0",
     "grunt-contrib-watch": "^1.0.0"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wentin/100-Days-of-Research.git"
+  },
+  "keywords": [
+    "design",
+    "research"
+  ],
+  "author": "Wenting Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wentin/100-Days-of-Research/issues"
+  },
+  "homepage": "https://github.com/wentin/100-Days-of-Research#readme"
 }
