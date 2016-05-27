@@ -1,6 +1,123 @@
 [
   {
     "month": "May",
+    "date": "26",
+    "number": 23,
+    "weekend": false,
+    "title": "Design Trends 2016",
+    "sum": "Well aware how shallow this day's research topic may sound, my curiosity compelled me to still go on a quest to find out. Cliche as it may be as these articles' titles clearly indicate, I still find inspiration through these posts and design examples. Trends may come and go, but there are always something that stay.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "journessayal",
+            "em": true,
+            "title": "Where We Are and Where We’re Going: Type Trends as an Expression of Culture",
+            "href": "http://www.printmag.com/typography/type-trends-as-an-expression-of-culture/",
+            "description": "These font families have vintage ornamental styles that can be overlaid for color, fill, dimensional and shading effects. Other typefaces inspired by hand-painted and handmade signs, like brush scripts and mid-century gothic, are increasingly prevalent as well—especially in America. … I wonder if the contrasty sans can really catch fire like the earthy wood and brush stuff has."
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "2016 Logo Trends",
+            "href": "https://www.logolounge.com/articles/2016-logo-trends",
+            "description": "KISS is making a comeback. KISS as in Keep It Simple Stupid. Designers are paying heed to the old saying and rebelling against complexity. Simplicity is king once again."
+          },
+          {
+            "number": "3",
+            "type": "research",
+            "category": "guide",
+            "em": true,
+            "title": "2016 Design Trends Guide",
+            "href": "https://www.behance.net/gallery/34559663/2016-Design-Trends-Guide",
+            "description": ""
+          },
+          {
+            "number": "4",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "10 Brilliant Graphic Design Trends of 2016",
+            "href": "https://creativemarket.com/blog/2016/02/22/10-brilliant-graphic-design-trends-of-2016",
+            "description": "It’s common to see trends that go in opposite directions, such as a futuristic, high-tech trend and a trend like the hipster beard, that’s more nostalgic, looking to the past for inspiration. Trend spotting is a lot of fun and a great way to infuse your work with fresh ideas."
+          },
+          {
+            "number": "5",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "The 9 Graphic Design Trends You Need to Be Aware of In 2016",
+            "href": "https://designschool.canva.com/blog/design-trends-2016/",
+            "description": "More than the patterns that emerge from the Popular feeds on Dribbble and Behance, design trends can be a mysterious thing."
+          },
+          {
+            "number": "6",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "6 Web Design Trends You Must Know for 2015 & 2016",
+            "href": "http://www.awwwards.com/6-web-design-trends-you-must-know-for-2015-2016.html",
+            "description": "Recently, we’ve seen a surge in popularity of responsive web design, as more and more sites join the drive to become ‘mobile ready’ which is now even more important in the wake of Google’s Mobile Friendly update."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "research",
+            "category": "essay",
+            "em": false,
+            "title": "Hot Faces & Cool Type",
+            "href": "http://www.howdesign.com/design-creativity/fonts-typography/cool-type-2013/",
+            "description": "More new revivals and interpretations of 19th and early 20th century sans serif typefaces are also showing up on the bestseller lists. Brandon Grotesque from Hannes von Döhren is just one example."
+          },
+          {
+            "number": "1.2",
+            "type": "research",
+            "category": "book",
+            "em": false,
+            "title": "Culture + Typography: Hand Lettering",
+            "href": "http://www.howdesign.com/design-books/culture-typography-hand-lettering/",
+            "description": "In her new book, Culture+Typography, Nikki Villagomez dedicates a chapter to the cultural significance of hand lettering, exploring a broad variety of intriguing examples."
+          },
+          {
+            "number": "4.1",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Behind the cover: How the “Favorites Issue” art was made",
+            "href": "https://www.washingtonpost.com/news/style/wp/2015/06/03/behind-the-cover-how-the-favorites-issue-art-was-made/",
+            "description": "Snask was founded in 2007 by Fredrik Öst and Magnus Berg. We believe in standing out and have opinions to stand up for. To constantly challenge the conservative world by making enemies and gaining fans. There are enough of old men with too much power in this world as well as our industry. We have decided to challenge that."
+          },
+          {
+            "number": "4.2",
+            "type": "research",
+            "category": "designer",
+            "em": false,
+            "title": "Tim Colmant",
+            "href": "http://timcolmant.com/",
+            "description": "Tim Colmant is a Belgium Graphic Designer, Illustrator & Pattern Designer. Currently living in Namur."
+          },
+          {
+            "number": "4.3",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Are Geometric Shapes The Next Big Trend in Web Design?",
+            "href": "https://creativemarket.com/blog/2016/02/12/are-geometric-shapes-a-new-trend-in-web-design",
+            "description": "Geometric shapes can be used to build a visual identity, and they’re becoming more and more common in web design due to their low-bandwidth consumption in comparison to heavy photos, which are usually more detailed and take longer to download."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "25",
     "number": 22,
     "weekend": false,
