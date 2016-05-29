@@ -3,7 +3,7 @@
     <ul>
         <li><a href="#/">DAYS</a>
             <ul>
-                <li ng-repeat="dayData in data"><a ng-href="#/day/{{dayData.number}}">DAY {{dayData.number}}, {{dayData.month}} {{dayData.date}}: <strong>{{dayData.title}}</strong></a></li>
+                <li ng-repeat="dayData in data | orderBy: 'number' : reverse"><a ng-href="#/day/{{dayData.number}}">DAY {{dayData.number}}, {{dayData.month}} {{dayData.date}}: <strong>{{dayData.title}}</strong></a></li>
             </ul>
         </li>
         <li><a href="https://medium.com/@wenting_zhang/about-100-days-of-research-a80f4f09b57c#.hgan8cyke" target="_blank">ABOUT</a></li>
@@ -26,13 +26,15 @@
         </li>
     </ul>
 </nav>
-<div class="day" ng-repeat="dayData in data | filter: searchText">
+<div class="day" ng-repeat="dayData in data | filter: searchText | orderBy: 'number' : reverse">
   <div class="intro">
     <div class="month">
-      {{dayData.month}}
+      <!-- {{dayData.month}} -->
+      DAY
     </div>
     <div class="date" ng-class="{weekend: dayData.weekend}">
-      {{dayData.date}}
+      <!-- {{dayData.date}} -->
+      {{dayData.number<10?0:''}}{{dayData.number}}
     </div>
     <h4><a ng-href="#/day/{{dayData.number}}">{{dayData.title}}</a></h4>
     <p>

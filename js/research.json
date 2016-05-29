@@ -1,6 +1,190 @@
 [
   {
     "month": "May",
+    "date": "28",
+    "number": 25,
+    "weekend": false,
+    "title": "MoMA Exhibitions of June 2016",
+    "sum": "In the prospect of visiting MoMA again soon, I want to make more informed decisions on what to see and be more knowledgeable of what I see this time. Art most of the time is a challenging topic for me. MoMA among other places is often intimidating to people who is not an art literate. Exhibitions: 1. Projects 102: Neïl Beloufa; 2. Ernie Gehr: Carnival of Shadows; 3. Rachel Harrison: Perth Amboy; 4. A Japanese Constellation: Toyo Ito, SANAA, and Beyond; 5. Edgar Degas: A Strange New Beauty.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "exhibition",
+            "em": false,
+            "title": "Projects 102: Neïl Beloufa",
+            "href": "http://www.moma.org/calendar/exhibitions/1623?locale=en",
+            "description": "Projects 102, part of The Elaine Dannheisser Projects Series, is the first solo New York museum exhibition of the work of emerging artist Neïl Beloufa (Algerian-French, born 1985), who combines moving images and sculptural forms to create immersive viewing spaces. Created especially for this exhibition, the installation The Colonies (2016) was made by hand, using inexpensive construction materials and techniques. Within this environment, Beloufa deliberately obstructs and refracts images, diffusing them onto multiple surfaces. By revealing the cables and cords in his works and looping in images of viewers through closed-circuit television, the artist makes technology visible and incorporates the spectator as an individual participant in and producer of surveillance culture."
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "exhibition",
+            "em": false,
+            "title": "Ernie Gehr: Carnival of Shadows",
+            "href": "http://www.moma.org/calendar/exhibitions/1554?locale=en",
+            "description": "Ernie Gehr’s large-scale, multiscreen video installation Carnival of Shadows is simultaneously a reflection on early animation and genre cinema, a playful exercise in moving-image graphics, and an extension of the artists' interest in the abstraction, texture, and rhythms of visual material."
+          },
+          {
+            "number": "3",
+            "type": "research",
+            "category": "exhibition",
+            "em": false,
+            "title": "Rachel Harrison: Perth Amboy",
+            "href": "http://www.moma.org/calendar/exhibitions/1628?locale=en",
+            "description": "Named after a town in New Jersey where an apparition of the Virgin Mary was said to have appeared on the window of a two-story house, Rachel Harrison’s room-sized work Perth Amboy exemplifies a cross-disciplinary approach to making art. The work comprises 21 photographs, individual sculptural assemblages, and an open-ended labyrinth made from cardboard. It takes as its subject the basic acts of looking and seeing, which are central to any experience of visual art."
+          },
+          {
+            "number": "4",
+            "type": "research",
+            "category": "exhibition",
+            "em": true,
+            "title": "A Japanese Constellation: Toyo Ito, SANAA, and Beyond",
+            "href": "http://www.moma.org/calendar/exhibitions/1615?locale=en",
+            "description": "A Japanese Constellation focuses on the network of architects and designers that has developed around Pritzker Prize winners Toyo Ito and SANAA. Providing an overview of Ito’s career and his influence as a mentor to a new generation of Japanese architects, the exhibition presents recent works by internationally acclaimed designers, including Kazuyo Sejima, Ryue Nishizawa, Sou Fujimoto, Akihisa Hirata, and Junya Ishigami. Departing from one of Ito’s pivotal works, the Sendai Mediatheque, completed in 2001, as well as SANAA’s 21st Century Museum of Contemporary Art, Kanazawa (2004), the 44 featured designs range in scale from small houses to museums."
+          },
+          {
+            "number": "5",
+            "type": "research",
+            "category": "exhibition",
+            "em": false,
+            "title": "Edgar Degas: A Strange New Beauty",
+            "href": "http://www.moma.org/calendar/exhibitions/1613?locale=en",
+            "description": "The exhibition includes approximately 120 rarely seen monotypes—along with some 60 related paintings, drawings, pastels, sketchbooks, and prints—that show Degas at his most modern, capturing the spirit of urban life; depicting the body in new and daring ways; liberating mark-making from tradition; and boldly engaging the possibilities of abstraction."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "research",
+            "category": "brochure",
+            "em": false,
+            "title": "The Colonies(2016) by Neïl Beloufa",
+            "href": "http://www.moma.org/d/pdfs/W1siZiIsIjIwMTYvMDMvMjMva3Rnb3BhYnBtX25laWxfYmVsb3VmYV9maW5hbC5wZGYiXV0/neil_beloufa_final.pdf?sha=0de3b68c325ebe18",
+            "description": "Walking around the installation The Colonies (2016) by Neïl Beloufa (Algerian-French, born 1985), you’ll find a large-scale kinetic sculpture, custom-made walls and seating structures, and cameras and monitors that are part of a closed-circuit television (CCTV) system."
+          },
+          {
+            "number": "1.2",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "“I Don’t Think We Should Be Too Serious About Art”: Neïl Beloufa on Making Images for a Post-Artist World",
+            "href": "http://www.artspace.com/magazine/interviews_features/qa/neil-beloufa-interview-53164",
+            "description": ""
+          },
+          {
+            "number": "2.1",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "No Blockbusters Here, Just Mind Expanders",
+            "href": "http://www.nytimes.com/2011/11/13/movies/ernie-gehrs-films-traffic-in-images-and-light.html",
+            "description": "There are a multiplicity of adjectives that fit Ernie Gehr’s experimental film and digital work: abstract, beautiful, mysterious, invigorating, utopian. The work can also be oblique; this is not a bad thing"
+          },
+          {
+            "number": "3.1",
+            "type": "research",
+            "category": "critique",
+            "em": true,
+            "title": "The Shape We’re in",
+            "href": "http://www.newyorker.com/magazine/2014/12/22/shape",
+            "description": "The work of the sculptor Rachel Harrison is both the zestiest and the least digestible in contemporary art. It may also be the most important, owing to an originality that breaks a prevalent spell in an art world of recycled genres, styles, and ideas. H"
+          },
+          {
+            "number": "4.1",
+            "type": "research",
+            "category": "studio",
+            "em": false,
+            "title": "Toyo Ito & Associates, Architects",
+            "href": "http://www.toyo-ito.co.jp/WWW/index/index_en.html",
+            "description": "Toyo Ito (伊東 豊雄, born 1 June 1941) is a Japanese architect known for creating conceptual architecture, in which he seeks to simultaneously express the physical and virtual worlds. He is a leading exponent of architecture that addresses the contemporary notion of a \"simulated\" city, and has been called \"one of the world's most innovative and influential architects.\""
+          },
+          {
+            "number": "4.2",
+            "type": "research",
+            "category": "wikipedia",
+            "em": false,
+            "title": "Kazuyo Sejima + Ryue Nishizawa / S A N A A",
+            "href": "https://www.wikiwand.com/en/SANAA",
+            "description": "SANAA (Sejima and Nishizawa and Associates) is a multiple award-winning architectural firm based in Tokyo, Japan. It was founded in 1995 by two Japanese architects Kazuyo Sejima (妹島 和世 1956-) and Ryue Nishizawa (西沢立衛 1966-). In 2010, Sejima and Nishizawa were awarded the Pritzker Prize."
+          },
+          {
+            "number": "5.1",
+            "type": "research",
+            "category": "review",
+            "em": true,
+            "title": "Kazuyo Sejima + Ryue Nishizawa / S A N A A",
+            "href": "‘Edgar Degas: A Strange New Beauty’ Review - An exhibition of Degas’s rarely seen monotypes, a strange hybrid of painting and printmaking",
+            "description": "http://www.wsj.com/articles/edgar-degas-a-strange-new-beauty-review-1459287321"
+          },
+          {
+            "number": "5.2",
+            "type": "research",
+            "category": "review",
+            "em": false,
+            "title": "Intimate Impressions: Moma’s ‘Edgar Degas: a Strange New Beauty’ Is a Sumptuous Feast for the Eyes",
+            "href": "http://www.artnews.com/2016/03/29/intimate-impressions-momas-edgar-degas-a-strange-new-beauty-is-a-sumptuous-feast-for-the-eyes/",
+            "description": "Though Degas depicted figures and animals, particularly horses, in landscape settings, he worked from either drawings or memory, rather than propping a canvas on a portable easel in, say, a garden or at the racetrack and executing a picture on the spot with the latest oil colors."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1.1",
+            "type": "research",
+            "category": "artist",
+            "em": false,
+            "title": "Neil Beloufa",
+            "href": "http://www.neilbeloufa.com/",
+            "description": "The French artist Neïl Beloufa was born in 1985 in Paris. He studied at the École Nationale Supérieure des Beaux-Arts, Paris; the École Nationale Supérieure des Arts Décoratifs, Paris; California Institute of the Arts, Valencia; Cooper Union, New York; and Le Fresnoy–Studio National des Arts Contemporain, Tourcoing, France."
+          },
+          {
+            "number": "1.2.1",
+            "type": "research",
+            "category": "wikipedia",
+            "em": false,
+            "title": "The Act of Killing",
+            "href": "https://www.wikiwand.com/en/The_Act_of_Killing",
+            "description": "The Act of Killing is a 2012 documentary film about the individuals who participated in the Indonesian killings of 1965–66"
+          },
+          {
+            "number": "2.1.1",
+            "type": "research",
+            "category": "artist",
+            "em": false,
+            "title": "Ernie Gehr",
+            "href": "https://www.wikiwand.com/en/Ernie_Gehr",
+            "description": "Ernie Gehr (born 1941)[1] is an American experimental filmmaker closely associated with the Structural film movement of the 1970s. A self-taught artist, Gehr was inspired to begin making films in the 1960s after chancing upon a screening of a Stan Brakhage film. Gehr served as faculty at the San Francisco Art Institute."
+          },
+          {
+            "number": "3.1.1",
+            "type": "research",
+            "category": "artist",
+            "em": false,
+            "title": "Rachel Harrison",
+            "href": "https://www.guggenheim.org/artwork/artist/rachel-harrison",
+            "description": "Rachel Harrison was born in 1966 in New York. She received a BA in fine art from Wesleyan University in 1989. During the 1990s, she developed an eclectic sculptural language in which abstract forms are juxtaposed with seemingly ignoble materials (jars of honey, aluminum cans) and peppered with pop-cultural references. The resulting works, which mix the seemingly incommensurate languages of Minimalism and Pop, are powerful both as three-dimensional structures and as assemblages of two-dimensional imagery."
+          },
+          {
+            "number": "5.1.1",
+            "type": "research",
+            "category": "book",
+            "em": false,
+            "title": "Edgar Degas: A Strange New Beauty",
+            "href": "http://www.amazon.com/Edgar-Degas-Strange-New-Beauty/dp/1633450058",
+            "description": "A towering figure in 19th-century art, Degas is best known as a painter and chronicler of the ballet. Yet his work in monotype reveals the true extent of his restless experimentation. In the mid-1870s, Degas was introduced to the monotype process, a technique in which the artist draws in ink on a metal plate that is then run through a press, typically resulting in a single print. Degas embraced the medium with enormous enthusiasm, inventing a new repertoire of mark-making that included wiping, scraping, scratching, fingerprinting and rendering via removal. The resulting works are characterized by enigmatic and mutable forms, luminous passages emerging from darkness and a heightened tactility. Taking the monotype process to radical ends, Degas explored a variety of subjects, including city dwellers in motion; harshly illuminated cafe singers, ballet dancers on and offstage, women in intimate settings; and evanescent landscapes. With this medium, Degas is at his most modern, liberating drawing from tradition, depicting the body in new and daring ways, and boldly engaging the possibilities of abstraction."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "27",
     "number": 24,
     "weekend": false,
