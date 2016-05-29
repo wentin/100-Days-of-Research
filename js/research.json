@@ -108,7 +108,7 @@
             "type": "research",
             "category": "wikipedia",
             "em": false,
-            "title": "Kazuyo Sejima + Ryue Nishizawa / S A N A A",
+            "title": "Kazuyo Sejima + Ryue Nishizawa / SANAA",
             "href": "https://www.wikiwand.com/en/SANAA",
             "description": "SANAA (Sejima and Nishizawa and Associates) is a multiple award-winning architectural firm based in Tokyo, Japan. It was founded in 1995 by two Japanese architects Kazuyo Sejima (妹島 和世 1956-) and Ryue Nishizawa (西沢立衛 1966-). In 2010, Sejima and Nishizawa were awarded the Pritzker Prize."
           },
@@ -117,9 +117,9 @@
             "type": "research",
             "category": "review",
             "em": true,
-            "title": "Kazuyo Sejima + Ryue Nishizawa / S A N A A",
-            "href": "‘Edgar Degas: A Strange New Beauty’ Review - An exhibition of Degas’s rarely seen monotypes, a strange hybrid of painting and printmaking",
-            "description": "http://www.wsj.com/articles/edgar-degas-a-strange-new-beauty-review-1459287321"
+            "title": "‘Edgar Degas: A Strange New Beauty’ Review - An exhibition of Degas’s rarely seen monotypes, a strange hybrid of painting and printmaking",
+            "href": "http://www.wsj.com/articles/edgar-degas-a-strange-new-beauty-review-1459287321",
+            "description": ""
           },
           {
             "number": "5.2",
