@@ -37,7 +37,7 @@ app.controller("MainCtrl", ['$scope', '$cookies', '$http', '$route', '$routePara
     if ($scope.zoom != 0.8) {
       $scope.zoom = 0.8;
     } else {
-      $scope.zoom = $cookies.getObject("zoom")?$cookies.getObject("zoom"):0.7;
+      $scope.zoom = $cookies.getObject("zoom")?$cookies.getObject("zoom"):0.64;
     }
   }
   $scope.showConnected = function($event, link) {
