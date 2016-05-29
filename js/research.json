@@ -1,6 +1,261 @@
 [
   {
     "month": "May",
+    "date": "27",
+    "number": 24,
+    "weekend": false,
+    "title": "Thing I Want to Learn",
+    "sum": "Today I did research on courses and learning materials on these 5 topics that I have interests in: 1. Creative coding; 2. Type design and typography; 3. Ruby on Rails or Python; 4. Digital Painting; 5. Fashion design and making. I put them into 5 different colomns.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "tech",
+            "category": "course",
+            "em": true,
+            "title": "Skill Share: Programming Graphics I: Introduction to Generative Art",
+            "href": "https://www.skillshare.com/classes/design/Programming-Graphics-I-Introduction-to-Generative-Art/782118657/",
+            "description": "Generative art is all about using programming to generate artwork that is algorithmically defined and created. In this project-based class, you'll learn how to create your own series of patterns using generative art techniques and computer programming!"
+          },
+          {
+            "number": "2",
+            "type": "tech",
+            "category": "book",
+            "em": true,
+            "title": "Nature of Code",
+            "href": "http://natureofcode.com/book/introduction/",
+            "description": "How can we capture the unpredictable evolutionary and emergent properties of nature in software? How can understanding the mathematical principles behind our physical world help us to create digital worlds? This book focuses on the programming strategies and techniques behind computer simulations of natural systems using Processing."
+          },
+          {
+            "number": "3",
+            "type": "tech",
+            "category": "course",
+            "em": false,
+            "title": "Advanced JS: Natural Simulations",
+            "href": "https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations",
+            "description": "Once you've taken Intro to JS, you can go through this course to learn how to combine JS, ProcessingJS, and mathematical concepts to simulate nature in your programs. This course is a derivative of \"The Nature of Code\" book by Daniel Shiffman (natureofcode.com)."
+          },
+          {
+            "number": "4",
+            "type": "tech",
+            "category": "podcast",
+            "em": false,
+            "title": "The Creative Coding Podcast",
+            "href": "http://creativecodingpodcast.com",
+            "description": "In The Creative Coding Podcast, Iain and Seb discuss the ins-and-outs of programming for visual and creative applications."
+          },
+          {
+            "number": "5",
+            "type": "tech",
+            "category": "website",
+            "em": false,
+            "title": "CreativeJS",
+            "href": "http://creativejs.com",
+            "description": "We’ve seen insane performance improvements in JavaScript. And what about canvas? A huge bitmap that you can draw whatever you want in? And now WebGL!? It totally blows the mind that you can render millions of triangles with JavaScript. JavaScript! So, this is the place to come to enjoy the fruits of the imaginative and resourceful JavaScript community members as they share their new found visual coding skills."
+          },
+          {
+            "number": "6",
+            "type": "tech",
+            "category": "article",
+            "em": false,
+            "title": "Creative Code: CSS, JavaScript, WebGL and Three.js Experiments",
+            "href": "http://www.awwwards.com/creative-code-css-javascript-webgl-and-three-js-experiments.html",
+            "description": "Today we have brought together a selection of interesting experiments such as CSS generated images known as \"Pure CSS Images\", 3D environments, camera effects, particles and forces, fractals, etc."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "7",
+            "type": "research",
+            "category": "course",
+            "em": true,
+            "title": "Skill Share: Introduction to Typeface Design",
+            "href": "https://www.skillshare.com/classes/design/Introduction-to-Typeface-Design/1462075950/classroom/discussions?enrolledRedirect=1",
+            "description": "This class is an accessible, paced, and exciting introduction to the world of typeface design. Each unit builds on the next, carefully introducing principles, examples, and project steps that empower you in both a conceptual understanding of type and real-world type skills."
+          },
+          {
+            "number": "8",
+            "type": "research",
+            "category": "list",
+            "em": false,
+            "title": "82 Top-quality Typography Tutorials",
+            "href": "http://www.creativebloq.com/graphic-design-tips/typography-tutorials-1232719",
+            "description": "In this post, you'll find typography tutorials in the following areas: The basics and advanced typography skills; Web typography skills; Typography in Illustrator; Adding colour to your type; Learn type through games; 3D text effects; Fire up your type; Snow and ice effects; Make your type metallic; Eye-catching type effects; Design your own type; Make a typography poster; Illustrative typography."
+          },
+          {
+            "number": "9",
+            "type": "research",
+            "category": "book",
+            "em": false,
+            "title": "Practical Typography",
+            "href": "http://practicaltypography.com/",
+            "description": "A few hun­dred years of type and ty­pog­ra­phy have es­tab­lished rules that only a fool would ig­nore. (Or a graphic de­signer keen to im­press his peers.) For all those who need to com­mu­ni­cate clearly and even add a mod­icum of aes­thetic value to their mes­sages, this pub­li­ca­tion pro­vides every­thing you al­ways wanted to ask but didn’t know how to."
+          },
+          {
+            "number": "10",
+            "type": "research",
+            "category": "course",
+            "em": true,
+            "title": "Lynda: Introduction to Transmedia Typography",
+            "href": "http://www.lynda.com/Typography-tutorials/Introduction-Transmedia-Typography/413935-2.html",
+            "description": "Imagine type that is alive and dynamic, that adapts to the environment. This is transmedia typography, type that can be expressed in a variety of visual environments, including screen-based, print-based, and emerging media. This course adapts Brad Bartlett's acclaimed transmedia typography class taught at Art Center College of Design and introduces mediatecture (aka media architecture), a ground-breaking course developed by Nik Hafermaas. Bartlett and Hafermaas explore the new ecosystems that typography now resides in and the tools (such as sensors and projectors) that designers can use to develop their own transmedia typography projects. Topics include: Developing dynamic identities; Exploring data-driven and generative logotypes; Spatializing letterforms with scale and dimension; Applying transmedia typography across analog and digital media; Exploring typography in emerging and augmented environments; Developing typography for scenography and mediatecture; Working with transmedia tools and video storytelling; Exploring commercial applications such as mediatecture."
+          },
+          {
+            "number": "11",
+            "type": "research",
+            "category": "course",
+            "em": false,
+            "title": "Lynda: Before & After: How to Set Perfect Text",
+            "href": "https://www.lynda.com/Page-Layout-tutorials/Before-After-How-Set-Perfect-Text/372538-2.html",
+            "description": "Before & After guru John McWade shows us what good type looks like. He walks through choosing the right typeface and styling type—without using the automatic settings on which many designers rely. Instead, he counsels us to really see type and then adjust the letterforms so they are balanced and beautiful. Along the way, he touches on points small and large: indents, sizing, spacing, line length, punctuation, and the main differences between setting text for screen versus print."
+          },
+          {
+            "number": "12",
+            "type": "research",
+            "category": "course",
+            "em": false,
+            "title": "Lynda: The 33 Laws of Typography",
+            "href": "https://www.lynda.com/Design-Page-Layout-tutorials/33-Laws-Typography/147012-2.html",
+            "description": "Typography, done right, can enrich any message, making it beautiful and easy to understand. In this course, Jill Butler distills her many years of teaching and design consulting into 33 laws of typography. These laws are the details that designers can overlook or, in some cases, never learned, but that make for stronger compositions. Here these rules are broken down into five categories: documents, large bodies of text, small blocks of text, punctuation, and typefaces. Dive into any section to start learning how to put these principles into action in your own designs."
+          },
+          {
+            "number": "13",
+            "type": "research",
+            "category": "school",
+            "em": false,
+            "title": "Typography Summer School - New York",
+            "href": "http://typographysummerschool.org/",
+            "description": "Typography Summer School is a meeting place for graduates of graphic design, wanting to bridge the gap between student and professional and learn more about typography. The school brings together leading practitioners and participants to study, exchange ideas, and investigate the discipline."
+          },
+          {
+            "number": "14",
+            "type": "research",
+            "category": "workshops",
+            "em": false,
+            "title": "Cooper Type Public Workshops - New York",
+            "href": "http://coopertype.org/workshops/nyc/nyc",
+            "description": "Workshops, taught by top industry professionals, are offered to provide training in lettering, type history, typeface design, technology and production to anyone wishing to build skills and their knowledge base."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "15",
+            "type": "tech",
+            "category": "course",
+            "em": true,
+            "title": "Code School: Ruby Path",
+            "href": "https://www.codeschool.com/learn/ruby",
+            "description": "Master your Ruby skills and increase your Rails street cred by learning to build dynamic, sustainable applications for the web."
+          },
+          {
+            "number": "16",
+            "type": "tech",
+            "category": "school",
+            "em": false,
+            "title": "Back-end Web Development",
+            "href": "https://generalassemb.ly/education/back-end-web-development",
+            "description": "Skills & Tools: Use the command line, Sublime Text, GitHub, and Ruby on Rails in concert. Production Standard: Build a web application that authenticates login, responds to user input, and connects to services like Reddit and Facebook. The Big Picture: Gain a working knowledge of what powers modern web applications: databases, routing, web views, APIs, and more."
+          },
+          {
+            "number": "17",
+            "type": "tech",
+            "category": "course",
+            "em": false,
+            "title": "Ruby on Rails: Level I (Comprehensive Video Course)",
+            "href": "https://pragmaticstudio.com/rails",
+            "description": "You'll discover how to put all the pieces together to build a complete Ruby on Rails app from idea to deployment. You'll come away with a solid understanding of Rails as well as key design principles and practices to help you craft robust and flexible apps on your own!"
+          },
+          {
+            "number": "18",
+            "type": "tech",
+            "category": "course",
+            "em": false,
+            "title": "Codecademy: Python",
+            "href": "https://www.codecademy.com/learn/python",
+            "description": "Learn to program in Python, a powerful language used by sites like YouTube and Dropbox."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "19",
+            "type": "research",
+            "category": "resources",
+            "em": false,
+            "title": "Ctrl+Paint",
+            "href": "http://www.ctrlpaint.com/",
+            "description": "Ctrl+Paint is a free learning resource dedicated to the basics of digital painting. Each bite-sized video covers a different concept, allowing you to learn complex subjects in manageable increments."
+          },
+          {
+            "number": "20",
+            "type": "research",
+            "category": "resources",
+            "em": false,
+            "title": "Digital Art for Beginners",
+            "href": "http://design.tutsplus.com/series/digital-art-for-beginners--psd-13535",
+            "description": "Digital Art for Beginners is a 25-part video tutorial series that will teach you everything you need to know to start creating digital concept art and matte paintings in Photoshop."
+          },
+          {
+            "number": "21",
+            "type": "research",
+            "category": "course",
+            "em": true,
+            "title": "Digital Painting: Create A Digital Painting With A Traditional Look",
+            "href": "https://www.skillshare.com/classes/design/Digital-Painting-Create-A-Digital-Painting-With-A-Traditional-Look/351080924?via=search-layout-grid",
+            "description": "This class is good for anyone interested in digital painting.  I show how I work to create digital illustrations that look as if they were painted by hand with a brush.  In this class I cover: Scanning and cleaning up the sketch ; my brushes ; brush settings; how i work in layers ; working with layer properties ; tips to enhance the finalized painting ."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "22",
+            "type": "research",
+            "category": "list",
+            "em": false,
+            "title": "Fashion Design Classes NYC",
+            "href": "https://coursehorse.com/nyc/classes/professional/fashion/fashion-design",
+            "description": ""
+          },
+          {
+            "number": "23",
+            "type": "research",
+            "category": "course",
+            "em": true,
+            "title": "6 Month Fashion Design Course",
+            "href": "https://coursehorse.com/nyc/classes/professional/fashion/fashion-design/6-month-fashion-design-course1",
+            "description": "Course outline: History of Design; Trends and fashion forecasting; Fabric study and color theory; Open creativity; Drawing flats & technical drawings; Mood, design and presentation boards; Fashion Illustration/Portfolio Development (including hand drawing and Adobe Illustrator); Developing the stylized fashion figure; Draping and Pattern making; Fashion terms for silhouettes, styles, design details and construction; Sewing Techniques."
+          },
+          {
+            "number": "24",
+            "type": "research",
+            "category": "workshop",
+            "em": false,
+            "title": "Sew Simple Beginner Sewing Workshop",
+            "href": "https://coursehorse.com/nyc/classes/art/textile/sewing/beginner-sewing/sew-simple-beginner-sewing-workshop",
+            "description": "Women, men, teens. Learn to sew! In this project-based, two hour beginner sewing class we'll teach you sewing basics (threading a machine, loading a bobbin, machine control, various machine stitches), even while making the trendiest item out there! You'll make a zippered pouch which can be used as a fold-over clutch, a kindle/ipad/device cover or a stand alone cosmetic case.you'll be proud to carry (and show-off) your custom pouch. And, don't worry, you'll receive careful explanations and step-by-step instructions to assemble your project, all in just two hours."
+          },
+          {
+            "number": "25",
+            "type": "research",
+            "category": "course",
+            "em": false,
+            "title": "Beginner Dressmaking",
+            "href": "https://coursehorse.com/nyc/classes/art/textile/clothing/dressmaking/beginner-dress-making-class-102-sewing",
+            "description": "Course Outline: Learn about fabrics and notions; Learn to measure your body; Learn to work with a commercial pattern; Learn to prepare fabric for cutting; Learn construction techniques; Learn zipper insertion; Learn proper pressing and finishing techniques"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "26",
     "number": 23,
     "weekend": false,
@@ -12,7 +267,7 @@
           {
             "number": "1",
             "type": "research",
-            "category": "journessayal",
+            "category": "journal",
             "em": true,
             "title": "Where We Are and Where We’re Going: Type Trends as an Expression of Culture",
             "href": "http://www.printmag.com/typography/type-trends-as-an-expression-of-culture/",
