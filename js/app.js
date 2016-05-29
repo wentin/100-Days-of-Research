@@ -12,7 +12,7 @@ app.controller("MainCtrl", ['$scope', '$cookies', '$http', '$route', '$routePara
   // $scope.$routeParams = $routeParams;
 
   $scope.swatch = $cookies.getObject("swatch")?$cookies.getObject("swatch"):5;
-  $scope.zoom = $cookies.getObject("zoom")?$cookies.getObject("zoom"):1;
+  $scope.zoom = $cookies.getObject("zoom")?$cookies.getObject("zoom"):0.8;
   
   var now = new window.Date(),
       exp = new window.Date(now.getFullYear(), now.getMonth()+6, now.getDate());
@@ -26,7 +26,7 @@ app.controller("MainCtrl", ['$scope', '$cookies', '$http', '$route', '$routePara
   }
 
   $scope.updateZoom = function() {
-    if ($scope.zoom != 1) {
+    if ($scope.zoom != 0.8) {
       $cookies.remove('zoom');
       $cookies.putObject("zoom", $scope.zoom, {
         expires: exp
@@ -34,8 +34,8 @@ app.controller("MainCtrl", ['$scope', '$cookies', '$http', '$route', '$routePara
     }
   }
   $scope.switchZoom = function() {
-    if ($scope.zoom != 1) {
-      $scope.zoom = 1;
+    if ($scope.zoom != 0.8) {
+      $scope.zoom = 0.8;
     } else {
       $scope.zoom = $cookies.getObject("zoom")?$cookies.getObject("zoom"):0.7;
     }
