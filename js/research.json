@@ -1,6 +1,208 @@
 [
   {
     "month": "May",
+    "date": "30",
+    "number": 27,
+    "weekend": false,
+    "title": "The Milestone of Failure",
+    "sum": "Today the 27th day of 100 Days of Reserach. 27th day is when my last attempt  to do 100 day project failed at (Type Detail). I want to dedicate today's research topic to  those 100 day projects and other daily projects that have exceeded. These inspiring projects and amazingly strong human beings are an encouragement to myself, to finish this journey with glory.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "project",
+            "em": false,
+            "title": "Do-Hee Kim: 100 Days of Fonts",
+            "href": "http://100daysoffonts.com/",
+            "description": "Inspired by the 100 Days Project, I'm on a journey to design and code a creative showcase of a google font pairing* a day, everyday, for 100 days straight."
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "project",
+            "em": false,
+            "title": "Jessica Hische: Daily Drop Cap",
+            "href": "http://www.dailydropcap.com/",
+            "description": "Daily drop cap is a project by designer & illustrator Jessica Hische. Since September of 2009, an illustrative initial cap has been posted daily (or at least regularly), to prettify the internet and beautify your blog posts. The project will end after the twelfth alphabet is complete, but the site will remain up for your use and inspiration."
+          },
+          {
+            "number": "3",
+            "type": "research",
+            "category": "project",
+            "em": false,
+            "title": "Casey Neistat: Daily Vlog",
+            "href": "https://www.youtube.com/watch?v=-lDQc1mGAvY",
+            "description": "Neistat started to post daily vlogs on YouTube on March 24, 2015 which can be found on his YouTube channel. On his May 15, 2015, vlog post \"The Vice President, Outer Space and the Baby,\" Neistat stated that he sees his vlogs more as a forum as opposed to a daily journal. On January 19, 2016 Neistat posted his 300th vlog."
+          },
+          {
+            "number": "4",
+            "type": "research",
+            "category": "project",
+            "em": false,
+            "title": "Daniel Brokstad: 39 Days of Animated Type",
+            "href": "http://www.danielbrokstad.com/portfolio/39-days-of-animated-type/",
+            "description": "Inspired by the recent “36 days of type” I decided to create a personal project for self development in animation / motion graphics, with the daily typography as a basis for this. So the challenge was to not only design / illustrate, but also animate a letter / number every single day for 39 days. Why 39 days? Because we have an additional 3 letters in the Norwegian alphabet. This was originally posted on my instagram feed at a daily basis."
+          },
+          {
+            "number": "5",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Michael Bierut: Five Years of 100 Days",
+            "href": "http://designobserver.com/feature/five-years-of-100-days/24678",
+            "description": "The only way to experience this kind of discipline is to subject yourself to it. Every student who has taken this project had a moment where the work turned into a mind-numbing grind. And trust me: it won't be the first time this happens. The trick is to press on. For each new day (whether it's Day 28, Day 61, even Day 100) brings with it the hope of inspiration."
+          },
+          {
+            "number": "6",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "100-Day Project: Midway Celebration",
+            "href": "https://thegreatdiscontent.com/interview/midway-100-day-project",
+            "description": "In celebration of the halfway point of the 100-Day Project with Elle Luna, this short feature highlights the experiences of six project participants, who open up about why they decided to join, the inspiration behind their projects, and what they’ve learned about the creative process so far. Need a creative kickstart? Read on and ask what you could do with 100 days of making—it’s never too late to start."
+          },
+          {
+            "number": "6",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "Tom Wahlin: 100 Days of Making",
+            "href": "https://medium.com/@twahlin/100-days-of-making-3889635e8d8b#.3xxft6gxf",
+            "description": "After a shorter series of 30 illustrations last year called Daily Sonar, I’ve created 100 illustrations for Wallpaper Disco. Written below is an attempt to outline my process, share some learnings from along the way, and provide a few guiding principles for you to begin your own project."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "2.1",
+            "type": "research",
+            "category": "project",
+            "em": true,
+            "title": "Penguin Drop Caps",
+            "href": "http://jessicahische.is/readingatonofbooks",
+            "description": "Penguin Drop Caps is a series of twenty-six collectible hardcover editions of fine works of literature, each featuring on its cover a specially commissioned illustrated letter of the alphabet by yours truly! A collaboration between myself and Penguin Art Director Paul Buckley, whose series design encompasses a rainbow-hued spectrum across all twenty-six books, Penguin Drop Caps debuted with an 'A' for Jane Austen's Pride and Prejudice, a 'B' for Charlotte Brontë's Jane Eyre, and a 'C' for Willa Cather's My Ántonia, and continues with more perennial classics from Penguin."
+          },
+          {
+            "number": "4.1",
+            "type": "research",
+            "category": "project",
+            "em": false,
+            "title": "36 Days of Type",
+            "href": "http://www.36daysoftype.com/",
+            "description": "36 Days of Type is a project that invites Designers, Illustrators and Graphic Artists to express their particular view on letters and numbers of our alphabet. 36 days of restless creativity, where participants are challenged to design a letter or number each day, resulting an outcome of the ability to represent the same symbol from many different perspectives. A project that aims to be a space for creation around typography and its endless graphic possibilities"
+          },
+          {
+            "number": "5.1",
+            "type": "research",
+            "category": "project",
+            "em": false,
+            "title": "Rachel Berger: 100 Colors, 100 Writings, 100 Days",
+            "href": "http://designobserver.com/feature/100-colors-100-writings-100-days/11257",
+            "description": "Every day for one hundred days (from October 30, 2008 to February 6, 2009) I picked a paint chip out of a bag and responded to it with a short writing. I have selected my favorite forty, titling each writing with the number of the day it was written (out of 100) and the name of the color from that day’s paint chip. This project was generated in Michael Bierut’s 100 Day Workshop at the Yale School of Art."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
+    "date": "29",
+    "number": 26,
+    "weekend": true,
+    "title": "Lagom Magazine #4",
+    "sum": "Today on my way out, I found the newest issue of the Lagom lying under my mailbox. Without hesitation, I grabbed it and tore apart the package while walking. It is gorgeous, as always. My coworker Elliot Jay Stocks quits his full-time job to make this lifestyle magazine with Samantha Stocks, his wife , what a dream! I love the typography, the page layout; as I read through it, I love it more and more and think it is a good idea to research on the typeface designer of Tabac, in which Lagom is typeset,  and other artist and designers who were featured in this issue.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "magazine",
+            "em": true,
+            "title": "Lagom Magazine #4",
+            "href": "http://readlagom.com/issues/lagom-4",
+            "description": "With stories from Singapore to Brooklyn, South Africa to Greenland, issue 4 is our most global yet. If this issue has a theme, it would be the idea of breathing new life into the old — whether that’s keeping traditions alive in our northernmost stop of Greenland, bringing silent film scoring into the 21st century, transforming a derelict building into a thriving community space in Belgrade, or shipping rum by wind-powered tall ship across the Atlantic. And as always, we celebrate makers such as Brooklyn-based surfboard maker, Kyle Black."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "research",
+            "category": "typeface",
+            "em": true,
+            "title": "Tabac Family",
+            "href": "https://www.suitcasetype.com/fonts/tabac/about",
+            "description": "Our main idea was to come up with such large contrast variability so as to provide the type family with access to several classification groups – from text face to title face. … Tabac’s letters are open, with no extreme variations in shapes and no unexpected surprises, just as it should be in every good text face."
+          },
+          {
+            "number": "1.2",
+            "type": "research",
+            "category": "designer",
+            "em": false,
+            "title": "Elliot Jay Stocks",
+            "href": "http://www.elliotjaystocks.com/",
+            "description": "Elliot Jay Stocks is a designer, speaker, and author. He was previously the Creative Director of Adobe Typekit, and is now the co-founder of lifestyle magazine Lagom, the founder of typography magazine (and soon-to-be book) 8 Faces, and an electronic musician recording as Other Form."
+          },
+          {
+            "number": "1.3",
+            "type": "research",
+            "category": "magazine",
+            "em": false,
+            "title": "IJusi",
+            "href": "http://www.ijusi.com/",
+            "description": "IJusi is an experimental magazine first published in the early years following South Africa’s first democratic elections circa 1994. From the beginning ijusi posed an important question: “What makes me South African, and what does that ‘look’ like?”, gradually piecing together the various cultural dichotomies and social potentialities that have evolved following Apartheid’s demise. As was the case with the Soviet Union in 1917, a new social order begets a new visual order."
+          },
+          {
+            "number": "1.4",
+            "type": "research",
+            "category": "artist",
+            "em": false,
+            "title": "MCBESS",
+            "href": "http://mcbess.com/",
+            "description": "My name is mcbess I'm a french illustrator living in london. I'm a third of the DOODS in Berlin. I also direct commercial and animation with my friend Simon Landrein, we're currently represented by Passion Pictures."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1.1",
+            "type": "research",
+            "category": "designer",
+            "em": false,
+            "title": "Tomáš Brousil",
+            "href": "https://www.suitcasetype.com/",
+            "description": "Tomáš Brousil (1975) devotes himself primarily to fonts and typography. He graduated at the Prague Academy of Arts, Architecture and Design (Type Design and Typography, MgA. 2009) with the project of 96 typefaces of the Tabac typeface. He founded his own Suitcase Type Foundry serving as an outlet for his creative work. He also serving as a pedagogue at the Type Design and Typography department of the Prague Academy of Arts, Architecture and Design."
+          },
+          {
+            "number": "1.2.1",
+            "type": "research",
+            "category": "magazine",
+            "em": false,
+            "title": "8 Faces",
+            "href": "http://magpile.com/8-faces/",
+            "description": "The magazine has one core question at its heart — if you could only use eight typefaces for the rest of your life, which would you choose? — and poses this (and many others) to eight leading designers from the fields of web design, print design, illustration, and of course type design itself."
+          },
+          {
+            "number": "1.3.1",
+            "type": "research",
+            "category": "designer",
+            "em": false,
+            "title": "Garth Walker",
+            "href": "http://misterwalker.net/",
+            "description": "Durban based graphic designer Garth Walker founded two of South Africa’s well known and highly regarded graphic design studios: Orange Juice Design in 1994 – later acquired by Ogilvy South Africa – and more recently in 2008, Mister Walker. Mister Walker works across the corporate, public and private sectors for many of South Africa’s best known brands – on both large and small projects – covering a wide range of design disciplines."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "28",
     "number": 26,
     "weekend": true,
