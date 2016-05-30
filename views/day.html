@@ -3,7 +3,7 @@
     <ul>
         <li><a href="#/">DAYS</a>
             <ul>
-                <li ng-repeat="dayData in data"><a ng-href="#/day/{{dayData.number}}">DAY {{dayData.number}}, {{dayData.month}} {{dayData.date}}: <strong>{{dayData.title}}</strong></a></li>
+                <li ng-repeat="dayData in data | orderBy: 'number' : reverse"><a ng-href="#/day/{{dayData.number}}">DAY {{dayData.number}}, {{dayData.month}} {{dayData.date}}: <strong>{{dayData.title}}</strong></a></li>
             </ul>
         </li>
         <li><a href="https://medium.com/@wenting_zhang/about-100-days-of-research-a80f4f09b57c#.hgan8cyke" target="_blank">ABOUT</a></li>
