@@ -1,5 +1,126 @@
 [
   {
+    "month": "Jun",
+    "date": "01",
+    "number": 29,
+    "weekend": false,
+    "title": "Fractals",
+    "sum": "Fractal is an important algorithm applied widely in generative art. In today's test class of my javascript creative coding course this summer in Shanghai, I briefly introduced fractal and got a lot of interests in learning this topic. The world is not made of euclidean perfect shapes, instead, it is made of fractal. Digging deeper on fractals, the research is sort of becoming fractal.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "tech",
+            "category": "article",
+            "em": false,
+            "title": "Cantor Set",
+            "href": "https://www.math.hmc.edu/funfacts/ffiles/20004.3.shtml",
+            "description": "Start with the interval [0,1]. Remove the (open) middle third of it, i.e. get (1/3, 2/3). Now remove the middle thirds of each of the remaining intervals, i.e. get (1/9, 2/9) and (7/9, 8/9). Continue this process ad infinitum. The points left over form a fractal called the standard Cantor Set. It is an infinite set since a lot of points, including the endpoints of the removed intervals, are never removed. Can you list the endpoints? Now let's think about lengths. The length of the original interval is 1. Now how much \"length\" do we remove during the process?"
+          },
+          {
+            "number": "2",
+            "type": "tech",
+            "category": "video",
+            "em": false,
+            "title": "Khan Academy: Koch Snowflake Fractal",
+            "href": "https://www.khanacademy.org/math/geometry/basic-geometry/koch-snowflake/v/koch-snowflake-fractal",
+            "description": "A shape that has an infinite perimeter but finite area."
+          },
+          {
+            "number": "3",
+            "type": "tech",
+            "category": "article",
+            "em": false,
+            "title": "The Sierpinski Gasket",
+            "href": "http://ecademy.agnesscott.edu/~lriddle/ifs/siertri/siertri.htm",
+            "description": "There are many posssible variations on the construction of the Sierpinski gasket, both from the geometric point of view of \"removing\" sections and the IFS point of view of scaling, rotating, and translating."
+          },
+          {
+            "number": "4",
+            "type": "tech",
+            "category": "wikipedia",
+            "em": false,
+            "title": "Pascal's Triangle",
+            "href": "https://en.wikipedia.org/wiki/Pascal%27s_triangle",
+            "description": "In mathematics, Pascal's triangle is a triangular array of the binomial coefficients. In the Western world, it is named after French mathematician Blaise Pascal, although other mathematicians studied it centuries before him in India,[1] Persia (Iran), China, Germany, and Italy.[2]"
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "tech",
+            "category": "article",
+            "em": false,
+            "title": "Cantor Sets",
+            "href": "http://www.cut-the-knot.org/do_you_know/Cantor2.shtml",
+            "description": "The Cantor set C0 is a remarkable construction that is often employed to generate other useful mathematical objects. We constructed the set C0 as a limit of an iterative process. Each step of the process led to a union of closed intervals from which on the next step we removed the open middle third. The Cantor set C0 was defined as the leftover collection of points. Surprisingly uncountable, C0 has no isolated points. It's also ascribed zero length since the total length of the removed intervals is"
+          },
+          {
+            "number": "2.1",
+            "type": "tech",
+            "category": "article",
+            "em": false,
+            "title": "Koch Curve",
+            "href": "http://ecademy.agnesscott.edu/~lriddle/ifs/kcurve/kcurve.htm",
+            "description": "“It is this similarity between the whole and its parts, even infintesimal ones, that makes us consider this curve of von Koch as a line truly marvelous among all. If it were gifted with life, it would not be possible to destroy it without anihilating it whole, for it would be continually reborn from the depths of its triangles, just as life in the universe is.”"
+          },
+          {
+            "number": "3.1",
+            "type": "tech",
+            "category": "article",
+            "em": false,
+            "title": "Binary Description of the Sierpinski Gasket: Pascal's Triangle",
+            "href": "http://ecademy.agnesscott.edu/~lriddle/ifs/siertri/Pascal.htm",
+            "description": "Does the figure to the right appear to be the Sierpinski gasket? Actually, it is a representation of Pascal's triangle."
+          },
+          {
+            "number": "4.1",
+            "type": "tech",
+            "category": "article",
+            "em": false,
+            "title": "Pascal's Triangle and Its Patterns",
+            "href": "http://ptri1.tripod.com/",
+            "description": "Pascal's Triangle was originally developed by the ancient Chinese, but Blaise Pascal was the first person to discover the importance of all of the patterns it contained. On this page, I explain how the Triangle is formed, and more importantly, many of its patterns."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1.1",
+            "type": "tech",
+            "category": "",
+            "em": false,
+            "title": "Cantor Staircase Function",
+            "href": "http://www.cut-the-knot.org/do_you_know/cantor.shtml#function",
+            "description": ""
+          },
+          {
+            "number": "2.1.1",
+            "type": "tech",
+            "category": "wikipedia",
+            "em": true,
+            "title": "Variants of the Koch Curve",
+            "href": "https://en.wikipedia.org/wiki/Koch_snowflake",
+            "description": "Following von Koch's concept, several variants of the Koch curve were designed, considering right angles (quadratic), other angles (Cesàro), circles and polyhedra and their extensions to higher dimensions (Sphereflake and Kochcube, respectively)"
+          },
+          {
+            "number": "3.1.1",
+            "type": "tech",
+            "category": "article",
+            "em": false,
+            "title": "Drawing The Sierpinski gasket",
+            "href": "http://www.math.stonybrook.edu/~scott/Book331/Sierpinski_gasket.html",
+            "description": "Warning: Drawing even $ \\Cal{S}_8$ takes a significant amount of time and is almost indistinguishable from $ \\Cal{S}_7$. If you try to draw $ \\Cal{S}_9$, be prepared to wait quite a while, and make sure your computer has plenty of memory."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "month": "May",
     "date": "31",
     "number": 28,
