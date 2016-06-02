@@ -1,6 +1,226 @@
 [
   {
     "month": "May",
+    "date": "31",
+    "number": 28,
+    "weekend": false,
+    "title": "Transmedia Typography",
+    "sum": "Going through my day 24 research on “Thing I Want to Learn”, I found treasure: Brad Bartlett's Transmedia Typography class. It is exactly my cup of tea, and I am amazed the quality of the work produced by the students that he taught at Art Center College of Design. It makes me regret for the first time that I didn't to go ACCD in 2012, though I was not admitted to the same program so it probably doesn't matter. But I can't stop to wonder, what if I did go and somehow successfully transfer myself to be Brad's  student, what would my life be right now?",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "designer",
+            "em": true,
+            "title": "Brad Bartlett",
+            "href": "http://www.artcenter.edu/gx/faculty/brad-bartlett/",
+            "description": "Brad Bartlett is a designer, artist and educator. He has been an educator at Art Center College of Design since 1999 and was awarded Great Teacher in 2003 and again in 2014. Brad is also the Director of Transmedia in the Graphic Design Department, where he has worked to implement transmedia pedagogy and has overseen the development of transmedia courses. He is an on-screen author at Lynda.com, where he recently published a course on Transmedia Typography. The work of his Los Angeles-based design studio has won numerous awards and been widely published. In 2012 and again in 2015, his work was awarded the Frances Smyth-Ravenel Grand Prize for Excellence in Design by the American Alliance of Museums."
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "course",
+            "em": true,
+            "title": "Lynda: Introduction to Transmedia Typography",
+            "href": "https://www.lynda.com/Typography-tutorials/Introduction-Transmedia-Typography/413935-2.html",
+            "description": "Imagine type that is alive and dynamic, that adapts to the environment. This is transmedia typography, type that can be expressed in a variety of visual environments, including screen-based, print-based, and emerging media. This course adapts Brad Bartlett's acclaimed transmedia typography class taught at Art Center College of Design and introduces mediatecture (aka media architecture), a ground-breaking course developed by Nik Hafermaas. Bartlett and Hafermaas explore the new ecosystems that typography now resides in and the tools (such as sensors and projectors) that designers can use to develop their own transmedia typography projects. Topics include: Developing dynamic identities; Exploring data-driven and generative logotypes; Spatializing letterforms with scale and dimension; Applying transmedia typography across analog and digital media; Exploring typography in emerging and augmented environments; Developing typography for scenography and mediatecture; Working with transmedia tools and video storytelling; Exploring commercial applications such as mediatecture."
+          },
+          {
+            "number": "3",
+            "type": "research",
+            "category": "video",
+            "em": true,
+            "title": "Transmedia Design: Brad Bartlett\nVlog",
+            "href": "https://www.youtube.com/watch?v=-lDQc1mGAvY",
+            "description": "Neistat started to post daily vlogs on YouTube on March 24, 2015 which can be found on his YouTube channel. On his May 15, 2015, vlog post \"The Vice President, Outer Space and the Baby,\" Neistat stated that he sees his vlogs more as a forum as opposed to a daily journal. On January 19, 2016 Neistat posted his 300th vlog."
+          },
+          {
+            "number": "4",
+            "type": "research",
+            "category": "studio",
+            "em": false,
+            "title": "Ueberall by Nik Hafermaas",
+            "href": "http://ueberall.us/",
+            "description": ""
+          },
+          {
+            "number": "5",
+            "type": "research",
+            "category": "video",
+            "em": false,
+            "title": "Nik Hafermaas - Pushing the Boundaries",
+            "href": "https://segd.org/nik-hafermaas-pushing-boundaries",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "2.1",
+            "type": "research",
+            "category": "project",
+            "em": true,
+            "title": "Patrick Slack: The Monterey Ocean Research Aquarium Identity",
+            "href": "http://www.patrickslack.info/mora/",
+            "description": "The Monterey Ocean Research Aquarium Identity draws influence from the relationship between what exists above and below the surface of the ocean, while focusing on micro life as the beginning of all organisms. The new institutions content is realized through web, print, and spatial experiences gathered by the institutions new research and conservation initiatives."
+          },
+          {
+            "number": "2.2",
+            "type": "research",
+            "category": "project",
+            "em": true,
+            "title": "Jay Kim: Manifold Reality | Exhibition Design",
+            "href": "http://portfolios.aiga.org/gallery/28946557/Manifold-Reality",
+            "description": "String theory proposes that universe may embody more than four dimensions. The six additional dimensions are compactified and are so tiny they are curled up inside each other. Space for Understanding Mathematics is hosting Manifold Reality, an exhibition that explores a compactification of hidden dimensions. Alphabets: Visualization of alphabets living in hidden dimensions. Alphabets are curled-up into counter and stem of characters"
+          },
+          {
+            "number": "2.3",
+            "type": "research",
+            "category": "project",
+            "em": true,
+            "title": "Japanese American Museum",
+            "href": "https://www.behance.net/gallery/25483107/JAPANESE-AMERICAN-MUSEUM",
+            "description": "Rebranding Japanese National American Museum, origami type."
+          },
+          {
+            "number": "2.4",
+            "type": "research",
+            "category": "project",
+            "em": true,
+            "title": "A Sound-reactive Drawbot for Brian Eno (Part 1 of 2)",
+            "href": "http://www.pearlyn.pl/#first",
+            "description": "I hacked an interactive drawbot that queues between drawing typography and portraits of Eno from the ’60s. Each visitor is presented with a unique scribbled sheet so that they can use it as a dust jacket for the Brain Eno book."
+          },
+          {
+            "number": "2.5",
+            "type": "research",
+            "category": "project",
+            "em": false,
+            "title": "Manato Ushiyama: NEURC",
+            "href": "http://m-design.us/portfolio/neurc/",
+            "description": "Visual identity design for Neurological Research Center, a neurological laboratory located in California, features typography based on studies in gestalt theory. This theory explains how the brain projects closure in order to perceive fragments as cohesive whole. The typeface uses light to thread a path of dots circumscribing the outer shell of the partial letterforms. These letterforms are made whole in the mind of the viewer, connecting the circuit of meaning. The brain connects the dots and completes the picture."
+          },
+          {
+            "number": "2.6",
+            "type": "research",
+            "category": "project",
+            "em": false,
+            "title": "Michael Noh: SYNC Website Demo",
+            "href": "https://vimeo.com/102955897",
+            "description": "SYNC stands for Science Yielding New Creativity, and it is a technology museum located at San Jose, California. The project is a redesign of The Tech Musuem in the same area, and it aims to celebrate mankind’s technological achievements by highlighting connections between different fields of studies. As a part of this project, a fictitious exhibition called, Hybrid Evolution, was born. Hybrid Evolution features three American inventors who have created something new by crossing more than one fields of science."
+          },
+          {
+            "number": "2.7",
+            "type": "research",
+            "category": "project",
+            "em": false,
+            "title": "SOL — Holistic Music Festival Identity Design",
+            "href": "http://eddiemontenegro.design/smf/",
+            "description": "SOL is an identity refresh for the 10th anniversary of the holistic music festival Lightning in a Bottle¹ (LIB). In researching LIB and speaking to attendees it was clear there was an identity issue: the current name and visual identity of the festival does not speak to the unique holistic nature."
+          },
+          {
+            "number": "2.8",
+            "type": "research",
+            "category": "project",
+            "em": false,
+            "title": "Siyun Oh — KlingKlang Installation",
+            "href": "http://siyunoh.com/2015/07/klingklang-installation/",
+            "description": "Kling Klang is an interactive installation that allows people to perform the sound of Kraftwerk. Inspired by the way that Kraftwerk found their sounds from the noise of everyday life, some noise of machines, choir sounds, notes and machine voice are composed on the noise pattern."
+          },
+          {
+            "number": "2.9",
+            "type": "research",
+            "category": "project",
+            "em": false,
+            "title": "Robert Wilmans — Hyperception",
+            "href": "http://www.robertwilmans.com/hyperception/",
+            "description": "Hyperception is an interactive exhibition exploring the architecture of the brain. Using an EEG sensor to measure the brain waves, each user is able to control the color and the space around them. The color inside the dome surrounding the user reacts to their level of focus and brainwave state. The information of the brainwaves is then projected on the floor below the user."
+          },
+          {
+            "number": "2.10",
+            "type": "research",
+            "category": "project",
+            "em": false,
+            "title": "Rebirth",
+            "href": "http://danielcyoung.com/work/rebirth/",
+            "description": "Interactive installation for Transient States, an exhibition on the Metabolism architecture movement. Drawing inspiration from the Metabolist ideas of living architecture driven by biological processes, the installation animates in sync to the human heartbeat. Recurring themes of the narrative are projection mapped onto two circular discs installed on the floor and ceiling."
+          },
+          {
+            "number": "2.11",
+            "type": "research",
+            "category": "project",
+            "em": false,
+            "title": "BMS (Brain, Music and Science) Research Center Rebrand",
+            "href": "http://www.designboom.com/project/bms/",
+            "description": "This is a rebrand of BMS (brain, music and science) Research Center. I was inspired by brain waves and brain neurons."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "2.2.1",
+            "type": "research",
+            "category": "designer",
+            "em": false,
+            "title": "Jay Kim — Graphic Designer",
+            "href": "http://jaykim.info/",
+            "description": "I'm a recent graduate of Art Center College of Design specializing in motion design, brand identity development and spatial design. I'm interested in creating visualizations based on observation, research and data. Graphic design is the language used to express my observations and understanding of how society, culture and people coexist."
+          },
+          {
+            "number": "2.5.1",
+            "type": "research",
+            "category": "project",
+            "em": false,
+            "title": "Manato Ushiyama",
+            "href": "http://m-design.us/",
+            "description": "Curious and passionate about transcribing complicated subjects into visual language that is understandable for the common audience. I was born and raised in Japan. I’m a recent graduate of ArtCenter College of Design with BFA graphic design specializing in visual identity development, and interaction design."
+          },
+          {
+            "number": "2.6.1",
+            "type": "research",
+            "category": "designer",
+            "em": false,
+            "title": "Michael Noh",
+            "href": "http://michaelnoh.com/",
+            "description": "My name is Michael Noh, and I am a visual & interaction designer based in San Jose. I found my love for graphic design when I was working in the U.S. Army as a multimedia illustrator. Combined with military discipline, my time in Art Center has taught me about leadership as a designer, confidence in presenting ideas and endless possibilities to influence culture by merging technology and traditional design philosophy. From book and print design to interactive installation and web design, I always look to create that special moment; that harmonious interaction between tradition and innovation."
+          },
+          {
+            "number": "2.9.1",
+            "type": "research",
+            "category": "designer",
+            "em": true,
+            "title": "Robert Wilmans",
+            "href": "http://www.robertwilmans.com/",
+            "description": "Robert Wilmans is a graphic designer born in Los Angeles currently living and working in New York City."
+          },
+          {
+            "number": "2.9.2",
+            "type": "research",
+            "category": "video",
+            "em": false,
+            "title": "Hyperception Demo",
+            "href": "https://vimeo.com/105063362",
+            "description": ""
+          },
+          {
+            "number": "2.10.1",
+            "type": "research",
+            "category": "designer",
+            "em": false,
+            "title": "Daniel C Young",
+            "href": "http://danielcyoung.com/",
+            "description": "In his previous incarnations, Daniel has been an engineer, a consultant, an entrepreneur, and a swing dance instructor. He joined the Google Creative Lab shortly after having studied graphic and interaction design at Art Center College of Design. Daniel maintains a curious love-hate relationship with technology. He has been known to daydream about a future where people don’t curse at tiny computer screens, call tech support, or commit typography crimes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
     "date": "30",
     "number": 27,
     "weekend": false,
