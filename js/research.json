@@ -1,6 +1,105 @@
 [
   {
     "month": "Jun",
+    "date": "02",
+    "number": 30,
+    "weekend": false,
+    "title": "Making of titlecase.js",
+    "sum": "Bothered by the boring manual task of converting titles into title case, I started to wonder if it could be as easy as \"text-transform: titlecase\". I think it makes perfect sense. I also want to make a series of typographic js library, to make typesetting on the web more automatic. Unlike print, there is a lot of user-generated content that you won't be able to typeset in character level, such as changing the dummy quote to smart quote, or hanging the quote outside, or adding hair space before and after en dash. All these fine details that were honored in print design is lost in the web. I am researching if I can bring them back through the power of javascript. Along the way I found my side project soul mate, whose side project collections matches mine 80% topic wise: color, type, blog platform, icon.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "David Gouch's String#toTitleCase() for Node.js",
+            "href": "https://github.com/rvagg/titlecase",
+            "description": "A JavaScript method for intelligently converting strings to title case."
+          },
+          {
+            "number": "2",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "Typeset.js",
+            "href": "https://blot.im/typeset/",
+            "description": "A ty­po­graphic pre-proces­sor for your html which uses zero client-side JavaScript and gives you: Real hang­ing punc­tu­a­tion; Soft hy­phen in­ser­tion; Optical mar­gin out­dents; Small-caps con­ver­sion; Punctuation sub­sti­tu­tion; Space sub­sti­tu­tion"
+          },
+          {
+            "number": "3",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "Hyphenator",
+            "href": "http://mnater.github.io/Hyphenator/",
+            "description": "Hyphenator.js is a free open source Javascript library that automatically hyphenates text on websites. It comes in handy as a polyfill for legacy browsers that don't support CSS 3 hyphenation at all or for modern browsers that do hyphenation, but do not provide hyphenation dictionaries for a particular language."
+          },
+          {
+            "number": "4",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "Grid Style Sheets 2.0",
+            "href": "https://gridstylesheets.org/",
+            "description": "GSS reimagines CSS layout & replaces the browser’s layout engine with one that harnesses the Cassowary Constraint Solver — the same algorithm Apple uses to compute native layout."
+          },
+          {
+            "number": "5",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "ligature.js",
+            "href": "https://code.google.com/archive/p/ligature-js/",
+            "description": "Ligature.js will go through the text on a web-page, and insert ligatures where appropriate."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "To Title Case for JavaScript",
+            "href": "https://github.com/gouch/to-title-case",
+            "description": "Instructions: Include the to-title-case.js script and use the new .toTitleCase() method on the string you want converted."
+          },
+          {
+            "number": "1.2",
+            "type": "tech",
+            "category": "article",
+            "em": false,
+            "title": "Title Case",
+            "href": "http://daringfireball.net/2008/05/title_case",
+            "description": "Here’s one of the little tools I’ve written to help publish DF which I’ve never gotten around to sharing: an ostensibly clever script for converting text to title case. I use it to standardize the capitalization of Linked List headlines, for example."
+          },
+          {
+            "number": "3.1",
+            "type": "tech",
+            "category": "code",
+            "em": false,
+            "title": "Hypher",
+            "href": "https://github.com/bramstein/hypher",
+            "description": "A small and fast JavaScript hyphenation engine. Can be used in Node.js and as a jQuery plugin."
+          },
+          {
+            "number": "3.2",
+            "type": "tech",
+            "category": "article",
+            "em": false,
+            "title": "Hyphens",
+            "href": "https://css-tricks.com/almanac/properties/h/hyphenate/",
+            "description": "The hyphens property controls hyphenation of text in block level elements. You can prevent hyphenation from happening at all, allow it, or only allow it when certain characters are present. Note that hyphens is language-sensitive. Its ability to find break opportunities depends on the language, defined in the lang attribute of a parent element. Not all languages are supported yet, and support depends on the specific browser."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "Jun",
     "date": "01",
     "number": 29,
     "weekend": false,
@@ -731,7 +830,7 @@
     "date": "27",
     "number": 24,
     "weekend": false,
-    "title": "Thing I Want to Learn",
+    "title": "Things I Want to Learn",
     "sum": "Today I did research on courses and learning materials on these 5 topics that I have interests in: 1. Creative coding; 2. Type design and typography; 3. Ruby on Rails or Python; 4. Digital Painting; 5. Fashion design and making. I put them into 5 different colomns.",
     "levels": [
       {
