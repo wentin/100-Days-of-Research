@@ -1,6 +1,149 @@
 [
   {
     "month": "Jun",
+    "date": "03",
+    "number": 31,
+    "weekend": false,
+    "title": "Podcasts to Listen",
+    "sum": "Very exciting day today because I got my first podcast request from UX coffee by a group of Chinese UX designer working in the bay area. Excited to be a podcast guest in the near future, I return to my old notes about podcast to listen and research on a few more options. One trend I found is that podcasts die fast, the note I made a year ago has many dead links. Rule of thumb is trying to listen to the latest podcast. The podcast is really good for the NOW, and back records tend to me less relevant and useful.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "podcast",
+            "em": false,
+            "title": "Typeradio",
+            "href": "http://www.typeradio.org/",
+            "description": "Type is speech on paper. Typeradio is speech on type. Typeradio was initiated in 2004 DBXL, LoveLiza and Underware. Typeradio is supported by Loudblog, Typophile, (MT), The Netherlands Foundation for Visual Arts, Design and Architecture, The Mondriaan foundation & Automatic Sync"
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "podcast",
+            "em": false,
+            "title": "Design Matters with Debbie Millman",
+            "href": "http://www.debbiemillman.com/designmatters/",
+            "description": "The world’s first podcast about design and an inquiry into the broader world of creative culture through wide-ranging conversations with designers, writers, artists, curators, musicians, and other luminaries of contemporary thought."
+          },
+          {
+            "number": "3",
+            "type": "research",
+            "category": "podcast",
+            "em": false,
+            "title": "Adventures In Design",
+            "href": "https://itunes.apple.com/us/podcast/adventures-in-design/id503341322#",
+            "description": "America's only daily morning talk show for creatives just like you. Sometimes educational, sometimes off topic but always entertaining!"
+          },
+          {
+            "number": "4",
+            "type": "research",
+            "category": "podcast",
+            "em": false,
+            "title": "On the Grid (ended)",
+            "href": "http://5by5.tv/onthegrid",
+            "description": "Thinking out loud about design weekly. Hosted by Andy Mangold, Dan Auer, and Matt McInerney."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "5",
+            "type": "research",
+            "category": "podcast",
+            "em": false,
+            "title": "Design Details",
+            "href": "http://spec.fm/podcasts/design-details",
+            "description": "A show about the people who design our favorite products."
+          },
+          {
+            "number": "6",
+            "type": "research",
+            "category": "podcast",
+            "em": false,
+            "title": "Design Review Podcast",
+            "href": "http://www.designreviewpodcast.com/",
+            "description": "The Design Review Podcast is a weekly podcast about products and their UX. Each week, we review a product and analyze the user experience design to understand how they work and take away insights from how they're made."
+          },
+          {
+            "number": "7",
+            "type": "research",
+            "category": "podcast",
+            "em": false,
+            "title": "Motion and Meaning",
+            "href": "http://motionandmeaning.io/",
+            "description": "A podcast about motion for digital designers brought to you by Val Head and Cennydd Bowles."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "8",
+            "type": "research",
+            "category": "podcast",
+            "em": false,
+            "title": "The Giant Robots Smashing into Other Giant Robots Podcast",
+            "href": "http://giantrobots.fm/",
+            "description": "The Giant Robots Smashing into Other Giant Robots podcast is a weekly show from thoughtbot discussing the business of great products. Hosted by Ben Orenstein and Chris Toomey, we delve deep behind the scenes of thoughtbot's SaaS services."
+          },
+          {
+            "number": "9",
+            "type": "research",
+            "category": "podcast",
+            "em": false,
+            "title": "The Web Ahead",
+            "href": "http://thewebahead.net/",
+            "description": "Jen Simmons speaks with world experts on changing technologies and the future of the web."
+          },
+          {
+            "number": "10",
+            "type": "research",
+            "category": "podcast",
+            "em": false,
+            "title": "Developer Tea",
+            "href": "http://spec.fm/podcasts/developer-tea",
+            "description": "A podcast for developers designed to fit inside your tea break."
+          },
+          {
+            "number": "11",
+            "type": "research",
+            "category": "podcast",
+            "em": false,
+            "title": "Shoptalk Show",
+            "href": "http://shoptalkshow.com/",
+            "description": "An internet radio show about the internet starring Dave Rupert and Chris Coyier."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "12",
+            "type": "research",
+            "category": "podcast",
+            "em": false,
+            "title": "The Big Interview",
+            "href": "https://monocle.com/radio/shows/the-big-interview/",
+            "description": "Monocle 24’s new series features in-depth interviews with inspirational names in global politics, business, culture and design. Hosted by Tyler Brûlé, Andrew Tuck and Monocle’s senior editors."
+          },
+          {
+            "number": "13",
+            "type": "research",
+            "category": "podcast",
+            "em": false,
+            "title": "99 Percent Invisible",
+            "href": "http://99percentinvisible.org/",
+            "description": "99% Invisible is about all the thought that goes into the things we don’t think about — the unnoticed architecture and design that shape our world. 99% Invisible started as a project of KALW public radio and the American Institute of Architects in San Francisco."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "Jun",
     "date": "02",
     "number": 30,
     "weekend": false,
