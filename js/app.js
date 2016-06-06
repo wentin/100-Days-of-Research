@@ -5,6 +5,7 @@ app.controller("MainCtrl", ['$scope', '$cookies', '$http', '$route', '$routePara
   // $http.get('https://api.jsoneditoronline.org/v1/docs/755438b3cca8dea3cf8e16d9ffd355bb/data').success(function(data) {
   $http.get('js/research.json').success(function(data) {
     $scope.data = data;
+    typeset(jq("h1 a, h4, p"));
   });
 
 
