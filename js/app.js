@@ -8,7 +8,7 @@ app.controller("MainCtrl", ['$scope', '$cookies', '$http', '$route', '$routePara
   });
 
   setTimeout(function(){ 
-    typeset(jq("p"), {
+    typeset(jq("h1 a, h4, p"), {
       disable: ['hyphenate', 'ligatures', 'smallCaps'], // array of features to disable
     });
   }, 1);
