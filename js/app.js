@@ -7,12 +7,6 @@ app.controller("MainCtrl", ['$scope', '$cookies', '$http', '$route', '$routePara
     $scope.data = data;
   });
 
-  setTimeout(function(){ 
-    typeset(jq("h1 a, h4, p"), {
-      disable: ['hyphenate', 'ligatures', 'smallCaps'], // array of features to disable
-    });
-  }, 1000);
-  
 
   // $scope.$route = $route;
   // $scope.$location = $location;
@@ -80,6 +74,10 @@ app.controller('DayController', function($scope, $routeParams) {
   $scope.params = $routeParams;
   $scope.dayId = Number($routeParams.dayId);
 
+  setTimeout(function(){ 
+    typeset(jq("h1 a, h4, p"));
+  }, 1000);
+  
   if ($scope.dayId == 1) {
     $scope.prevDay = false;
   } else {
@@ -109,6 +107,10 @@ app.controller('UserController', function($scope, $routeParams, $http) {
   var userId = $routeParams.userId;
   jq("body").unbind('keydown');
   
+  setTimeout(function(){ 
+    typeset(jq("h1 a, h4, p"));
+  }, 1000);
+  
   $scope.data = [];
   $http.get('http://api.jsoneditoronline.org/v1/docs/'+userId+'/data').success(function(data) {
     $scope.data = data;
@@ -117,6 +119,11 @@ app.controller('UserController', function($scope, $routeParams, $http) {
 
 app.controller('HomeController', function($scope, $routeParams) {
   $scope.params = $routeParams;
+
+  setTimeout(function(){ 
+    typeset(jq("h1 a, h4, p"));
+  }, 1000);
+  
   jq("body").unbind('keydown');
 })
 
