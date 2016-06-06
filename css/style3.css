@@ -306,6 +306,15 @@ nav ul li ul li {
   line-height: 28px;
   text-align: right;
   margin-bottom: 40px;
+  -moz-font-feature-settings: "kern", "liga", "clig", "calt";
+  -ms-font-feature-settings: "kern", "liga", "clig", "alt";
+  -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
+  font-feature-settings: "kern", "liga", "clig", "calt";
+}
+.intro p .small-caps {
+  font-size: 0.73em;
+  font-weight: 600;
+  letter-spacing: 0.02em;
 }
 .intro .pagination a {
   display: block;
@@ -372,6 +381,15 @@ nav ul li ul li {
   font-weight: 400;
   font-size: 24px;
   line-height: 30px;
+  -moz-font-feature-settings: "kern", "liga", "clig", "calt";
+  -ms-font-feature-settings: "kern", "liga", "clig", "alt";
+  -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
+  font-feature-settings: "kern", "liga", "clig", "calt";
+}
+.level .research p .small-caps {
+  font-size: 0.6em;
+  font-weight: 700;
+  letter-spacing: 0.06em;
 }
 .level .tech {
   font-family: "acumin-pro", sans-serif;
@@ -407,6 +425,15 @@ nav ul li ul li {
   font-size: 22px;
   line-height: 30px;
   letter-spacing: 0.1px;
+  -moz-font-feature-settings: "kern", "liga", "clig", "calt";
+  -ms-font-feature-settings: "kern", "liga", "clig", "alt";
+  -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
+  font-feature-settings: "kern", "liga", "clig", "calt";
+}
+.level .tech p .small-caps {
+  font-size: 0.73em;
+  font-weight: 400;
+  letter-spacing: 0.05em;
 }
 .level .quote {
   padding-top: 10px;

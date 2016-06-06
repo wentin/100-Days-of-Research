@@ -309,6 +309,15 @@ nav {
     line-height: 28px;
     text-align: right;
     margin-bottom: 40px;
+    -moz-font-feature-settings: "kern", "liga", "clig", "calt";
+    -ms-font-feature-settings: "kern", "liga", "clig", "alt";
+    -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
+    font-feature-settings: "kern", "liga", "clig", "calt";
+    .small-caps {
+      font-size: 0.73em;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+    }
   }
   .pagination {
     a {
@@ -375,6 +384,15 @@ nav {
       font-weight: 400;
       font-size: 24px;
       line-height: 30px;
+      -moz-font-feature-settings: "kern", "liga", "clig", "calt";
+      -ms-font-feature-settings: "kern", "liga", "clig", "alt";
+      -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
+      font-feature-settings: "kern", "liga", "clig", "calt";
+      .small-caps {
+        font-size: 0.6em;
+        font-weight: 700;
+        letter-spacing: 0.06em;
+      }
     }
   }
   .tech {
@@ -410,6 +428,15 @@ nav {
       font-size: 22px;
       line-height: 30px;
       letter-spacing: 0.1px;
+      -moz-font-feature-settings: "kern", "liga", "clig", "calt";
+      -ms-font-feature-settings: "kern", "liga", "clig", "alt";
+      -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
+      font-feature-settings: "kern", "liga", "clig", "calt";
+      .small-caps {
+        font-size: 0.73em;
+        font-weight: 400;
+        letter-spacing: 0.05em;
+      }
     }
   }
   .quote {

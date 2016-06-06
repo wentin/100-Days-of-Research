@@ -7,6 +7,13 @@ app.controller("MainCtrl", ['$scope', '$cookies', '$http', '$route', '$routePara
     $scope.data = data;
   });
 
+  setTimeout(function(){ 
+    typeset(jq("p"), {
+      disable: ['hyphenate', 'ligatures', 'smallCaps'], // array of features to disable
+    });
+  }, 1);
+  
+
   // $scope.$route = $route;
   // $scope.$location = $location;
   // $scope.$routeParams = $routeParams;
@@ -46,6 +53,7 @@ app.controller("MainCtrl", ['$scope', '$cookies', '$http', '$route', '$routePara
     var treeArray = [];
     jq('.hover').removeClass('hover');
     jq($event.target).parents('.day').find('.link').each(function(index) {
+
       var thisNumber = jq('.number', this).text();
       var thisNumberlength = thisNumber.length;
       if (thisNumberlength >= numberLength) {

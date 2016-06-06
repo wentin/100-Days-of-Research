@@ -26,7 +26,7 @@
         </li>
     </ul>
 </nav>
-<div class="day" ng-repeat="dayData in data | filter: searchText | orderBy: 'number' : reverse">
+<div class="day" ng-repeat="dayData in data | filter: searchText | orderBy: 'number' : reverse"  ng-repeat-end-watch="alert('end')">
   <div class="intro">
     <div class="month">
       <!-- {{dayData.month}} -->

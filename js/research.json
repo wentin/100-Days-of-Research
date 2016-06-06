@@ -4549,7 +4549,7 @@
     "number": 1,
     "weekend": false,
     "title": "Metafont",
-    "sum": "Metafont was created almost 30 years ago. It is by no means a new finding. I was researching on parametric type design, and Metafont is just exactly what I was looking for. Maybe it is another living proof of the saying “There is nothing new under the sun”. But the new is always born from the old. Soon after I started digging Metafont, I found out about Metapolator and Prototype. These tools are being actively worked on. When I look into it, the latest update could be as late as just 2 days ago. This excites me.",
+    "sum": "METAFONT was created almost 30 years ago. It is by no means a new finding. I was researching on parametric type design, and METAFONT is just exactly what I was looking for. Maybe it is another living proof of the saying “There is nothing new under the sun”. But the new is always born from the old. Soon after I started digging Metafont, I found out about Metapolator and Prototype. These tools are being actively worked on. When I look into it, the latest update could be as late as just 2 days ago. This excites me.",
     "levels": [
       {
         "links": [
@@ -4560,7 +4560,7 @@
             "em": true,
             "title": "A Note on The Type",
             "href": "http://www.servinglibrary.org/journal/1/a-note-on-the-type",
-            "description": "PEN = 0, 1, 1, 0, WEIGHT = 100, SLANT = 0, SUPERNESS = 0.75, CURLYNESS = 0:\nThis is Meta-the-difference-between-the-two-Font, a typeface designed by Dexter Sinister in 2010, and derived using MetaFont, the now-thirty-year-old computer typography system programmed by Donald Knuth in 1979."
+            "description": "PEN = 0, 1, 1, 0, WEIGHT = 100, SLANT = 0, SUPERNESS = 0.75, CURLYNESS = 0:\nThis is Meta-the-difference-between-the-two-Font, a typeface designed by Dexter Sinister in 2010, and derived using METAFONT, the now-thirty-year-old computer typography system programmed by Donald Knuth in 1979."
           }
         ]
       },
@@ -4582,7 +4582,7 @@
             "em": false,
             "title": "Letter & Spirit",
             "href": "http://www.servinglibrary.org/journal/3/letter-and-spirit",
-            "description": "In the early 1980s, on the pages of academic design journal Visible Language, a classic thesis-antithesis-synthesis played out around the technological and philosophical fine points of computer-assisted type design. Stanford professor Donald Knuth begins with his article, “The Concept of a Meta-font” (Winter 1981). Two years prior, Knuth had conceived and programmed MetaFont — a software that enabled users to generate unlimited numbers of fonts by controlling a limited set of parameters. The article is a performative account of his intervening attempts, using MetaFont to harness the essential “intelligence” of letterforms."
+            "description": "In the early 1980s, on the pages of academic design journal Visible Language, a classic thesis-antithesis-synthesis played out around the technological and philosophical fine points of computer-assisted type design. Stanford professor Donald Knuth begins with his article, “The Concept of a Meta-font” (Winter 1981). Two years prior, Knuth had conceived and programmed METAFONT — a software that enabled users to generate unlimited numbers of fonts by controlling a limited set of parameters. The article is a performative account of his intervening attempts, using METAFONT to harness the essential “intelligence” of letterforms."
           },
           {
             "number": "1.3",
@@ -4622,7 +4622,7 @@
             "em": false,
             "title": "Computer Modern",
             "href": "https://www.wikiwand.com/en/Computer_Modern",
-            "description": "Computer Modern is the original family of typefaces used by the typesetting program TeX. It was created by Donald Knuth with his Metafont program, and was most recently updated in 1992. Computer Modern, or variants of it, remains very widely used in scientific publishing, especially in disciplines that make frequent use of mathematical notation."
+            "description": "Computer Modern is the original family of typefaces used by the typesetting program TeX. It was created by Donald Knuth with his METAFONT program, and was most recently updated in 1992. Computer Modern, or variants of it, remains very widely used in scientific publishing, especially in disciplines that make frequent use of mathematical notation."
           }
         ]
       },
@@ -4635,7 +4635,7 @@
             "em": true,
             "title": "The Metafont Book",
             "href": "http://www.amazon.com/Metafont-Book-Donald-E-Knuth/dp/0201134446/",
-            "description": "METAFONT is a system for the design of symbols and alphabetic characters suited to raster-based devices that print or display text. The construction of a typeface is an art form and this manual is written for people who wish to advance the quality of mathematical typesetting. The METAFONTbook enables readers, with only minimal computer science or word processing experience, to master the basic as well as the more advanced features of METAFONT programming. With this manual, readers will learn how to write a program using METAFONT that can customize a type design that already exists, create an entire alphabet from scratch, and create logos or special symbols."
+            "description": "METAFONT is a system for the design of symbols and alphabetic characters suited to raster-based devices that print or display text. The construction of a typeface is an art form and this manual is written for people who wish to advance the quality of mathematical typesetting. The METAFONT book enables readers, with only minimal computer science or word processing experience, to master the basic as well as the more advanced features of METAFONT programming. With this manual, readers will learn how to write a program using METAFONT that can customize a type design that already exists, create an entire alphabet from scratch, and create logos or special symbols."
           },
           {
             "number": "1.3.2.2",
