@@ -11,7 +11,7 @@ app.controller("MainCtrl", ['$scope', '$cookies', '$http', '$route', '$routePara
     typeset(jq("h1 a, h4, p"), {
       disable: ['hyphenate', 'ligatures', 'smallCaps'], // array of features to disable
     });
-  }, 1);
+  }, 1000);
   
 
   // $scope.$route = $route;
