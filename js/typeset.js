@@ -928,6 +928,7 @@ var typeset =
 	  'w' : /[\u0077\u24E6\uFF57\u1E81\u1E83\u0175\u1E87\u1E85\u1E98\u1E89\u2C73]/g
 	}
 	
+	// var alignMe = "CcOoYTAVvWw".split('');
 	var alignMe = "".split('');
 	
 	module.exports = function(text){

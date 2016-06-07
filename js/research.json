@@ -1,10 +1,179 @@
 [
   {
     "month": "Jun",
+    "date": "06",
+    "number": 32,
+    "weekend": false,
+    "title": "Typeset Best Practice",
+    "sum": "What I love about this 100 day project is that it is constantly evolving, and one thing always leads to the other. From “Things I want to learn” an earlier section of the project, I watched an important tutorial about “How to Set Perfect Text”. This tutorial confirmed some of the techniques and rules I picked up randomly and added new ones to my knowledge system. I decided to add all these typography nuances to my 100 day project website, such as appropriate punctuations and spaces, hanging quotes, small caps; This turned out to be a difficult task, as it was not meant for the web. I learned a lot during this process and put together my favorite things I learned.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "book",
+            "em": true,
+            "title": "The Elements of Typographic Style",
+            "href": "http://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881791326",
+            "description": "Renowned typographer and poet Robert Bringhurst brings clarity to the art of typography with this masterful style guide. Combining the practical, theoretical, and historical, this edition is completely updated, with a thorough revision and updating of the longest chapter, \"Prowling the Specimen Books,\" and many other small but important updates based on things that are continually changing in the field."
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "tutorial",
+            "em": true,
+            "title": "Before & After: How to Set Perfect Text",
+            "href": "https://www.lynda.com/Page-Layout-tutorials/Before-After-How-Set-Perfect-Text/372538-2.html",
+            "description": "When type is the star of your design, you want to make sure to set it perfectly. lynda.com's Before & After guru John McWade shows us what good type looks like. He walks through choosing the right typeface and styling type—without using the automatic settings on which many designers rely. Instead, he counsels us to really see type and then adjust the letterforms so they are balanced and beautiful. Along the way, he touches on points small and large: indents, sizing, spacing, line length, punctuation, and the main differences between setting text for screen versus print."
+          },
+          {
+            "number": "3",
+            "type": "research",
+            "category": "book",
+            "em": false,
+            "title": "Butterick’S Practical Typography",
+            "href": "http://practicaltypography.com/",
+            "description": "A few hun­dred years of type and ty­pog­ra­phy have es­tab­lished rules that only a fool would ig­nore. (Or a graphic de­signer keen to im­press his peers.) For all those who need to com­mu­ni­cate clearly and even add a mod­icum of aes­thetic value to their mes­sages, this pub­li­ca­tion pro­vides every­thing you al­ways wanted to ask but didn’t know how to."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "research",
+            "category": "book",
+            "em": false,
+            "title": "The Elements of Typographic Style Applied to the Web",
+            "href": "http://webtypography.net/",
+            "description": "For too long typographic style and its accompanying attention to detail have been overlooked by website designers, particularly in body copy. In years gone by this could have been put down to the technology, but now the web has caught up. The advent of much improved browsers, text rendering and high resolution screens, combine to negate technology as an excuse."
+          },
+          {
+            "number": "3.1",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "Death to Typewriters — Medium Typography Details",
+            "href": "https://medium.com/designing-medium/death-to-typewriters-9b7712847639#.8ztljea12",
+            "description": "You see, I blame typewriters for double-handedly setting typography back by centuries. Type before typewriters was a beautiful world filled with hard-earned nuance and richness, a universe of tradition and craftsmanship where letters and their arrangement could tell as many stories as the words and passages they portrayed."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "3.1.2",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Death to Typewriters Part II. Making Type Read Well and Look Good",
+            "href": "https://medium.com/@mwichary/death-to-typewriters-ii-making-type-read-well-and-look-good-3874159e515a#.7ajxh0ml5",
+            "description": "We like the story of Bell Centennial, a typeface designed deliberately to be printed on a crappy phonebook paper. The shapes of Bell Centennial letters look weird when seen out of context… before you know that, during printing, the ink will spread out and make the letter forms look as intended. This is the level of detail we want to see on Medium. Here are some things we’re doing…"
+          },
+          {
+            "number": "3.1.3",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Death to Typewriters Part III. Punctuation Binds the Words Together",
+            "href": "https://medium.com/@mwichary/death-to-typewriters-iii-punctuation-binds-the-words-together-ee81b6a44ae1#.rk03w85d8",
+            "description": "A great typeface doesn’t matter much when joined together by bad punctuation. We make sure that punctuation in Medium stories is on par with the words surrounding it: Bullet points; Hyphenation; Underlines; Pilcrows"
+          },
+          {
+            "number": "3.1.4",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Death to Typewriters Part IV. Typography Is More Than Just Letters",
+            "href": "https://medium.com/@mwichary/death-to-typewriters-iv-typography-is-more-than-just-letters-1fa7b5fe504a#.p18u967n1",
+            "description": "Typography is also digits. Here are some examples of what we’re doing to make numbers feel like first-class… excuse me, 1st-class citizens."
+          },
+          {
+            "number": "3.1.5",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Death to Typewriters Part V. Whitespace Is as Important as Content",
+            "href": "https://medium.com/@mwichary/death-to-typewriters-v-whitespace-is-as-important-as-content-e308d7a67e66#.xeksdg4db",
+            "description": "Having covered letters, numbers, and punctuation, what’s left? The absence of letters, numbers, and punctuation. The way those things are laid out, and the whitespace surrounding it."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "3.1.3.1",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Crafting Link Underlines on Medium",
+            "href": "https://medium.com/designing-medium/crafting-link-underlines-on-medium-7c03a9274f9#.u284k9bpl",
+            "description": "The perfect underline should be visible, but unobtrusive — allowing people to realize what’s clickable, but without drawing too much attention to itself. It should be positioned at just the right distance from the text, sitting comfortably behind it for when descenders want to occupy the same space."
+          },
+          {
+            "number": "3.1.5.1",
+            "type": "research",
+            "category": "wikipedia",
+            "em": false,
+            "title": "Serial Comma",
+            "href": "https://en.wikipedia.org/wiki/Serial_comma",
+            "description": "In English language punctuation, a serial comma or series comma (also called Oxford comma and Harvard comma) is a comma placed immediately before the coordinating conjunction (usually and or or) in a series of three or more terms. For example, a list of three countries might be punctuated either as \"France, Italy, and Spain\" (with the serial comma), or as \"France, Italy and Spain\" (without the serial comma)."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "3.1.5.1.1",
+            "type": "research",
+            "category": "wikipedia",
+            "em": false,
+            "title": "The Chicago Manual of Style",
+            "href": "https://en.wikipedia.org/wiki/The_Chicago_Manual_of_Style",
+            "description": "The Chicago Manual of Style (abbreviated in writing as CMS or CMOS [the version used on its website], or, by some writers as Chicago) is a style guide for American English published since 1906 by the University of Chicago Press. Its sixteen editions have prescribed writing and citation styles widely used in publishing. It is \"one of the most widely used and respected style guides in the United States.\" CMOS deals with aspects of editorial practice, from American English grammar and use for document preparation."
+          },
+          {
+            "number": "3.1.5.1.2",
+            "type": "research",
+            "category": "wikipedia",
+            "em": false,
+            "title": "MLA Style Manual",
+            "href": "https://en.wikipedia.org/wiki/MLA_Style_Manual",
+            "description": "The MLA Style Manual and Guide to Scholarly Publishing (2008) is the third edition of The MLA Style Manual, first published by the Modern Language Association of America in 1985. It is an academic style guide widely used in the United States, Canada, and other countries, providing guidelines for writing and documentation of research in the humanities, especially in English studies; the study of other modern languages and literatures, including comparative literature; literary criticism; media studies; cultural studies; and related disciplines (but not disciplines like history, philosophy, and theology, which follow The Chicago Manual of Style)."
+          },
+          {
+            "number": "3.1.5.1.3",
+            "type": "research",
+            "category": "book",
+            "em": true,
+            "title": "The Elements of Style",
+            "href": "http://www.amazon.com/Elements-Style-William-Strunk-Jr/dp/1557427283",
+            "description": "\"The Elements of Style\" is one of the definitive texts on all elements of English language style, usage, and composition. Strunk covers such topics as \"elementary Rules of Usage,\" \"Elementary Principles of Composition,\" \"A Few Matters of Form,\" \"Words and Expressions Commonly Misused,\" and \"Words Often Misspelled.\""
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "3.1.5.1.1.1",
+            "type": "research",
+            "category": "guide",
+            "em": true,
+            "title": "The Chicago Manual of Style Online",
+            "href": "http://www.chicagomanualofstyle.org/home.html",
+            "description": "Completely searchable and easy to use, The Chicago Manual of Style Online provides recommendations on editorial style and publishing practices for the digital age. Now offering the full contents of the 16th and 15th editions, it is the must-have reference for everyone who works with words."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "Jun",
     "date": "03",
     "number": 31,
     "weekend": false,
-    "title": "Podcasts to Listen",
+    "title": "Podcasts to Listen to",
     "sum": "Very exciting day today because I got my first podcast request from UX coffee by a group of Chinese UX designer working in the bay area. Excited to be a podcast guest in the near future, I return to my old notes about podcast to listen and research on a few more options. One trend I found is that podcasts die fast, the note I made a year ago has many dead links. Rule of thumb is trying to listen to the latest podcast. The podcast is really good for the NOW, and back records tend to be less relevant and useful.",
     "levels": [
       {
@@ -4549,7 +4718,7 @@
     "number": 1,
     "weekend": false,
     "title": "Metafont",
-    "sum": "METAFONT was created almost 30 years ago. It is by no means a new finding. I was researching on parametric type design, and METAFONT is just exactly what I was looking for. Maybe it is another living proof of the saying “There is nothing new under the sun”. But the new is always born from the old. Soon after I started digging Metafont, I found out about Metapolator and Prototype. These tools are being actively worked on. When I look into it, the latest update could be as late as just 2 days ago. This excites me.",
+    "sum": "METAFONT was created almost 30 years ago. It is by no means a new finding. I was researching on parametric type design, and METAFONT is just exactly what I was looking for. Maybe it is another living proof of the saying “There is nothing new under the sun”. But the new is always born from the old. Soon after I started digging METAFONT, I found out about Metapolator and Prototype. These tools are being actively worked on. When I look into it, the latest update could be as late as just 2 days ago. This excites me.",
     "levels": [
       {
         "links": [
@@ -4582,7 +4751,7 @@
             "em": false,
             "title": "Letter & Spirit",
             "href": "http://www.servinglibrary.org/journal/3/letter-and-spirit",
-            "description": "In the early 1980s, on the pages of academic design journal Visible Language, a classic thesis-antithesis-synthesis played out around the technological and philosophical fine points of computer-assisted type design. Stanford professor Donald Knuth begins with his article, “The Concept of a Meta-font” (Winter 1981). Two years prior, Knuth had conceived and programmed METAFONT — a software that enabled users to generate unlimited numbers of fonts by controlling a limited set of parameters. The article is a performative account of his intervening attempts, using METAFONT to harness the essential “intelligence” of letterforms."
+            "description": "In the early 1980s, on the pages of academic design journal Visible Language, a classic thesis-antithesis-synthesis played out around the technological and philosophical fine points of computer-assisted type design. Stanford professor Donald Knuth begins with his article, “The Concept of a METAFONT” (Winter 1981). Two years prior, Knuth had conceived and programmed METAFONT — a software that enabled users to generate unlimited numbers of fonts by controlling a limited set of parameters. The article is a performative account of his intervening attempts, using METAFONT to harness the essential “intelligence” of letterforms."
           },
           {
             "number": "1.3",
