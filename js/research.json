@@ -2,7 +2,7 @@
   {
     "month": "Jun",
     "date": "06",
-    "number": 32,
+    "number": 33,
     "weekend": false,
     "title": "Typeset Best Practice",
     "sum": "What I love about this 100 day project is that it is constantly evolving, and one thing always leads to the other. From “Things I want to learn” an earlier section of the project, I watched an important tutorial about “How to Set Perfect Text”. This tutorial confirmed some of the techniques and rules I picked up randomly and added new ones to my knowledge system. I decided to add all these typography nuances to my 100 day project website, such as appropriate punctuations and spaces, hanging quotes, small caps; This turned out to be a difficult task, as it was not meant for the web. I learned a lot during this process and put together my favorite things I learned.",
@@ -48,6 +48,15 @@
             "title": "The Elements of Typographic Style Applied to the Web",
             "href": "http://webtypography.net/",
             "description": "For too long typographic style and its accompanying attention to detail have been overlooked by website designers, particularly in body copy. In years gone by this could have been put down to the technology, but now the web has caught up. The advent of much improved browsers, text rendering and high resolution screens, combine to negate technology as an excuse."
+          },
+          {
+            "number": "2.1",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Block Quotes and Pull Quotes: Examples and Good Practices",
+            "href": "https://www.smashingmagazine.com/2008/06/block-quotes-and-pull-quotes-examples-and-good-practices/",
+            "description": "Quotes are used to emphasize excerpts of text. Since users almost never read but scan we need to provide them with some focus anchors to fix their attention to the most important parts of our articles. Furthermore, quotes are always used for testimonials and sometimes for blog comments. They can be styled using graphics, CSS and a little bit of JavaScript. Sometimes, dynamic creative solutions can be applied as well."
           },
           {
             "number": "3.1",
@@ -149,7 +158,7 @@
             "em": true,
             "title": "The Elements of Style",
             "href": "http://www.amazon.com/Elements-Style-William-Strunk-Jr/dp/1557427283",
-            "description": "\"The Elements of Style\" is one of the definitive texts on all elements of English language style, usage, and composition. Strunk covers such topics as \"elementary Rules of Usage,\" \"Elementary Principles of Composition,\" \"A Few Matters of Form,\" \"Words and Expressions Commonly Misused,\" and \"Words Often Misspelled.\""
+            "description": "\"The Elements of Style\" is one of the definitive texts on all elements of English language style, usage, and composition. Strunk covers such topics as \"Elementary Rules of Usage,\" \"Elementary Principles of Composition,\" \"A Few Matters of Form,\" \"Words and Expressions Commonly Misused,\" and \"Words Often Misspelled.\""
           }
         ]
       },
@@ -163,6 +172,96 @@
             "title": "The Chicago Manual of Style Online",
             "href": "http://www.chicagomanualofstyle.org/home.html",
             "description": "Completely searchable and easy to use, The Chicago Manual of Style Online provides recommendations on editorial style and publishing practices for the digital age. Now offering the full contents of the 16th and 15th editions, it is the must-have reference for everyone who works with words."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "Jun",
+    "date": "04",
+    "number": 32,
+    "weekend": true,
+    "title": "Time Management for Creative People",
+    "sum": "Listening to sounds of wave and seagulls on my Tide app, I am writing down this paragraph. As you may have guessed, procrastination has always been a problem I constantly have to fight against. Fell behind for 2 days on this 100 day project over the weekend, I am playing catch up at 4:10 a.m. which doesn’t sound fun at all; that is why I decided to research on time management for creative people. I hope this research archive helps me and you who are reading this, hopefully not at 4:10 a.m.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "movie",
+            "em": true,
+            "title": "Procrastination by John Kelly",
+            "href": "https://www.youtube.com/watch?v=37wR_TWdVy0",
+            "description": "Graduation film from the Royal College of Art, 2007. An investigative and exploratory hands-on gloves-off study into the practice of putting things 'off''. Sometimes the only way to get something done is to do two dozen other things first."
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "Productivity Quest: Ultra-Schedule",
+            "href": "http://jessicahische.is/thinkingthoughtsonscheduling",
+            "description": "Since I can’t reclaim my round-the-clock work/life situation anytime soon, I have to figure out ways to jam all of my work needs and wants into a tighter timeline, injecting a bit of “life” into my schedule so that I don’t go on a stress-induced murder spree. I would make the ultra-schedule—a strict hour by hour timeline that would keep me in line and make sure that every day I accomplished something other than answering a few dozen emails. There were already a few things I discovered about myself and my schedule that would be helpful in developing this:"
+          },
+          {
+            "number": "3",
+            "type": "research",
+            "category": "method",
+            "em": false,
+            "title": "Pomodoro Technique",
+            "href": "http://pomodorotechnique.com/",
+            "description": "The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks."
+          },
+          {
+            "number": "4",
+            "type": "research",
+            "category": "book",
+            "em": false,
+            "title": "Time Management for Creative People",
+            "href": "http://researchswinger.org/others/creativetime.pdf",
+            "description": "Writing my own poetry and books, and coaching hundreds of creative professionals over the years has taught me a lot about what it takes to get original work done in the midst of the demands and distractions of the 21st century workplace."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "2.1",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Fighting Creative Burnout",
+            "href": "http://jessicahische.is/alwaysfightingburnout",
+            "description": "Everyone experiences burnout of some variety over the course of their careers, many of us experience it regularly. “Creative Burnout” is more nuanced, in my opinion, than just feeling generally unmotivated. For me, burnout manifests itself in four different ways: My Career is Meaningless Burnout; I Can’t Get Motivated to Actually Finish Anything Burnout; I Feel Crushed Under the Weight of These Deadlines Burnout; I Been Sick Forever Burnout."
+          },
+          {
+            "number": "3.1",
+            "type": "research",
+            "category": "tech",
+            "em": true,
+            "title": "Tide - Pomodoro Technique Timer & White Noise. The Best Focus Timer for Work & Study",
+            "href": "https://itunes.apple.com/us/app/tide-pomodoro-technique-timer/id1077776989?mt=8",
+            "description": ""
+          },
+          {
+            "number": "3.2",
+            "type": "tech",
+            "category": "tool",
+            "em": false,
+            "title": "Toggl",
+            "href": "https://toggl.com/",
+            "description": "Toggl’s time tracker is built for speed and ease of use. Time keeping with Toggl is so simple that you’ll actually use it. Toggl drives a stake in the heart of timesheets."
+          },
+          {
+            "number": "4.1",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "14 Time Management Tips for Creatives",
+            "href": "https://allcreativelike.com/2013/12/18/14-time-management-tips-for-creatives/",
+            "description": "I’ll be honest, I’m not a time management wizard. Admittedly, I waste time daily. (Facebook, I’m shaking my fist at you!) But, I never give up trying to stay on track and continually refine a system that works for me. Over the years I’ve accumulated lots of tools and insights that help keep me moving forward. I present them here as a fancy little list. And, as it turns out, lists are part of the list."
           }
         ]
       }
