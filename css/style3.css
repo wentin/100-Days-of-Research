@@ -314,7 +314,7 @@ nav ul li ul li {
 .intro p .small-caps {
   font-size: 0.73em;
   font-weight: 600;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.06em;
 }
 .intro .pagination a {
   display: block;
@@ -389,7 +389,7 @@ nav ul li ul li {
 .level .research p .small-caps {
   font-size: 0.6em;
   font-weight: 700;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.09em;
 }
 .level .tech {
   font-family: "acumin-pro", sans-serif;
@@ -433,7 +433,7 @@ nav ul li ul li {
 .level .tech p .small-caps {
   font-size: 0.73em;
   font-weight: 400;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.08em;
 }
 .level .quote {
   padding-top: 10px;
