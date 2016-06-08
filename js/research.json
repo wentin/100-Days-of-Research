@@ -2,7 +2,7 @@
   {
     "month": "Jun",
     "date": "07",
-    "number": 34,
+    "number": 35,
     "weekend": false,
     "title": "Artificial Intellegence for Design",
     "sum": "For a while, an idea has been developed in my head: doing font pairing with an algorithm. The idea is to build a database on typefaces’s various features, such as curliness, slant, x-height, how formal it looks, classification, how organic or geometric the shape is, blackness/color, how tight it is kerned, which year or era it was designed, nationality and primary intended language, type designer, etc. Then develop an algorithm that takes in these data of different typefaces and output how compatible two typefaces are to each other, and suggest font pairing options with typesetting recommendations, such as tracking, all caps or not, font-weight, colors, line-height, etc. I researched similar work done in the field of type and design in general by other people, and it will inform me greatly later on.",
@@ -100,7 +100,7 @@
   {
     "month": "Jun",
     "date": "06",
-    "number": 33,
+    "number": 34,
     "weekend": false,
     "title": "Typeset Best Practice",
     "sum": "What I love about this 100 day project is that it is constantly evolving, and one thing always leads to the other. From “Things I want to learn” an earlier section of the project, I watched an important tutorial about “How to Set Perfect Text”. This tutorial confirmed some of the techniques and rules I picked up randomly and added new ones to my knowledge system. I decided to add all these typography nuances to my 100 day project website, such as appropriate punctuations and spaces, hanging quotes, small caps; This turned out to be a difficult task, as it was not meant for the web. I learned a lot during this process and put together my favorite things I learned.",
@@ -270,6 +270,118 @@
             "title": "The Chicago Manual of Style Online",
             "href": "http://www.chicagomanualofstyle.org/home.html",
             "description": "Completely searchable and easy to use, The Chicago Manual of Style Online provides recommendations on editorial style and publishing practices for the digital age. Now offering the full contents of the 16th and 15th editions, it is the must-have reference for everyone who works with words."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "Jun",
+    "date": "05",
+    "number": 33,
+    "weekend": true,
+    "title": "Fun with Laser Cutting",
+    "sum": "With potential access to a laser cutter, my mind starts going wild with all these ideas. It is amazing how much creativity a tool can bring to people by empowering them to do something that was otherwise not possible. This is the fundamental reason why making creative tools are so interesting and satisfying for me. It will always be a big passion of mine, if not a life-long career one day!",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "tech",
+            "category": "article",
+            "em": true,
+            "title": "Tutorial: Laser Cutting Techniques and Projects",
+            "href": "http://makezine.com/2013/10/23/tutorial-laser-cutting-techniques-and-projects/",
+            "description": "Like all tools, laser cutters have strengths and limitations. Understanding and designing for them will allow you to exploit the former and minimize the latter. At the same time, I believe clever design can turn a tool’s limitations into opportunities. For me, daydreaming about how to use the machine to easily cut things that are difficult or impossible to cut using other methods gave birth to a whole line of products, my Map Puzzles."
+          },
+          {
+            "number": "2",
+            "type": "tech",
+            "category": "youtube",
+            "em": false,
+            "title": "CHI 2013 Talk Laserorigami: Laser-cutting 3d Objects",
+            "href": "https://www.youtube.com/watch?v=ZmrpOaHqGE0",
+            "description": "LaserOrigami is a rapid prototyping system that produces 3D objects using a laser cutter. LaserOrigami is substantially faster than traditional 3D fabrication techniques such as 3D printing and unlike traditional laser cutting the resulting 3D objects require no manual assembly."
+          },
+          {
+            "number": "3",
+            "type": "tech",
+            "category": "resources",
+            "em": false,
+            "title": "Sample Club: Downloadable Files for Your Epilog Laser",
+            "href": "https://www.epiloglaser.com/resources/sample-club.htm",
+            "description": "Collections of open-sourced files for laser cutting. Download the engraving files and adjust the artwork accordingly and start making!"
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "4",
+            "type": "tech",
+            "category": "pinboard",
+            "em": false,
+            "title": "Laser Cut Ideas on Pinterest Board",
+            "href": "https://www.pinterest.com/MooCB/laser-cut-ideas/",
+            "description": "Laser cutting / engraving collection from incredible makers around the world. What would you do with a laser?"
+          },
+          {
+            "number": "5",
+            "type": "tech",
+            "category": "article",
+            "em": true,
+            "title": "Ode To The Laser Cutter: Things To Make When No One Is Watching",
+            "href": "http://architizer.com/blog/laser-cutting/",
+            "description": "Laser cutters are already fairly common tools in architecture schools and firms, but in the day-to-day practicality of churning out scale models it is easy to overlook the fun side. Sure, you could start cutting jewelry, cards or other silly trinkets like everyone else on Etsy...or you could try your hand at some less ornamental creations such as musical instruments, looms or records, like we've listed below. Most of the projects here are open source and come with cut files, so bonding time with your laser cutter will be a bit less stressful."
+          },
+          {
+            "number": "6",
+            "type": "tech",
+            "category": "blog",
+            "em": false,
+            "title": "Laser Cut Studio",
+            "href": "http://lasercutstudio.tumblr.com/",
+            "description": "Laser cutting solutions for the creative Helsinki. For designers and creatives alike to design, edit and manufacture their ideas. To revolutionise the way Helsinki creates their ideas and the only place of its kind in Finland"
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": 7,
+            "type": "tech",
+            "category": "idea",
+            "em": false,
+            "title": "Typopassage Nr. 8",
+            "href": "http://www.slanted.de/shop/typopassage-nr-8",
+            "description": "The 8th edition of  Typopassage  Vienna, follows the motto \"typography begins where geometry ends\" and contains a DIY template that can be drawn directly from the vending machine on site."
+          },
+          {
+            "number": 8,
+            "type": "tech",
+            "category": "article",
+            "em": true,
+            "title": "Laser-Cut Shadow Lamps Shine by Design",
+            "href": "http://freshome.com/laser-cut-shadow-lamps/",
+            "description": "These intricately detailed lamps were created by Pranaya Design, a team of two who designed both the lamps and the laser-cutting technology to produce them. Based in the Czech Republic, the team consists of Josipa, who is responsible for the ideas and design, and Jirka, whose knowledge of laser building and operating brought the project to life."
+          },
+          {
+            "number": 9,
+            "type": "tech",
+            "category": "idea",
+            "em": false,
+            "title": "Spirograph",
+            "href": "http://nathanfriend.io/inspirograph/",
+            "description": "Spirograph is a geometric drawing toy that produces mathematical roulette curves of the variety technically known as hypotrochoids and epitrochoids. It was developed by British engineer Denys Fisher and first sold in 1965."
+          },
+          {
+            "number": 10,
+            "type": "tech",
+            "category": "video",
+            "em": false,
+            "title": "iPad Air Engraving Video",
+            "href": "https://www.epiloglaser.com/how-it-works/video/ipad-air-engraving.htm",
+            "description": "Laser engraving a photograph on an iPad Air is quick and easy with Epilog's new Mac driver and a Fusion Laser system. Using Adobe Illustrator you can design and print directly from your Mac computer, without using Bootcamp or Windows. Simply design, print, and laser it with an Epilog Fusion Laser system."
           }
         ]
       }
