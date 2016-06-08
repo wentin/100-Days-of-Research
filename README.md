@@ -1,5 +1,5 @@
 # About 100 Days of Research
-
+![1-znitdwl-_27nno7saj9nfq](https://cloud.githubusercontent.com/assets/2474904/15886204/ab4b809a-2d29-11e6-8d4d-a59c759ab27f.png)
 Inspired by Micheal Beirut’s 100 day project, I did my first 100 day project typedetail.com last year, whose goal was to annotate a web font everyday, pointing out the beautiful details of these typefaces, and provide a resource to help designers choose good web type. With much regret of how that project didn’t go as well as I planned, I want to redeem my self this year, with a new 100 day project, entitled “100 Days of Research”, hosted under the domain:
 [designresearch.space](designresearch.space).
 
@@ -10,11 +10,14 @@ The idea came from a realization of how shallow my research could be in the past
 The website has many features to make this research archive easy to navigate:
 ### Feature 01: Hover over to reveal the research path
 When you are navigating the site, you may notice the number system being used, such as 1.3.2 (see screenshot below). When you hover over 1.3.2, the hover state is noting how I got here, by first landing on the 1 (A Note on The Type), and then it has reference to 1.3 (Working on My Letters and Problems With the S), and then finally 1.3 points me to 1.3.2(Computer Modern). It will also show all the following research that I went after landing on 1.3.2. It is a quick and fun way to see the relationship between these seemingly unorganized links.
-
+![1-dlp3xphcogus5xdf01bkww](https://cloud.githubusercontent.com/assets/2474904/15886212/c099b41c-2d29-11e6-890a-707ddac6df21.png)
 Hover over any research block to reveal the research path associated
 
 ### Feature 02: instant search
+![1-qjd6vap878lwp1yqrfvsda](https://cloud.githubusercontent.com/assets/2474904/15886232/db222634-2d29-11e6-8409-697dcd592f41.png)
+
 search is instant, the result comes out as you are typing
+
 Even though it is not very fancy, the website does have an instant search on the top bar of the website. Just start typing and the result will show as you are typing letters. It is not as much of a search function, as it doesn’t do blurry search and smart auto-complete, but it is a quick way to index through archives. If you remember something that you saw before in the archive, this feature will help you find it fast. You can search through everything on the homepage, or search through the day archive when you are on a day detail page.
 
 ### Feature 03: browse by day and navigate through the archive with arrow keys
@@ -25,9 +28,14 @@ When you are on a day view, as mentioned before, you have the search bar on the 
 ### Feature 04: change the zoom level and color themes
 As you may have noticed, on the top bar, there are a zoom slider and a color swatches. You can drag the zoom slider to zoom in and out to see the website in different sizes. Sometimes it is easier to navigate when you zoom out and have a bird eye view.
 
+![1-qtosm5lcv_urkjk4dgjzba](https://cloud.githubusercontent.com/assets/2474904/15886257/ff49e5a6-2d29-11e6-86f6-abde3f4938bb.png)
+
 zoom slider and color swatches
+
 A hidden shortcut: you can double-click anywhere blank on the page to jump back and forth between the default zoom level (0.8) and last zoom level of your choice.
+
 You can also click on one of the color swatch to change the color theme of the website to reach a better reading experience.
+
 Both your choices on the zoom and color swatch is persistent even when you refresh the page, or come back a month later. You always goes back to where you left it at.
 
 ### Feature 05: if you want to start your own research archive, you can create a user page.
