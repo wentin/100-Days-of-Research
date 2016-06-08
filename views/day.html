@@ -1,9 +1,10 @@
 <nav>
     <a href="#/" class="logo">100 DAYS OF RESEARCH</a>
     <ul>
-        <li><a href="#/">DAYS</a>
+        <li><a href="#/">JUMP TO DAYS</a>
             <ul>
-                <li ng-repeat="dayData in data | orderBy: 'number' : reverse"><a ng-href="#/day/{{dayData.number}}">DAY {{dayData.number}}, {{dayData.month}} {{dayData.date}}: <strong>{{dayData.title}}</strong></a></li>
+                <!-- <li ng-repeat="dayData in data | orderBy: 'number' : reverse"><a ng-href="#/day/{{dayData.number}}">DAY {{dayData.number}}, {{dayData.month}} {{dayData.date}}: <strong>{{dayData.title}}</strong></a></li> -->
+                <li ng-repeat="dayData in data"><a ng-href="#/day/{{dayData.number}}">DAY {{dayData.number}}, {{dayData.month}} {{dayData.date}}: <strong>{{dayData.title}}</strong></a></li>
             </ul>
         </li>
         <li><a href="https://medium.com/@wenting_zhang/about-100-days-of-research-a80f4f09b57c#.hgan8cyke" target="_blank">ABOUT</a></li>
@@ -13,14 +14,14 @@
             <ul>
                 <li><a href="https://twitter.com/home?status=http%3A//designresearch.space/%20by%20%40DesignJokes" target="_blank">Tweet it</a></li>
                 <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//designresearch.space/" target="_blank">Share on Facebook</a></li>
-                <li><a href="https://github.com/wentin/100-Day-of-Research" target="_blank">Star on github</a></li>
+                <li><a href="https://github.com/wentin/100-Day-of-Research" target="_blank">Star on GitHub</a></li>
             </ul>
         </li>
         <li class="follow"><a href="https://twitter.com/DesignJokes" target="_blank">FOLLOW ME</a>
             <ul>
                 <li><a href="https://twitter.com/DesignJokes" target="_blank">Twitter</a></li>
-                <li><a href="https://github.com/wentin/" target="_blank">Github</a></li>
-                <li><a href="http://codepen.io/wentin" target="_blank">Codepen</a></li>
+                <li><a href="https://github.com/wentin/" target="_blank">GitHub</a></li>
+                <li><a href="http://codepen.io/wentin" target="_blank">CodePen</a></li>
                 <li><a href="https://medium.com/@wenting_zhang" target="_blank">Medium</a></li>
             </ul>
         </li>
