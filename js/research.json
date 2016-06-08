@@ -1,6 +1,104 @@
 [
   {
     "month": "Jun",
+    "date": "07",
+    "number": 34,
+    "weekend": false,
+    "title": "Artificial Intellegence for Design",
+    "sum": "For a while, an idea has been developed in my head: doing font pairing with an algorithm. The idea is to build a database on typefaces’s various features, such as curliness, slant, x-height, how formal it looks, classification, how organic or geometric the shape is, blackness/color, how tight it is kerned, which year or era it was designed, nationality and primary intended language, type designer, etc. Then develop an algorithm that takes in these data of different typefaces and output how compatible two typefaces are to each other, and suggest font pairing options with typesetting recommendations, such as tracking, all caps or not, font-weight, colors, line-height, etc. I researched similar work done in the field of type and design in general by other people, and it will inform me greatly later on.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "tech",
+            "category": "article",
+            "em": true,
+            "title": "Taking The Robots To Design School, Part 1",
+            "href": "http://www.jon.gold/2016/05/robot-design-school/",
+            "description": "I resolved to shift my design career towards abstractions and work on ((meta-)meta-)meta-design systems and tools to enable more powerful forms of thought amongst human designers. …Design is absolutely teachable, and I have a 4 step process for teaching it to machines. The process is written about below in the context of typography but it’s equally applicable to layout, color, and every other subdiscipline of graphic design."
+          },
+          {
+            "number": "2",
+            "type": "tech",
+            "category": "video",
+            "em": false,
+            "title": "Creative partnerships: Machine learning and the future of design",
+            "href": "https://www.oreilly.com/ideas/creative-partnerships-machine-learning-and-the-future-of-design?imm_mid=0e47d1&cmp=em-design-na-na-newsltr_20160607",
+            "description": "Patrick Hebron offers an introduction to contemporary machine-learning systems and explores how these emerging capabilities will transform the next generation of computing interfaces."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "tech",
+            "category": "article",
+            "em": true,
+            "title": "Layout in Flipboard for Web and Windows",
+            "href": "http://engineering.flipboard.com/2014/03/web-layouts/",
+            "description": "How do we automate the whole process of layout design and editing? By slotting your content into custom designed page layouts—like fitting puzzle pieces together. We start with a set of page layouts created by human designers. Then, our layout engine figures out how to best fit your content into these layouts—considering things like page density, pacing, rhythm, image crop and scale."
+          },
+          {
+            "number": "1.2",
+            "type": "tech",
+            "category": "book",
+            "em": false,
+            "title": "Karl Gerstner — Designing Programmes",
+            "href": "https://runemadsen.com/blog/karl-gerstner-designing-programmes/",
+            "description": "Karl Gerstner’s work is a milestone in the history of design. One of his most important works is Designing Programmes, which is presented here in a new edition of the original 1964 publication. In four essays, the author provides a basic introduction to his design methodology. Instead of set recipes, the method suggests a model for design in the early days of the computer era."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.2.1",
+            "type": "tech",
+            "category": "pdf",
+            "em": false,
+            "title": "Karl Gerstner — Designing Programmes",
+            "href": "http://t-y-p-o-g-r-a-p-h-y.org/MEDIA/PDF/DesigningProgrammes.pdf",
+            "description": ""
+          },
+          {
+            "number": "1.2.2",
+            "type": "tech",
+            "category": "paper",
+            "em": true,
+            "title": "Karl Gerstner and Design Programmes",
+            "href": "https://carlosfiorentino.files.wordpress.com/2010/08/karl_gerstner_and_design_programmes.pdf",
+            "description": "Once the design problem has been carefully defined, then an appropriate programme could be developed to explore solutions. The failure of a programme comes when it is not developed comprehensively enough or does not regard the design problem adequately."
+          },
+          {
+            "number": "1.2.3",
+            "type": "tech",
+            "category": "article",
+            "em": false,
+            "title": "Analyzing 50k Fonts Using Deep Neural Networks",
+            "href": "https://erikbern.com/2016/01/21/analyzing-50k-fonts-using-deep-neural-networks/",
+            "description": "We can also interpolate between different fonts in continuous space. Since every font is a vector, we can create arbitrary font vectors and generate output from it. Let’s sample four fonts and put them in the corners of a square, then interpolate between them!"
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.2.2.1",
+            "type": "tech",
+            "category": "article",
+            "em": true,
+            "title": "The Designer as Programmer: Review of 5x10 Years of Graphic Design",
+            "href": "http://www.eyemagazine.com/review/article/the-designer-as-programmer",
+            "description": "First, he had developed the idea of a flexible grid – the central theme of Gerstner’s thinking was on computational systems, which he described as ‘programmes’. Second, he was a pioneer of unjustified, ranged-left setting for text. Third, he had extended ‘functional’ into ‘integral’ typography, where the message and its form are inseparable and interdependent – idea, text and typographical presentation are one. The book presents the five decades of his working life, with an introduction to each section (text on white pages) and a commentary on each job (reproduced in white panels on warm grey). Each decade is preceded by an essay on art and design, on visual language, on logos and labels, on the job of the art director, and ‘Good Design: What Is It?’"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "Jun",
     "date": "06",
     "number": 33,
     "weekend": false,
@@ -3551,6 +3649,19 @@
             "description": "The visual presentation of text and images of text has a contrast ratio of at least 4.5:1, except for the following: Large Text: Large-scale text and images of large-scale text have a contrast ratio of at least 3:1; Incidental: Text or images of text that are part of an inactive user interface component, that are pure decoration, that are not visible to anyone, or that are part of a picture that contains significant other visual content, have no contrast requirement. Logotypes: Text that is part of a logo or brand name has no minimum contrast requirement."
           }
         ]
+      },
+      {
+        "links": [
+          {
+            "number": "2.2.3.1",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "In Plain Sight: Text, Contrast, and Accessibility",
+            "href": "https://medium.com/shopify-ux/in-plain-sight-5639c9afb4c6#.uyxx4cekz",
+            "description": "Text should be at least 45% black on white, for the lightest shade. For the darkest shade, a value of 85%–90% works well. Use colored text — such as for links — with care, minding the natural luminance of each hue and using a contrast tool to ensure legibility. When setting text against colored backgrounds, trust your eye and add as much contrast as you can spare"
+          }
+        ]
       }
     ]
   },
@@ -3733,6 +3844,15 @@
             "title": "Instagram's Abomination Part II",
             "href": "http://www.elischiff.com/blog/2016/5/24/instagrams-abomination-part-ii",
             "description": "Instagram took the ritual of instant photography, and introduced it to the digital format with the enduring appeal of overt skeuomorphs. Previously with its icon and UI designs, and today only in the photo filters, the software played to a wabi sabi desire to bring meaning to the impermanence of everyday life. In the end, Instagram's \"community-driven\" decisions make clear it was unaware of the value it offered."
+          },
+          {
+            "number": "1.1.2.2",
+            "type": "research",
+            "category": "essay",
+            "em": false,
+            "title": "Instagram's Abomination Part III",
+            "href": "http://www.elischiff.com/2016/6/7/instagrams-abomination-part-iii",
+            "description": "The resultant Instagram brand speaks to an indecisiveness on the part of its designers. The tie dye gradient colors of the icon and the minimalist palette in the app interface represent the worst of both worlds. In the former, a sort of postmodern nihilism in which 'anything goes.' In the latter, a modernist reduction such that judgment is never a factor. It is a case study in the sickness that is contemporary design."
           },
           {
             "number": "2.2.2.1",
@@ -4850,7 +4970,7 @@
             "em": false,
             "title": "Letter & Spirit",
             "href": "http://www.servinglibrary.org/journal/3/letter-and-spirit",
-            "description": "In the early 1980s, on the pages of academic design journal Visible Language, a classic thesis-antithesis-synthesis played out around the technological and philosophical fine points of computer-assisted type design. Stanford professor Donald Knuth begins with his article, “The Concept of a METAFONT” (Winter 1981). Two years prior, Knuth had conceived and programmed METAFONT — a software that enabled users to generate unlimited numbers of fonts by controlling a limited set of parameters. The article is a performative account of his intervening attempts, using METAFONT to harness the essential “intelligence” of letterforms."
+            "description": "In the early 1980s, on the pages of academic design journal Visible Language, a classic thesis-antithesis-synthesis played out around the technological and philosophical fine points of computer-assisted type design. Stanford professor Donald Knuth begins with his article, “The Concept of a MetaFont” (Winter 1981). Two years prior, Knuth had conceived and programmed METAFONT — a software that enabled users to generate unlimited numbers of fonts by controlling a limited set of parameters. The article is a performative account of his intervening attempts, using METAFONT to harness the essential “intelligence” of letterforms."
           },
           {
             "number": "1.3",
