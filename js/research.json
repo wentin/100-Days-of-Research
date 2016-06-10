@@ -1,6 +1,118 @@
 [
   {
     "month": "Jun",
+    "date": "08",
+    "number": 36,
+    "weekend": false,
+    "title": "Art Scene in Europe",
+    "sum": "Planning a month long work and travel trip to Europe is exciting. I gather around a few art scene such as schools, museums and bookstores that I want to check out while in Amsterdam, Berlin and other places.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "school",
+            "em": false,
+            "title": "Sandberg Instituut (Amsterdam)",
+            "href": "http://sandberg.nl/",
+            "description": "The five permanent departments at the Sandberg Institute are: Critical Studies, Design, Dirty Art Department, Fine Arts and Studio for Immediate Spaces."
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "museum",
+            "em": false,
+            "title": "Stedelijk Museum (Amsterdam)",
+            "href": "http://www.stedelijk.nl/en",
+            "description": "The Stedelijk Museum Amsterdam is an international museum dedicated to modern and contemporary art and design."
+          },
+          {
+            "number": "3",
+            "type": "research",
+            "category": "museum",
+            "em": false,
+            "title": "Rembrandt House Museum (Amsterdam)",
+            "href": "http://www.rembrandthuis.nl/en/",
+            "description": "The Rembrandt House Museum (Dutch: Museum Het Rembrandthuis) is a historic house and art museum in Amsterdam in the Netherlands. Painter Rembrandt lived and worked in the house between 1639 and 1656. The 17th-century interior has been reconstructed. The collection contains Rembrandt's etchings and paintings of his contemporaries. The museum had 193,250 visitors in 2012."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "4",
+            "type": "research",
+            "category": "museum",
+            "em": false,
+            "title": "Van Gogh Museum (Amsterdam)",
+            "href": "https://www.vangoghmuseum.nl/en",
+            "description": "The Van Gogh Museum is an art museum in Amsterdam in the Netherlands dedicated to the works of Vincent van Gogh and his contemporaries. It is located at the Museum Square in the borough Amsterdam South, close to the Stedelijk Museum, the Rijksmuseum, and the Concertgebouw."
+          },
+          {
+            "number": "5",
+            "type": "research",
+            "category": "museum",
+            "em": false,
+            "title": "Rijksmuseum (Amsterdam)",
+            "href": "https://www.rijksmuseum.nl/nl/",
+            "description": "The Rijksmuseum (English: Imperial Museum) is a Dutch national museum dedicated to arts and history in Amsterdam. The museum is located at the Museum Square in the borough Amsterdam South, close to the Van Gogh Museum, the Stedelijk Museum Amsterdam, and the Concertgebouw."
+          },
+          {
+            "number": "6",
+            "type": "research",
+            "category": "museum",
+            "em": false,
+            "title": "Anne Frank House (Amsterdam)",
+            "href": "http://www.annefrank.org/",
+            "description": "The Anne Frank House is a writer's house and biographical museum dedicated to Jewish wartime diarist Anne Frank. The building is located on a canal called the Prinsengracht, close to the Westerkerk, in central Amsterdam in the Netherlands."
+          },
+          {
+            "number": "7",
+            "type": "research",
+            "category": "bookstore",
+            "em": false,
+            "title": "Sans Serriffe (Amsterdam)",
+            "href": "http://www.san-serriffe.com/",
+            "description": "We are a small art book shop in the center of Amsterdam."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "8",
+            "type": "research",
+            "category": "bookstore",
+            "em": false,
+            "title": "Waanders In de Broeren, A Bookstore Inside a Cathedral  (Amsterdam)",
+            "href": "http://www.lostateminor.com/2013/09/30/a-bookstore-inside-a-cathedral-oh-amsterdam/",
+            "description": "Though one would think that to put in a bookstore, or any other establishment for that matter, inside a 15-th century cathedral would desecrate the place. But in fact, the design of the store was aligned with the church’s original architecture and interiors. Ultrecht-based BK Architecten even had renovations for the church in order to preserve its cultural heritage."
+          },
+          {
+            "number": 9,
+            "type": "research",
+            "category": "museum",
+            "em": false,
+            "title": "Topography of Terror Documentation Center (Berlin)",
+            "href": "http://www.topographie.de/en/",
+            "description": "The Topography of Terror (German: Topographie des Terrors) is an outdoor and indoor history museum in Berlin, Germany. It is located on Niederkirchnerstrasse, formerly Prinz-Albrecht-Strasse, on the site of buildings which during the Nazi regime from 1933 to 1945 were the headquarters of the Gestapo and the SS, the principal instruments of repression during the Nazi era."
+          },
+          {
+            "number": 10,
+            "type": "research",
+            "category": "museum",
+            "em": false,
+            "title": "Plantin-Moretus Museum (Belgium)",
+            "href": "http://www.museumplantinmoretus.be/en",
+            "description": "The Plantin-Moretus Museum is a museum in Antwerp, Belgium honouring the printers Christophe Plantin and Jan Moretus. It is located in their former residence and printing establishment, Plantin Press, at the Friday Market. The printing company was founded in the 16th century by Christophe Plantin, who obtained type from the leading typefounders of the day in Paris. Plantin was a major figure in contemporary printing with interests in humanism; his eight-volume, multi-language Plantin Polyglot Bible with Hebrew, Aramaic, Greek and Syriac texts was one of the most complex productions of the period."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "Jun",
     "date": "07",
     "number": 35,
     "weekend": false,
