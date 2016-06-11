@@ -1,6 +1,127 @@
 [
   {
     "month": "Jun",
+    "date": "10",
+    "number": 37,
+    "weekend": false,
+    "title": "Graphic Design History",
+    "sum": "“Design is not Darwinian. It doesn't get better over time. Design simply reflects the culture and the period of time in which it was created. ” Learning about History of Graphic Design was something I was not fortunate enough to do at school. The Lynda.com course gave me a quick rundown of what I have missed and inspired me to buy 2 more books on this subject matter. If you know me personally, I am the least possible person who would like spending time read an old paper of art history, but this truly fascinates me by providing the context of why things look the way they do.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "video",
+            "em": true,
+            "title": "Lynda: Foundations of Graphic Design History",
+            "href": "http://www.lynda.com/Design-Color-tutorials/Where-next/166781/363096-4.html",
+            "description": "The history of graphic design is a history of cultural expression, reflecting not only what people thought during a given time period, but also how they felt. Whether you're curious about the development of design or are seeking inspiration for your own creations, expand your visual vocabulary in this comprehensive introduction to graphic design history. Sean Adams, who managed the AIGA historical archives—the largest collection of graphic design history in the world—focuses on the hows and whys of each design movement, detailing the development and evolution of specific styles, techniques, and genres."
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "book",
+            "em": false,
+            "title": "Meggs' History of Graphic Design",
+            "href": "https://www.amazon.com/Meggs-History-Graphic-Design-Philip/dp/1118772059",
+            "description": "Meggs' History of Graphic Design is the industry's unparalleled, award-winning reference. With over 1,400 high-quality images throughout, this visually stunning text guides you through a saga of artistic innovators, breakthrough technologies, and groundbreaking developments that define the graphic design field. The initial publication of this book was heralded as a publishing landmark, and author Philip B. Meggs is credited with significantly shaping the academic field of graphic design."
+          },
+          {
+            "number": "3",
+            "type": "research",
+            "category": "book",
+            "em": false,
+            "title": "Graphic Design: A New History",
+            "href": "https://www.amazon.com/Graphic-Design-Stephen-J-Eskilson/dp/0300172605",
+            "description": "Now in its second edition, this innovative look at the history of graphic design explores its evolution from the 19th century to the present day. Author Stephen J. Eskilson demonstrates how a new era began for design arts under the influence of Victorian reformers, tracing the emergence of modernist design styles in the early 20th century, and examining the wartime politicization of regional styles. Richly contextualized chapters chronicle the history of the Bauhaus and the rise of the International Style in the 1950s and '60s, and the postmodern movement of the 1970s and '80s. The book's final chapter looks at current trends in graphic design, with in-depth discussions of grunge, comic book, and graffiti aesthetics; historicism and appropriation; and the influence of technology, web design, and motion graphics."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "research",
+            "category": "resource",
+            "em": false,
+            "title": "AIGA Design Archives",
+            "href": "http://designarchives.aiga.org/#/home",
+            "description": "The archives of AIGA serve to identify, preserve and make available records of enduring value. AIGA’s aim is to make conditions suitable for access and to support research that will add to the literature of design and to safeguard its legacy."
+          },
+          {
+            "number": "1.2",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "The Wood-type Poster",
+            "href": "http://www.historygraphicdesign.com/a-graphic-renaissance/an-epoch-of-typographic-genius/337-the-wood-type-poster",
+            "description": "In America, with the expansion of the commercial printing industry in the first years of the 19th century, it was inevitable that someone would perfect a process for cheaply producing the large letters so in demand for broadsides. Wood was the logical material because of its lightness, availability, and known printing qualities."
+          },
+          {
+            "number": "1.3",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Art Nouveau",
+            "href": "http://www.theartstory.org/movement-art-nouveau.htm",
+            "description": "Art Nouveau (the \"new art\") was a widely influential but relatively short-lived movement that emerged in the final decade of the 19th century and was already beginning to decline a decade later. This movement - less a collective one than a disparate group of visual artists, designers and architects spread throughout Europe was aimed at creating styles of design more appropriate to the modern age, and it was characterized by organic, flowing lines- forms resembling the stems and blossoms of plants - as well as geometric forms such as squares and rectangles."
+          },
+          {
+            "number": "1.4",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "The Arts and Crafts Movement in America",
+            "href": "http://www.metmuseum.org/toah/hd/acam/hd_acam.htm",
+            "description": "The Arts and Crafts movement emerged during the late Victorian period in England, the most industrialized country in the world at that time. Anxieties about industrial life fueled a positive revaluation of handcraftsmanship and precapitalist forms of culture and society. Arts and Crafts designers sought to improve standards of decorative design, believed to have been debased by mechanization, and to create environments in which beautiful and fine workmanship governed. The Arts and Crafts movement did not promote a particular style, but it did advocate reform as part of its philosophy and instigated a critique of industrial labor; as modern machines replaced workers, Arts and Crafts proponents called for an end to the division of labor and advanced the designer as craftsman."
+          },
+          {
+            "number": "1.5",
+            "type": "research",
+            "category": "gallery",
+            "em": false,
+            "title": "Plakatstil: The Poster Style",
+            "href": "http://www.internationalposter.com/style-primer/plakastil-posters.aspx",
+            "description": "The Poster Style, or \"Plakatstil\", was begun in 1905 by Lucian Bernhard in Berlin. For a poster competition sponsored by Preister matches he took the novel approach of drawing two large matches and writing the brand name above them in clean, bold letters. The stark simplicity of the design won him the competition, and marked a departure from the fussy and decorative Art Nouveau style, which was beginning to lose its vitality."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.2.1",
+            "type": "research",
+            "category": "website",
+            "em": true,
+            "title": "History of Graphic Design",
+            "href": "http://www.historygraphicdesign.com/",
+            "description": "History of Graphic Design is an arhvie, a book, a website about the history of graphic design, organized in 5 chapters: Prologue; Graphic Renaissance; Industrial Revolution; Modernist Era; Age of Information."
+          },
+          {
+            "number": "1.3.1",
+            "type": "research",
+            "category": "website",
+            "em": true,
+            "title": "The Art Story",
+            "href": "http://www.theartstory.org/",
+            "description": "The Art Story is an educational non-profit organization founded in 2009 to demystify Modern Art and further art appreciation."
+          },
+          {
+            "number": "1.5.1",
+            "type": "research",
+            "category": "website",
+            "em": true,
+            "title": "International Poster Gallery",
+            "href": "http://www.internationalposter.com/",
+            "description": "Twenty-two years ago we opened International Poster Gallery on Newbury Street in Boston.  As a collector and private dealer, I wanted to share my passion for one of the most important art forms of the twentieth century. When we launched this website in 1997, our reach became truly global."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "Jun",
     "date": "08",
     "number": 36,
     "weekend": false,
