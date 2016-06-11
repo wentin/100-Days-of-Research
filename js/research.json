@@ -2,7 +2,7 @@
   {
     "month": "Jun",
     "date": "10",
-    "number": 37,
+    "number": 38,
     "weekend": false,
     "title": "Graphic Design History",
     "sum": "“Design is not Darwinian. It doesn't get better over time. Design simply reflects the culture and the period of time in which it was created. ” Learning about History of Graphic Design was something I was not fortunate enough to do at school. The Lynda.com course gave me a quick rundown of what I have missed and inspired me to buy 2 more books on this subject matter. If you know me personally, I am the least possible person who would like spending time read an old paper of art history, but this truly fascinates me by providing the context of why things look the way they do.",
@@ -115,6 +115,109 @@
             "title": "International Poster Gallery",
             "href": "http://www.internationalposter.com/",
             "description": "Twenty-two years ago we opened International Poster Gallery on Newbury Street in Boston.  As a collector and private dealer, I wanted to share my passion for one of the most important art forms of the twentieth century. When we launched this website in 1997, our reach became truly global."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "Jun",
+    "date": "09",
+    "number": 37,
+    "weekend": false,
+    "title": "Drop Cap Typesetting",
+    "sum": "The best resource that I found on Drop Cap Typesetting is still a chapter in The Element of Typographic Style. Unfortunately, it is impossible to reference that on the web. Today I want to round up all the opinions on typesetting the drop cap to prepare an interactive article piece about setting drop cap on the web, and possibly a toolkit to integrate Jessica Hische's Daily Drop Cap images (with proper licensing).",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "video",
+            "em": true,
+            "title": "Lynda: How to Set Perfect Drop Caps",
+            "href": "http://www.lynda.com/Page-Layout-tutorials/How-set-perfect-drop-caps/372538/430249-4.html",
+            "description": "A drop cap in text is a great way to lead off an important paragraph. It's the first letter of a passage made bigger than all the others. A three-line drop cap is what I'll typically use in a body of text to start a major new thought. A two-line cap isn't worth the trouble. It's more like a little spec, kind of a pointless interruption. To my eye, the text would be smoother with nothing. A four-line cap is impressive, but it signifies more than a common break in thought. I'd use a four-line cap for the first line of a book, or maybe each chapter."
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "Drop Caps: Historical Use And Current Best Practices With CSS",
+            "href": "https://www.smashingmagazine.com/2012/04/drop-caps-historical-use-and-current-best-practices/",
+            "description": ""
+          },
+          {
+            "number": "3",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Typesetting Tip to Achieve the Best Looking Drop Cap in Indesign",
+            "href": "http://www.andandandcreative.com/news/2015/04/drop-cap/",
+            "description": "The almighty Drop Cap is a wonderful tool in the armory of a graphic designer. Breaking text-heavy pages whilst adding clear entry points for readers. At large scales it becomes a typographic ornament. However time and time again we see it set incorrectly, with the Drop Cap not being optically aligned to the text or the tracking after the drop cap not set. Resulting in the space between the drop cap and main copy being very tight. These are the typical issue’s you will face as a designer when using the automatic settings within indesign. Depending on the typeface and the context there are numerous ways to resolve these issue’s."
+          },
+          {
+            "number": "4",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Book Design: 6 Variations on Drop-Cap Typography",
+            "href": "http://www.thebookdesigner.com/2012/02/book-design-6-variations-on-drop-cap-typography/",
+            "description": "Most often these drop caps are exactly that: a plain capital letter from the font in which the text is set. But there are also lots of other variations including caps that stand above the line (“stand-up caps”) and ones that print in the margin of the book. Here we’ll look at the standard type of drop cap and some variations."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "2.1",
+            "type": "research",
+            "category": "video",
+            "em": false,
+            "title": "Lynda: Dropping in CSS Drop Caps",
+            "href": "http://www.lynda.com/Web-Design-tutorials/Dropping-CSS-drop-caps/162138/383426-4.html",
+            "description": "Hi there, I'm Sue Jenkins and welcome to Productivity Tips for Web Designers. Today, you'll discover different methods for creating drop caps in your web layouts using HTML and CSS. Drop caps are often used as the very first letter of a word, paragraph, article or a chapter in a book, magazine, or other publication."
+          },
+          {
+            "number": "2.2",
+            "type": "research",
+            "category": "webiste",
+            "em": false,
+            "title": "Good Web Fonts",
+            "href": "http://www.goodwebfonts.com/",
+            "description": "GoodWebFonts.com started in early 2010 as a resource for my web typog­ra­phy stu­dents. Each font has it’s own web font spec­i­men sheet (based on Tim Brown’s orig­i­nal web font spec­i­men) so you can see how the font holds up at var­i­ous sizes, styles, weights, and so on. Each spec­i­men sheet opens in a new tab so you can view and com­pare mul­ti­ple fonts."
+          },
+          {
+            "number": "2.3",
+            "type": "research",
+            "category": "video",
+            "em": false,
+            "title": "Lynda: Typography for Web Designers",
+            "href": "http://www.lynda.com/Web-Fonts-tutorials/Typography-for-Web-Designers/79411-2.html",
+            "description": "Learn how to choose fonts for a web site and create beautiful, legible type. Author Laura Franz shares how to create designs that maximize readability (and keep visitors on the page) by paying attention to details in size, line-height, line length, alignment, color, vertical space, and more. Laura also demonstrates how to incorporate web fonts, style type with CSS, and pick fonts that work well together."
+          },
+          {
+            "number": "2.4",
+            "type": "research",
+            "category": "book",
+            "em": false,
+            "title": "Best Practices: Typographic Style",
+            "href": "http://www.inkwell.ie/typography/bringhurst.html",
+            "description": "Widely considered to be the pinnacle of typographic practice, Robert Bringhurst's “The Elements of Typographic Style” is cited by typographers such as Hermann Zapf, Jonathan Hoefler and Richard Rutter as the typographers Bible. It provides guidance in terms of font choice, legibility, hierarchy, kerning, leading (line-spacing) and white space."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "2.1.1",
+            "type": "research",
+            "category": "project",
+            "em": false,
+            "title": "Jessica Hische: Daily Drop Cap",
+            "href": "http://www.dailydropcap.com/",
+            "description": "Daily drop cap is a project by designer & illustrator Jessica Hische. Since September of 2009, an illustrative initial cap has been posted daily (or at least regularly), to prettify the internet and beautify your blog posts. The project will end after the twelfth alphabet is complete, but the site will remain up for your use and inspiration."
           }
         ]
       }
