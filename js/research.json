@@ -1,10 +1,113 @@
 [
   {
     "month": "Jun",
+    "date": "12",
+    "number": 39,
+    "weekend": true,
+    "title": "Graphic Design History Part II",
+    "sum": "Continuing the study on graphic design history, I researched more in detail about Swiss Typography and American Magazine styles. The uniqueness of this research series is that I always try to link back to what I do today, which is work on the web. The Swiss in CSS is the perfect project to demonstrate the connection, and the smashing magazine article “Lessons From Swiss Style Graphic Design” also tied the connection. The history informs the now, and that is the whole point of learning about the graphic design history.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "A History of Magazine Covers",
+            "href": "http://guity-novin.blogspot.com/2013/03/a-history-of-magazine-covers.html",
+            "description": "The magazine cover design has been evolved into a sophisticated creative act of art in the United States. Informed by the Golden Age of American Illustration between 1880 and 1960, it stemmed from advances in printing technology, an abundant supply of inexpensive pulp-based paper, and mass mailing that acted as impetus to a meteoric rise of new magazines. In this era, publishers and advertisers capaciously demanded from artists to create artworks that would visually communicate with their audiences in exquisite styles that would appeal to aesthetic tastes of the modern-age public, and they were able to pay high fees for the work of first-rate artists."
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "Lessons From Swiss Style Graphic Design",
+            "href": "https://www.smashingmagazine.com/2009/07/lessons-from-swiss-style-graphic-design/",
+            "description": "Also known as International Style, the Swiss Style does not simply describe a style of graphic design made in Switzerland. It became famous through the art of very talented Swiss graphic designers, but it emerged in Russia, Germany and Netherlands in the 1920’s. This style in art, architecture and culture became an ‘international’ style after 1950’s and it was produced by artists all around the globe. Despite that, people still refer to it as the Swiss Style or the Swiss Legacy."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "Steven Heller: History of Aggressive Design Magazines",
+            "href": "http://designobserver.com/feature/history-of-aggressive-design-magazines/7607/",
+            "description": "Early graphic design trade magazines are missing links in the development of styles, propagation of standards and canonization of the profession. Although current periodicals have come a long way since the late Nineteenth Century periodicals, the common editorial mandate to analyze, critique, and showcase contemporary and avant garde achievement is what makes these journals integral to graphic design history."
+          },
+          {
+            "number": "2.1",
+            "type": "tech",
+            "category": "project",
+            "em": true,
+            "title": "Swiss in CSS: animating the International Typographic Style",
+            "href": "http://swissincss.com/",
+            "description": "Swiss in CSS is a homage to the International Typographic Style and the designers that pioneered the ideas behind the influential design movement. All posters were recreated and animated with CSS by Jon Yablonski."
+          },
+          {
+            "number": "2.2",
+            "type": "research",
+            "category": "book",
+            "em": false,
+            "title": "Swiss Graphic Design: The Origins and Growth of an International Style, 1920-1965",
+            "href": "https://www.amazon.com/Swiss-Graphic-Design-International-1920-1965/dp/0300106769?ie=UTF8&ref_=asap_bc",
+            "description": "Swiss graphic design and “the Swiss Style” are crucial elements in the history of modernism. During the 1920s and ’30s, skills traditionally associated with Swiss industry, particularly pharmaceuticals and mechanical engineering, were matched by those of the country’s graphic designers, who produced their advertising and technical literature. These pioneering graphic artists saw design as part of industrial production and searched for anonymous, objective visual communication. They chose photographic images rather than illustration, and typefaces that were industrial-looking rather than those designed for books."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1.1",
+            "type": "research",
+            "category": "designer",
+            "em": false,
+            "title": "Cipe Pineles",
+            "href": "http://adcglobal.org/hall-of-fame/cipe-pineles-burtin/",
+            "description": "In the intervening years, Miss Pineles became one of the most highly acclaimed magazine art directors and graphic designers in the country. She worked as design consultant for New York’s Lincoln Center, and as director of publication design at Parsons School of Design. She was born in Vienna, attended high school in Brooklyn, and went to Pratt Institute, where she won a Louis Comfort Tiffany Foundation Scholarship. In 1947, she moved to Seventeen as art director, introducing there the commissioning of leading painters to do fiction illustration."
+          },
+          {
+            "number": "1.1.2",
+            "type": "research",
+            "category": "designer",
+            "em": false,
+            "title": "Alexey Brodovitch",
+            "href": "http://www.designishistory.com/1940/alexey-brodovitch/",
+            "description": "Alexey Brodovitch was a photographer, designer and teacher. However, he was most famous for his art direction, primarily for the magazine Harper's Bazaar. He spent his early life in and out of the military before spending time in Paris, which is where he began his career in the graphic arts. His first major success came after winning a poster competition for a local theater, the 2nd place poster was created by Picasso."
+          },
+          {
+            "number": "2.2.1",
+            "type": "research",
+            "category": "images",
+            "em": true,
+            "title": "Josef Müller-Brockmann Flickr Gallery",
+            "href": "https://www.flickr.com/photos/blankaposters/sets/72157605199393277/",
+            "description": ""
+          },
+          {
+            "number": "2.2.2",
+            "type": "research",
+            "category": "images",
+            "em": true,
+            "title": "Swiss Graphic Design History Flickr Gallery",
+            "href": "https://www.flickr.com/photos/20745656@N00/sets/72157594296535170/",
+            "description": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "Jun",
     "date": "10",
     "number": 38,
     "weekend": false,
-    "title": "Graphic Design History",
+    "title": "Graphic Design History Part I",
     "sum": "“Design is not Darwinian. It doesn't get better over time. Design simply reflects the culture and the period of time in which it was created. ” Learning about History of Graphic Design was something I was not fortunate enough to do at school. The Lynda.com course gave me a quick rundown of what I have missed and inspired me to buy 2 more books on this subject matter. If you know me personally, I am the least possible person who would like spending time read an old paper of art history, but this truly fascinates me by providing the context of why things look the way they do.",
     "levels": [
       {
