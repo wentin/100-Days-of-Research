@@ -2,6 +2,95 @@
   {
     "month": "Jun",
     "date": "12",
+    "number": 40,
+    "weekend": true,
+    "title": "Lenticular Printing",
+    "sum": "Remember those touristy gifts that show different pictures in different view angles? Turn out you can print them at home, with a purchase of lenticular lens on Amazon.com stack on your regular print, how amazing is that!",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "tech",
+            "category": "wikipedia",
+            "em": true,
+            "title": "Lenticular Printing",
+            "href": "https://en.wikipedia.org/wiki/Lenticular_printing",
+            "description": "Lenticular printing is a technology in which lenticular lenses (a technology that is also used for 3D displays) are used to produce printed images with an illusion of depth, or the ability to change or move as the image is viewed from different angles."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "tech",
+            "category": "art",
+            "em": false,
+            "title": "James Turrell: Hologram Series, Complex Squares, 2011",
+            "href": "http://www.artnet.com/artists/james-turrell/hologram-series-complex-squares-a-JrfcF9rUOIwFDFb3NEXZNA2",
+            "description": "Sculptures, Acrylic with laminated hologram, glass and mirror"
+          },
+          {
+            "number": "1.2",
+            "type": "tech",
+            "category": "wikipedia",
+            "em": true,
+            "title": "Lenticular Lens",
+            "href": "https://en.wikipedia.org/wiki/Lenticular_lens",
+            "description": "A lenticular lens is an array of magnifying lenses, designed so that when viewed from slightly different angles, different images are magnified. The most common example is the lenses used in lenticular printing, where the technology is used to give an illusion of depth, or to make images that appear to change or move as the image is viewed from different angles."
+          },
+          {
+            "number": "1.3",
+            "type": "tech",
+            "category": "list",
+            "em": false,
+            "title": "Articles and Tutorials on Lenticular Printing",
+            "href": "http://www.vicgi.com/lenticular-tutorials.html",
+            "description": "Although lenticular printing has been around for over a century, it never becomes popular until the last few years. ViCGI is releasing a series of articles, from the basic to advanced."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.3.1",
+            "type": "tech",
+            "category": "article",
+            "em": true,
+            "title": "3D Lenticular Printing Interlacing Algorithm Illustrated Using Photoshop",
+            "href": "http://www.vicgi.com/lenticular-interlacing-algorithm.html",
+            "description": "This article tries to demystify the underlying working of interlacing software. By understanding how pictures are interlaced and then combined, you will be able to appreciate the principles of lenticular printing better."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.3.1.1",
+            "type": "tech",
+            "category": "wikipedia",
+            "em": false,
+            "title": "Binocular Disparity",
+            "href": "https://en.wikipedia.org/wiki/Binocular_disparity",
+            "description": "Binocular disparity refers to the difference in image location of an object seen by the left and right eyes, resulting from the eyes’ horizontal separation (parallax). The brain uses binocular disparity to extract depth information from the two-dimensional retinal images in stereopsis. In computer vision, binocular disparity refers to the difference in coordinates of similar features within two stereo images."
+          },
+          {
+            "number": "1.3.1.2",
+            "type": "tech",
+            "category": "shopping",
+            "em": false,
+            "title": "4x6//6 3D Lenticular Lens",
+            "href": "https://www.amazon.com/4x6-Lenticular-Lens-Blanks-Instructions/dp/B00YFXKO86",
+            "description": "4x6 3D Lenticular lens used for Photoshop CC, CS6 Extended and CS5 Extended; 60LPI Lenses with 35° Viewing Angle and .028\" Thickness. Optically Clear Adhesive already applied. Digital instructions available for free download."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "Jun",
+    "date": "11",
     "number": 39,
     "weekend": true,
     "title": "Graphic Design History Part II",
