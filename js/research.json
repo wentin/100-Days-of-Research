@@ -1,6 +1,163 @@
 [
   {
     "month": "Jun",
+    "date": "20",
+    "number": 41,
+    "weekend": true,
+    "title": "Printing Technologies",
+    "sum": "Taking a tour at woodside press during Typographics conference, I got the chance to witness how linotype machine works in person. In awe of how the technology works, I set out to find out how printing technology evolves. The other new fact I learned after the letterpress tour, is that even though China invented the first movable type technology, the modern printing technology was actually imported from Japan back to China. It is kind of irony but fact is fact. Always be humble and learn, and never stop innovation. Innovation like printing technology really changed the world and people’s lives forever.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "wikipedia",
+            "em": false,
+            "title": "Printing",
+            "href": "https://en.wikipedia.org/wiki/Printing",
+            "description": "Printing is a process for reproducing text and images using a master form or template. The earliest examples include Cylinder seals and other objects such as the Cyrus Cylinder and the Cylinders of Nabonidus. The earliest known form of woodblock printing came from China dating to before 220 A.D. Later developments in printing include the movable type, first developed by Bi Sheng in China. Johannes Gutenberg introduced mechanical movable type printing to Europe in the 15th century. His printing press played a key role in the development of the Renaissance, Reformation, the Age of Enlightenment, and the scientific revolution and laid the material basis for the modern knowledge-based economy and the spread of learning to the masses."
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "wikipedia",
+            "em": false,
+            "title": "Linotype Machine",
+            "href": "https://en.wikipedia.org/wiki/Linotype_machine",
+            "description": "The linotype machine is a \"line casting\" machine used in printing. Along with letterpress printing, linotype was the industry standard for newspapers, magazines and posters from the late 19th century to the 1960s and 70s, when it was largely replaced by offset lithography printing and computer typesetting. The name of the machine comes from the fact that it produces an entire line of metal type at once, hence a line-o'-type, a significant improvement over the previous industry standard, i.e., manual, letter-by-letter typesetting using a composing stick and drawers of letters."
+          },
+          {
+            "number": "3",
+            "type": "research",
+            "category": "wikipedia",
+            "em": false,
+            "title": "Monotype System",
+            "href": "https://en.wikipedia.org/wiki/Monotype_System",
+            "description": "The Monotype system is system for printing by hot-metal typesetting from a keyboard. The two most significant differences from the competing Linotype machine are: 1. It is divided into two machines, the Monotype keyboard and the Monotype caster, which communicate by perforated paper tape. It is not necessary to have the same number of each machine. 2. The Monotype caster casts individual letters, which are assembled into lines in a fashion similar to classical movable type. This requires a more complex high-speed water-cooled casting mold, but only requires one matrix per possible character."
+          },
+          {
+            "number": "4",
+            "type": "research",
+            "category": "museum",
+            "em": false,
+            "title": "Bowne Print Shops & Maritime Craft Center",
+            "href": "https://southstreetseaportmuseum.org/water-street/",
+            "description": "We welcome you to visit our locations on Water Street offering recreations of working letterpress shops as well as examples of the craftsmanship essential to 19th century New York:"
+          },
+          {
+            "number": "5",
+            "type": "research",
+            "category": "museum",
+            "em": false,
+            "title": "Plantin-Moretus Museum (in Belgium)",
+            "href": "http://www.museumplantinmoretus.be/en/page/welcome-premises-plantin-and-moretus-family",
+            "description": "The Plantin-Moretus Museum is a museum in Antwerp, Belgium honouring the printers Christophe Plantin and Jan Moretus. It is located in their former residence and printing establishment, Plantin Press, at the Friday Market. The printing company was founded in the 16th century by Christophe Plantin, who obtained type from the leading typefounders of the day in Paris. Plantin was a major figure in contemporary printing with interests in humanism; his eight-volume, multi-language Plantin Polyglot Bible with Hebrew, Aramaic, Greek and Syriac texts was one of the most complex productions of the period."
+          },
+          {
+            "number": "6",
+            "type": "research",
+            "category": "shop",
+            "em": false,
+            "title": "Woodside Press",
+            "href": "http://www.woodsidepress.com/",
+            "description": "Welcome to Woodside Press, a traditional letterpress printing studio located in New York City's historic Brooklyn Navy Yard. We create printed items of the highest quality for individual, business, and institutional clients. To the graphic-design community we offer typesetting and type-reproduction services, and we are also New York City's leading facility for hot-metal typography, with Linotype and Ludlow typecasting machines and an impressive range of classic and decorative typefaces."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "research",
+            "category": "wikipedia",
+            "em": false,
+            "title": "Movable Type",
+            "href": "https://en.wikipedia.org/wiki/Movable_type",
+            "description": "Movable type is the system of printing and typography that uses movable components to reproduce the elements of a document (usually individual letters or punctuation)."
+          },
+          {
+            "number": "1.2",
+            "type": "research",
+            "category": "wikipedia",
+            "em": false,
+            "title": "History of Printing",
+            "href": "https://en.wikipedia.org/wiki/History_of_printing?oldformat=true",
+            "description": "The history of printing goes back to the duplication of images by means of stamps in very early times. The use of round seals for rolling an impression into clay tablets goes back to early Mesopotamian civilization before 3000 BCE, where they are the most common works of art to survive, and feature complex and beautiful images. In both China and Egypt, the use of small stamps for seals preceded the use of larger blocks. In China, India and Europe, the printing of cloth certainly preceded the printing of paper or papyrus. The process is essentially the same - in Europe special presentation impressions of prints were often printed on silk until the seventeenth century. The development of printing has made it possible for books, newspapers, magazines, and other reading materials to be produced in great numbers, and it plays an important role in promoting literacy among the masses."
+          },
+          {
+            "number": "1.3",
+            "type": "research",
+            "category": "wikipedia",
+            "em": false,
+            "title": "Letterpress Printing",
+            "href": "https://en.wikipedia.org/wiki/Letterpress_printing",
+            "description": "Letterpress printing is a technique of relief printing using a printing press, a process by which many copies are produced by repeated direct impression of an inked, raised surface against sheets or a continuous roll of paper.[1] A worker composes and locks movable type into the \"bed\" or \"chase\" of a press, inks it, and presses paper against it to transfer the ink from the type which creates an impression on the paper."
+          },
+          {
+            "number": "1.4",
+            "type": "research",
+            "category": "wikipedia",
+            "em": false,
+            "title": "Offset Printing",
+            "href": "https://en.wikipedia.org/wiki/Offset_printing",
+            "description": "Offset printing is a commonly used printing technique in which the inked image is transferred (or “offset”) from a plate to a rubber blanket, then to the printing surface. When used in combination with the lithographic process, which is based on the repulsion of oil and water, the offset technique employs a flat (planographic) image carrier on which the image to be printed obtains ink from ink rollers, while the non-printing area attracts a water-based film (called “fountain solution”), keeping the non-printing areas ink-free. The modern “web” process feeds a large reel of paper through a large press machine in several parts, typically for several metres, which then prints continuously as the paper is fed through."
+          },
+          {
+            "number": "1.5",
+            "type": "research",
+            "category": "wikipedia",
+            "em": false,
+            "title": "Screen Printing",
+            "href": "https://en.wikipedia.org/wiki/Screen_printing",
+            "description": "Screen printing is a printing technique whereby a mesh is used to transfer ink onto a substrate, except in areas made impermeable to the ink by a blocking stencil. A blade or squeegee is moved across the screen to fill the open mesh apertures with ink, and a reverse stroke then causes the screen to touch the substrate momentarily along a line of contact. This causes the ink to wet the substrate and be pulled out of the mesh apertures as the screen springs back after the blade has passed."
+          },
+          {
+            "number": "1.6",
+            "type": "research",
+            "category": "wikipedia",
+            "em": false,
+            "title": "3D Printing",
+            "href": "https://en.wikipedia.org/wiki/3D_printing",
+            "description": "3D printing, also known as additive manufacturing (AM), refers to various processes used to synthesize a three-dimensional object. In 3D printing, successive layers of material are formed under computer control to create an object.[2] These objects can be of almost any shape or geometry and are produced from a 3D model or other electronic data source. A 3D printer is a type of industrial robot."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.2.1",
+            "type": "research",
+            "category": "wikipedia",
+            "em": false,
+            "title": "Woodblock Printing",
+            "href": "https://en.wikipedia.org/wiki/Woodblock_printing",
+            "description": "Woodblock printing is a technique for printing text, images or patterns used widely throughout East Asia and originating in China in antiquity as a method of printing on textiles and later paper. As a method of printing on cloth, the earliest surviving examples from China date to before 220, and woodblock printing remained the most common East Asian method of printing books and other texts, as well as images, until the 19th century. Ukiyo-e is the best known type of Japanese woodblock art print. Most European uses of the technique for printing images on paper are covered by the art term woodcut, except for the block-books produced mainly in the 15th century."
+          },
+          {
+            "number": "1.2.2",
+            "type": "research",
+            "category": "wikipedia",
+            "em": false,
+            "title": "Printing Press",
+            "href": "https://en.wikipedia.org/wiki/Printing_press",
+            "description": "A printing press is a device for applying pressure to an inked surface resting upon a print medium (such as paper or cloth), thereby transferring the ink. Typically used for texts, the invention and spread of the printing press was one of the most influential events in the second millennium[1] revolutionizing the way people conceive and describe the world they live in, and ushering in the period of modernity.[2]"
+          },
+          {
+            "number": "1.2.3",
+            "type": "research",
+            "category": "wikipedia",
+            "em": false,
+            "title": "Rotary Printing Press",
+            "href": "https://en.wikipedia.org/wiki/Rotary_printing_press",
+            "description": "A rotary printing press is a printing press in which the images to be printed are curved around a cylinder. Printing can be done on large number of substrates, including paper, cardboard, and plastic. Substrates can be sheet feed or unwound on a continuous roll through the press to be printed and further modified if required (e.g. die cut, overprint varnished, embossed). Printing presses that use continuous rolls are sometimes referred to as \"web presses\"."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "Jun",
     "date": "12",
     "number": 40,
     "weekend": true,
