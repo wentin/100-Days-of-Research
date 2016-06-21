@@ -1,9 +1,134 @@
 [
   {
     "month": "Jun",
+    "date": "21",
+    "number": 42,
+    "weekend": false,
+    "title": "Typographics 2016",
+    "sum": "I went to Typographics conference last week. It was an amazing experience. I got to meet a lot of people behind those excellent minds I read from on the Internet and was honorred to have the chance to present a few of my personal project including this research project at TypeLab. Here are a few highlight talks and designers from the conference I would like to check out later.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "research",
+            "category": "event",
+            "em": true,
+            "title": "Typographics: a Design Festival for People Who Use Type",
+            "href": "http://2016.typographics.com/",
+            "description": "Typographics is an 11-day design festival devoted to contemp­orary typo­graphy, with talks, work­shops, and tours focusing on where typo­graphy is today and where its future may lie. It will be held at The Cooper Union in New York City."
+          },
+          {
+            "number": "2",
+            "type": "research",
+            "category": "event",
+            "em": false,
+            "title": "TypeCon",
+            "href": "http://www.typecon.com/",
+            "description": "TypeCon is an annual conference presented by the non-profit Society of Typographic Aficionados (SOTA), an international organization dedicated to the promotion, study, and support of typography and related arts. Since the inaugural conference in 1998, TypeCon has explored type for the screen, printing history, Dutch design, type in motion, Arabic calligraphy, the American Arts and Crafts movement, experimental typography, webfonts, and much more. Special events include the Type & Design Education Forum, and an exhibition of international type and design."
+          },
+          {
+            "number": "3",
+            "type": "research",
+            "category": "event",
+            "em": false,
+            "title": "ATypI Warsaw 2016",
+            "href": "http://www.atypi.org/conferences/atypi-warsaw-2016",
+            "description": "ATypI welcomes you to its 60th annual conference! Join the global typographic community in Warsaw, Poland, 13–17 September 2016. The theme of ATypI’s 2016 conference is “Convergence”. The wider design world and mainstream channels increasingly recognise typeface design as a fundamental element in communication, with profound implications for learning, work, and entertainment. We invite attendees to explore the ways in which the typographic community is advancing the field and shaping the future of our interactions with text."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "research",
+            "category": "event",
+            "em": true,
+            "title": "TypeLab",
+            "href": "http://2016.typographics.com/typelab/",
+            "description": "This year Typographics will host another edition of the TypeLab — a series of live, hands-on workshops, demos, and experiments organized by Petr van Blokland. A preliminary listing of the TypeLab events is now live, but please note that — according to TypeLab tradition — the schedule is subject to change at any moment."
+          },
+          {
+            "number": "1.2",
+            "type": "research",
+            "category": "talk",
+            "em": false,
+            "title": "Present Continuous: Reflections on Chinese Typography",
+            "href": "http://2016.typographics.com/schedule/present-continuous-reflections-on-chinese-typography/",
+            "description": "To evaluate the uneven, non-linear history of Chinese typography is to reevaluate the notion of typography itself: tradition and precedence, image versus text, and machine versus the hand. Chinese type radically reconfigures these assumptions and creates conditions difficult for its visual expression. How might we begin to solve these challenges and find new ways of making?"
+          },
+          {
+            "number": "1.3",
+            "type": "research",
+            "category": "talk",
+            "em": false,
+            "title": "Typographic Excellence!",
+            "href": "http://2016.typographics.com/schedule/typographic-excellence/",
+            "description": "Typography’s role in editorial design is different compared to its role in advertising or branding. Instead of dictating that something is “worth one’s money” or “promises to make one’s life better”, typography is used in editorial design to help tell complicated stories about injustice, inequality or misappropriations of power in the world. In order to tell those stories, Bloomberg Businessweek makes no distinctions between “good” typefaces and “bad” typefaces, and sees all typography as ingredients in the makeup of the visual culture that surrounds us."
+          },
+          {
+            "number": "1.4",
+            "type": "research",
+            "category": "designer",
+            "em": false,
+            "title": "Indra Kupferschmid",
+            "href": "http://kupferschrift.de/",
+            "description": "Indra Kupferschmid is a freelance typographer and professor at HBKsaar, University of Arts Saarbrücken, at the German South-West border to France. Fueled by specimen books and coffee, she is occupied with type around the clock and in all its incarnations – webfonts, bitmap fonts, other fonts, type history, research, marketing, DIN committees, design work, and any combination of this. She is co-author of Helvetica Forever by Lars Müller Publishers and other typographic reference books. She consults for the type and design industry and everyone who needs help choosing fonts, writes for magazines, books, and websites/blogs, stirs up things at alphabettes.org, alongside juggling her own small and ultralarge-scale ventures."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.2.1",
+            "type": "research",
+            "category": "studio",
+            "em": true,
+            "title": "Synoptic Office",
+            "href": "http://synopticoffice.com/index.php",
+            "description": "Synoptic Office is a multidisciplinary design studio operating in the space between graphic, interaction, spatial and product design. The studio's work has been exhibited internationally and has been recognized by Fast Company Design, iDn, Neshan, Etapes, It's Nice That, and the Muckenthaler Gallery. Synoptic Office was selected to participate in BIO23, the 23rd Biennial of Design at the Museum of Architecture and Design in Ljubljana, Slovenia and has exhibited at the Ningbo Museum of Art in China."
+          },
+          {
+            "number": "1.3.1",
+            "type": "research",
+            "category": "designer",
+            "em": true,
+            "title": "Tracy Ma",
+            "href": "http://tracyma.com/",
+            "description": "Hong Kong-born, Canadian graphic designer Tracy Ma is the deputy creative director of Bloomberg Businessweek. She grew up in Toronto after moving there in 1996, and graduated from York University with a bachelor of design with honors in 2010. At Bloomberg Businessweek she oversees the weekly production of the magazine from cover to cover. She also leads the art direction for the magazine’s annual Design Conference. Her work has been recognized by the Type Directors Club, the Society of Print Designers, D&AD, Print magazine’s “20 under 30” and Complex magazine’s “25 Young Designers to Watch”. She lives in Chinatown, New York."
+          },
+          {
+            "number": "1.4.1",
+            "type": "research",
+            "category": "article",
+            "em": false,
+            "title": "Type Classifications Are Useful, but the Common Ones Are Not",
+            "href": "http://kupferschrift.de/cms/2012/03/on-classifications/",
+            "description": "Until around 1900 only the slightest to no attempts where made to classify typefaces. Rather it was considered “redundant, impossible or utterly inconvenient”. One of the earliest endeavors was the system proposed by Francis Thibaudeau in 1921. It is solely based on the form of the serifs (as later did Aldo Novarese in 1964), which I regard less ideal, but up until this stage in type history, it admittedly was a characteristic feature distinguishing the different style periods rather fittingly. [schemes for “Uppercase” and “Lowercase”]"
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.4.1.1",
+            "type": "research",
+            "category": "article",
+            "em": true,
+            "title": "Making Sense Of Type Classification (Part 1)",
+            "href": "https://www.smashingmagazine.com/2013/04/making-sense-type-classification-part-1/",
+            "description": "Everyone knows their serifs and sans, slabs and scripts, but most classifications go much deeper than that. Type classification, while helpful, is often convoluted, confusing and even controversial. This article, distilling some of the complexities into a more understandable format, lands somewhere in the middle between the basics and genuine type nerdery — the perfect level for a practicing designer."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "Jun",
     "date": "20",
     "number": 41,
-    "weekend": true,
+    "weekend": false,
     "title": "Printing Technologies",
     "sum": "Taking a tour at woodside press during Typographics conference, I got the chance to witness how linotype machine works in person. In awe of how the technology works, I set out to find out how printing technology evolves. The other new fact I learned after the letterpress tour, is that even though China invented the first movable type technology, the modern printing technology was actually imported from Japan back to China. It is kind of irony but fact is fact. Always be humble and learn, and never stop innovation. Innovation like printing technology really changed the world and people’s lives forever.",
     "levels": [
