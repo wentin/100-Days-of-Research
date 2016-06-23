@@ -1,6 +1,145 @@
 [
   {
     "month": "Jun",
+    "date": "22",
+    "number": 43,
+    "weekend": false,
+    "title": "Math and Art: Spirograph",
+    "sum": "I didn't grow up in the United States, yet Spirograph was part of my childhood too. Math has no borders, it sounds cheesy but it is true. The beauty of math can be observed in many forms, spirograph is one of them.",
+    "levels": [
+      {
+        "links": [
+          {
+            "number": "1",
+            "type": "tech",
+            "category": "wikipedia",
+            "em": true,
+            "title": "Spirograph",
+            "href": "https://en.wikipedia.org/wiki/Spirograph",
+            "description": "Spirograph is a geometric drawing toy that produces mathematical roulette curves of the variety technically known as hypotrochoids and epitrochoids. It was developed by British engineer Denys Fisher and first sold in 1965."
+          },
+          {
+            "number": "2",
+            "type": "tech",
+            "category": "article",
+            "em": true,
+            "title": "Shawn Yang Uses Giant Spirograph to Make Home Accessories",
+            "href": "http://www.dezeen.com/2016/06/22/shawn-yang-giant-spirograph-lab-machine-home-accessories-homeware-graduate-design/",
+            "description": "Graduate shows 2016: Taiwanese designer Shawn Yang has created a giant version of a Spirograph toy that makes three-dimensional patterns on homeware. The Spirograph Lab is based on a toy of the same name, which is used to draw petal-shaped concentric patterns using interlocking plastic cogs and toothed rings to guide a pen."
+          },
+          {
+            "number": "3",
+            "type": "tech",
+            "category": "app",
+            "em": true,
+            "title": "Nathanfriend: Spirograph",
+            "href": "http://nathanfriend.io/inspirograph/",
+            "description": "Spirograph is a geometric drawing toy that produces mathematical roulette curves of the variety technically known as hypotrochoids and epitrochoids. It was developed by British engineer Denys Fisher and first sold in 1965."
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1",
+            "type": "tech",
+            "category": "wikipedia",
+            "em": false,
+            "title": "Roulette (curve)",
+            "href": "https://en.wikipedia.org/wiki/Roulette_(curve)",
+            "description": "Roughly speaking, a roulette is the curve described by a point (called the generator or pole) attached to a given curve as that curve rolls without slipping, along a second given curve that is fixed. More precisely, given a curve attached to a plane which is moving so that the curve rolls, without slipping, along a given curve attached to a fixed plane occupying the same space, then a point attached to the moving plane describes a curve, in the fixed plane called a roulette."
+          },
+          {
+            "number": "1.2",
+            "type": "tech",
+            "category": "wikipedia",
+            "em": false,
+            "title": "Denys Fisher",
+            "href": "https://en.wikipedia.org/wiki/Denys_Fisher",
+            "description": "Denys Fisher (11 May 1918 – 17 September 2002) was an English engineer who invented the spirograph toy and created the company Denys Fisher Toys."
+          },
+          {
+            "number": "1.3",
+            "type": "tech",
+            "category": "wikipedia",
+            "em": false,
+            "title": "Bruno Abakanowicz",
+            "href": "https://en.wikipedia.org/wiki/Bruno_Abakanowicz",
+            "description": "Bruno Abdank-Abakanowicz (6 October 1852 – 29 August 1900) was a Polish mathematician, inventor and electrical engineer. Earlier he invented the integraph, a form of the integrator, which was patented in 1880,[3] and was henceforth produced by the Swiss firm Coradi.[4] Among his other patents were the parabolagraph, the spirograph, the electric bell used in trains, and an electric arc lamp of his own design.[5] Abakanowicz published several works, including works on statistics, integrators and numerous popular scientific works, such as one describing his integraph."
+          },
+          {
+            "number": "3.1",
+            "type": "tech",
+            "category": "app",
+            "em": false,
+            "title": "Mathiversity: Online Spirograph",
+            "href": "http://mathiversity.com/online-spirograph/app",
+            "description": ""
+          },
+          {
+            "number": "3.2",
+            "type": "tech",
+            "category": "app",
+            "em": false,
+            "title": "Math Playground: Spirograph",
+            "href": "http://www.mathplayground.com/Spiromath.html",
+            "description": ""
+          },
+          {
+            "number": "3.3",
+            "type": "tech",
+            "category": "app",
+            "em": false,
+            "title": "Artbylogic: Spirograph Art",
+            "href": "http://www.artbylogic.com/parametricart/spirograph/spirograph.htm",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "number": "1.1.1",
+            "type": "tech",
+            "category": "wikipedia",
+            "em": false,
+            "title": "Hypotrochoid",
+            "href": "https://en.wikipedia.org/wiki/Hypotrochoid",
+            "description": "A hypotrochoid is a roulette traced by a point attached to a circle of radius r rolling around the inside of a fixed circle of radius R, where the point is a distance d from the center of the interior circle."
+          },
+          {
+            "number": "1.1.2",
+            "type": "tech",
+            "category": "wikipedia",
+            "em": false,
+            "title": "Epitrochoid",
+            "href": "https://en.wikipedia.org/wiki/Epitrochoid",
+            "description": "An epitrochoid (/ɛpᵻˈtrɒkɔɪd/ or /ɛpᵻˈtroʊkɔɪd/) is a roulette traced by a point attached to a circle of radius r rolling around the outside of a fixed circle of radius R, where the point is a distance d from the center of the exterior circle."
+          },
+          {
+            "number": "3.3.1",
+            "type": "tech",
+            "category": "article",
+            "em": true,
+            "title": "Processing Spirograph",
+            "href": "http://samjbrenner.com/notes/processing-spirograph/",
+            "description": "I was showing some of my Processing experiments to classmates here at ITP and it was asked – nay, demanded – that I post about them on my blog. So I’ll kick things off with this little Spirograph-inspired play-thing, which creates some pretty beautiful objects with a relatively small amount of code:"
+          },
+          {
+            "number": "3.3.2",
+            "type": "tech",
+            "category": "collection",
+            "em": true,
+            "title": "OpenProcessing: Spirograph",
+            "href": "http://www.openprocessing.org/browse/?viewBy=tags&tag=spirograph",
+            "description": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "Jun",
     "date": "21",
     "number": 42,
     "weekend": false,
