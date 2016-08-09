@@ -1,14 +1,24 @@
 [
   {
-    "month": "Jul",
-    "date": "00",
+    "month": "Jul, Aug",
+    "date": "",
     "number": 44,
     "weekend": false,
-    "title": "Project Paused for Europe Trip in July",
-    "sum": "I am currently on a trip and have to pause this project for the duration of the trip. Back to regular program in early August! If I feel super inspired during the trip, I will add some material meanwhile.",
+    "title": "Project Paused",
+    "sum": "",
     "levels": [
       {
-        "links": []
+        "links": [
+          {
+            "number": "1",
+            "type": "tech",
+            "category": "notice",
+            "em": true,
+            "title": "Project Paused for Europe/China Trip in July and August",
+            "href": "http://giphy.com/gifs/reaction-oh-no-you-didnt-AcpwwPM148WIg",
+            "description": "I am currently on a trip and have to pause this project for the duration of the trip. Back to regular program in early August! If I feel super inspired during the trip, I will add some material meanwhile. Update: I throwed my passport into the washing machine, currently stuck in China for another month or so and not going to return to regular design research programming until I come back to New York in late August or Early September. :( Tip: always check your pocket before doing your laundry!"
+          }
+        ]
       }
     ]
   },
@@ -1010,6 +1020,15 @@
             "title": "Karl Gerstner — Designing Programmes",
             "href": "https://runemadsen.com/blog/karl-gerstner-designing-programmes/",
             "description": "Karl Gerstner’s work is a milestone in the history of design. One of his most important works is Designing Programmes, which is presented here in a new edition of the original 1964 publication. In four essays, the author provides a basic introduction to his design methodology. Instead of set recipes, the method suggests a model for design in the early days of the computer era."
+          },
+          {
+            "number": "1.3",
+            "type": "tech",
+            "category": "product",
+            "em": true,
+            "title": "Declarative Design Tools: René",
+            "href": "http://www.jon.gold/2016/05/robot-design-school/",
+            "description": "René is the tool I’ve been working on since leaving The Grid in February. It’s a design tool like those you’ve used before: it has artboards and layers, fonts, colors, border radiuses; all the bits & pieces you might expect to see:"
           }
         ]
       },
@@ -3112,6 +3131,15 @@
             "title": "A Design Perspective on Hillary Clinton’s 2016 Logo",
             "href": "http://www.brandchannel.com/2015/04/13/hillary-clinton-logo-150413/",
             "description": "Before judging Team Hillary’s campaign logo, let’s take a step back and look at it in context. For a start, the full competitive set of logos in the 2016 US election campaign isn’t out yet, as Christie, Chafee, Bush and O’Malley have not formally announced."
+          },
+          {
+            "number": "5",
+            "type": "research",
+            "category": "project",
+            "em": false,
+            "title": "Hey, Gary.\nLet's Talk.",
+            "href": "http://stickquarterly.com/gary/",
+            "description": "So, we at SPARK, creators of brands and tireless seekers of great stories, wondered - what if we created a presidential brand based on these consumer insights? Putting our personal politics aside, it’s our job as marketers to find the story and present it in a compelling way. Knowing that consumers were seeking this middle-ground candidate, we decided to design a campaign that reflected this positioning."
           }
         ]
       },
@@ -4224,11 +4252,7 @@
             "title": "jumble",
             "href": "https://github.com/vonKristoff/jumble",
             "description": "A jQuery plugin that jumbles up the colours of your text headers, and can also animate them. Choose a colour range for the colours to be jumbled amongst, and set params for whether the shuffle is based on brightness or satuation hue."
-          }
-        ]
-      },
-      {
-        "links": [
+          },
           {
             "number": "16",
             "type": "tech",
@@ -4237,7 +4261,11 @@
             "title": "CircleType.js",
             "href": "http://circletype.labwire.ca/",
             "description": "CircleType.js is a tiny (2kb) jQuery plugin that lets you curve type on the web."
-          },
+          }
+        ]
+      },
+      {
+        "links": [
           {
             "number": "17",
             "type": "tech",
@@ -4291,11 +4319,7 @@
             "title": "FlowType.JS",
             "href": "http://simplefocus.com/flowtype/",
             "description": "Ideally, the most legible typography contains between 45 and 75 characters per line. This is difficult to accomplish for all screen widths with only CSS media-queries. FlowType.JS eases this difficulty by changing the font-size based on a specific element's width. This allows for a perfect character count per line at any screen width."
-          }
-        ]
-      },
-      {
-        "links": [
+          },
           {
             "number": "23",
             "type": "tech",
@@ -4304,7 +4328,11 @@
             "title": "Kerning.js",
             "href": "http://kerningjs.com/",
             "description": "Print designers have had it easy for way too long. This is 2014; the web has been around for over two decades, yet web designers don’t get full control over their typography? Forget that, use Kerning.js!"
-          },
+          }
+        ]
+      },
+      {
+        "links": [
           {
             "number": "24",
             "type": "tech",
@@ -4331,6 +4359,15 @@
             "title": "Designing Obsidian with Andy Clymer",
             "href": "https://vimeo.com/124062807",
             "description": "Designers of type and lettering make use of custom tools to draw and manufacture their product, this is as true today as it was in the time of punchcutting and steelplate engraving. After the design of the Surveyor family of typefaces came to a close, an exploration was made into finding an approach where custom tools could be used to help prototype the kinds of highly intricate designs that may have been too complex to otherwise consider putting into development. This process led to the design of Obsidian, a typeface that is elaborately shaded in a style that makes reference to the same nineteenth century tradition of engraved lettering as Surveyor is rooted in. Andy Clymer, a senior designer at Hoefler & Co. and instructor in the Type@Cooper program, will share a look at the design process, the custom tools involved, and some of the unexpected challenges and discoveries found while designing Obsidian."
+          },
+          {
+            "number": "27",
+            "type": "tech",
+            "category": "project",
+            "em": false,
+            "title": "glyphdiff",
+            "href": "https://glyphdiff.yuki.rocks/",
+            "description": "glyphdiff is a simple tool comparing the differences of two fonts on given glyphs."
           }
         ]
       }
