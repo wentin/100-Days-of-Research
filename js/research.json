@@ -1,28 +1,5 @@
 [
   {
-    "month": "Jul, Aug",
-    "date": "",
-    "number": 44,
-    "weekend": false,
-    "title": "Project Paused",
-    "sum": "",
-    "levels": [
-      {
-        "links": [
-          {
-            "number": "1",
-            "type": "tech",
-            "category": "notice",
-            "em": true,
-            "title": "Project Paused for Europe/China Trip in July and August",
-            "href": "http://giphy.com/gifs/reaction-oh-no-you-didnt-AcpwwPM148WIg",
-            "description": "I am currently on a trip and have to pause this project for the duration of the trip. Back to regular program in early August! If I feel super inspired during the trip, I will add some material meanwhile. Update: I throwed my passport into the washing machine, currently stuck in China for another month or so and not going to return to regular design research programming until I come back to New York in late August or Early September. :( Tip: always check your pocket before doing your laundry!"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "month": "Jun",
     "date": "22",
     "number": 43,
